@@ -1,0 +1,576 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-04-01T08:42:37.780+02:00
+  initializedAtString: 2019-04-01T08:14:14.775+02:00
+  log:
+  - commitID: 7af299eccecd61b6134f14338a9420f56071a4b2
+    mergeA: 
+    mergeB: 
+    authorName: Grajfo
+    authorEmail: zan.grajfoner.1996@gmail.com
+    commitEmail: zan.grajfoner.1996@gmail.com
+    commitName: Grajfo
+    summary: Library
+    description: 
+    timeString: 2019-04-01T08:37:17.000+02:00
+    commitTimeString: 2019-04-01T08:37:17.000+02:00
+    changes:
+    - path: Assets\MAINGUI.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\MAINGUI.meta
+      projectPath: Assets\MAINGUI.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\MAINGUI\MainGUI.unity
+      fullPath: D:\Projekti\Unity\The game\Assets\MAINGUI\MainGUI.unity
+      projectPath: Assets\MAINGUI\MainGUI.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\MAINGUI\MainGUI.unity.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\MAINGUI\MainGUI.unity.meta
+      projectPath: Assets\MAINGUI\MainGUI.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong.meta
+      projectPath: Assets\Pong.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\BallMaterial.physicsMaterial2D
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\BallMaterial.physicsMaterial2D
+      projectPath: Assets\Pong\BallMaterial.physicsMaterial2D
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\BallMaterial.physicsMaterial2D.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\BallMaterial.physicsMaterial2D.meta
+      projectPath: Assets\Pong\BallMaterial.physicsMaterial2D.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Font.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Font.meta
+      projectPath: Assets\Pong\Font.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Font\pingpong.ttf
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Font\pingpong.ttf
+      projectPath: Assets\Pong\Font\pingpong.ttf
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Font\pingpong.ttf.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Font\pingpong.ttf.meta
+      projectPath: Assets\Pong\Font\pingpong.ttf.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Material.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Material.meta
+      projectPath: Assets\Pong\Material.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Material\Ball.png
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Material\Ball.png
+      projectPath: Assets\Pong\Material\Ball.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Material\Ball.png.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Material\Ball.png.meta
+      projectPath: Assets\Pong\Material\Ball.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Material\DottedLine.png
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Material\DottedLine.png
+      projectPath: Assets\Pong\Material\DottedLine.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Material\DottedLine.png.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Material\DottedLine.png.meta
+      projectPath: Assets\Pong\Material\DottedLine.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Material\Title.mat
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Material\Title.mat
+      projectPath: Assets\Pong\Material\Title.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Material\Title.mat.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Material\Title.mat.meta
+      projectPath: Assets\Pong\Material\Title.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Material\WallHorizontal.png
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Material\WallHorizontal.png
+      projectPath: Assets\Pong\Material\WallHorizontal.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Material\WallHorizontal.png.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Material\WallHorizontal.png.meta
+      projectPath: Assets\Pong\Material\WallHorizontal.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Material\WallVertical.png
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Material\WallVertical.png
+      projectPath: Assets\Pong\Material\WallVertical.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Material\WallVertical.png.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Material\WallVertical.png.meta
+      projectPath: Assets\Pong\Material\WallVertical.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Material\green.mat
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Material\green.mat
+      projectPath: Assets\Pong\Material\green.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Material\green.mat.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Material\green.mat.meta
+      projectPath: Assets\Pong\Material\green.mat.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Material\left_pallete.png
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Material\left_pallete.png
+      projectPath: Assets\Pong\Material\left_pallete.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Material\left_pallete.png.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Material\left_pallete.png.meta
+      projectPath: Assets\Pong\Material\left_pallete.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Material\right_pallete.png
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Material\right_pallete.png
+      projectPath: Assets\Pong\Material\right_pallete.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Material\right_pallete.png.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Material\right_pallete.png.meta
+      projectPath: Assets\Pong\Material\right_pallete.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Material\separator.png
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Material\separator.png
+      projectPath: Assets\Pong\Material\separator.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Material\separator.png.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Material\separator.png.meta
+      projectPath: Assets\Pong\Material\separator.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Prefab.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Prefab.meta
+      projectPath: Assets\Pong\Prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Prefab\Ball.prefab
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Prefab\Ball.prefab
+      projectPath: Assets\Pong\Prefab\Ball.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Prefab\Ball.prefab.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Prefab\Ball.prefab.meta
+      projectPath: Assets\Pong\Prefab\Ball.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Prefab\right_pallete.prefab
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Prefab\right_pallete.prefab
+      projectPath: Assets\Pong\Prefab\right_pallete.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Prefab\right_pallete.prefab.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Prefab\right_pallete.prefab.meta
+      projectPath: Assets\Pong\Prefab\right_pallete.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Prefab\right_pallete_AI.prefab
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Prefab\right_pallete_AI.prefab
+      projectPath: Assets\Pong\Prefab\right_pallete_AI.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Prefab\right_pallete_AI.prefab.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Prefab\right_pallete_AI.prefab.meta
+      projectPath: Assets\Pong\Prefab\right_pallete_AI.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Scenes.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Scenes.meta
+      projectPath: Assets\Pong\Scenes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Scenes\Pong_game.unity
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Scenes\Pong_game.unity
+      projectPath: Assets\Pong\Scenes\Pong_game.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Scenes\Pong_game.unity.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Scenes\Pong_game.unity.meta
+      projectPath: Assets\Pong\Scenes\Pong_game.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Scenes\Pong_game_AI.unity
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Scenes\Pong_game_AI.unity
+      projectPath: Assets\Pong\Scenes\Pong_game_AI.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Scenes\Pong_game_AI.unity.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Scenes\Pong_game_AI.unity.meta
+      projectPath: Assets\Pong\Scenes\Pong_game_AI.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Scenes\UI_Pong.unity
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Scenes\UI_Pong.unity
+      projectPath: Assets\Pong\Scenes\UI_Pong.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Scenes\UI_Pong.unity.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Scenes\UI_Pong.unity.meta
+      projectPath: Assets\Pong\Scenes\UI_Pong.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Sound.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Sound.meta
+      projectPath: Assets\Pong\Sound.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Sound\goal.wav
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Sound\goal.wav
+      projectPath: Assets\Pong\Sound\goal.wav
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Sound\goal.wav.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Sound\goal.wav.meta
+      projectPath: Assets\Pong\Sound\goal.wav.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Sound\left.wav
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Sound\left.wav
+      projectPath: Assets\Pong\Sound\left.wav
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Sound\left.wav.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Sound\left.wav.meta
+      projectPath: Assets\Pong\Sound\left.wav.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Sound\main_music.wav
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Sound\main_music.wav
+      projectPath: Assets\Pong\Sound\main_music.wav
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Sound\main_music.wav.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Sound\main_music.wav.meta
+      projectPath: Assets\Pong\Sound\main_music.wav.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Sound\main_sound.wav
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Sound\main_sound.wav
+      projectPath: Assets\Pong\Sound\main_sound.wav
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Sound\main_sound.wav.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Sound\main_sound.wav.meta
+      projectPath: Assets\Pong\Sound\main_sound.wav.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Sound\right.wav
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Sound\right.wav
+      projectPath: Assets\Pong\Sound\right.wav
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\Sound\right.wav.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\Sound\right.wav.meta
+      projectPath: Assets\Pong\Sound\right.wav.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\scripts.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\scripts.meta
+      projectPath: Assets\Pong\scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\scripts\AI_racket.cs
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\scripts\AI_racket.cs
+      projectPath: Assets\Pong\scripts\AI_racket.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\scripts\AI_racket.cs.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\scripts\AI_racket.cs.meta
+      projectPath: Assets\Pong\scripts\AI_racket.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\scripts\UI_PONG.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\scripts\UI_PONG.meta
+      projectPath: Assets\Pong\scripts\UI_PONG.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\scripts\UI_PONG\Ai_racket_menu.cs
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\scripts\UI_PONG\Ai_racket_menu.cs
+      projectPath: Assets\Pong\scripts\UI_PONG\Ai_racket_menu.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\scripts\UI_PONG\Ai_racket_menu.cs.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\scripts\UI_PONG\Ai_racket_menu.cs.meta
+      projectPath: Assets\Pong\scripts\UI_PONG\Ai_racket_menu.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\scripts\UI_PONG\Manager.cs
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\scripts\UI_PONG\Manager.cs
+      projectPath: Assets\Pong\scripts\UI_PONG\Manager.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\scripts\UI_PONG\Manager.cs.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\scripts\UI_PONG\Manager.cs.meta
+      projectPath: Assets\Pong\scripts\UI_PONG\Manager.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\scripts\UI_PONG\Menu_ball.cs
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\scripts\UI_PONG\Menu_ball.cs
+      projectPath: Assets\Pong\scripts\UI_PONG\Menu_ball.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\scripts\UI_PONG\Menu_ball.cs.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\scripts\UI_PONG\Menu_ball.cs.meta
+      projectPath: Assets\Pong\scripts\UI_PONG\Menu_ball.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\scripts\ball.cs
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\scripts\ball.cs
+      projectPath: Assets\Pong\scripts\ball.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\scripts\ball.cs.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\scripts\ball.cs.meta
+      projectPath: Assets\Pong\scripts\ball.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\scripts\main.cs
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\scripts\main.cs
+      projectPath: Assets\Pong\scripts\main.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\scripts\main.cs.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\scripts\main.cs.meta
+      projectPath: Assets\Pong\scripts\main.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\scripts\move_racket.cs
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\scripts\move_racket.cs
+      projectPath: Assets\Pong\scripts\move_racket.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\scripts\move_racket.cs.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\scripts\move_racket.cs.meta
+      projectPath: Assets\Pong\scripts\move_racket.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\scripts\tbwalls.cs
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\scripts\tbwalls.cs
+      projectPath: Assets\Pong\scripts\tbwalls.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\scripts\tbwalls.cs.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\scripts\tbwalls.cs.meta
+      projectPath: Assets\Pong\scripts\tbwalls.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\scripts\walls.cs
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\scripts\walls.cs
+      projectPath: Assets\Pong\scripts\walls.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Pong\scripts\walls.cs.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\Pong\scripts\walls.cs.meta
+      projectPath: Assets\Pong\scripts\walls.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\UFO.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\UFO.meta
+      projectPath: Assets\UFO.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\UFO\Script.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\UFO\Script.meta
+      projectPath: Assets\UFO\Script.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\UFO\Script\CameraMovement.cs
+      fullPath: D:\Projekti\Unity\The game\Assets\UFO\Script\CameraMovement.cs
+      projectPath: Assets\UFO\Script\CameraMovement.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\UFO\Script\CameraMovement.cs.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\UFO\Script\CameraMovement.cs.meta
+      projectPath: Assets\UFO\Script\CameraMovement.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\UFO\Script\Player_movement.cs
+      fullPath: D:\Projekti\Unity\The game\Assets\UFO\Script\Player_movement.cs
+      projectPath: Assets\UFO\Script\Player_movement.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\UFO\Script\Player_movement.cs.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\UFO\Script\Player_movement.cs.meta
+      projectPath: Assets\UFO\Script\Player_movement.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\UFO\Sprite.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\UFO\Sprite.meta
+      projectPath: Assets\UFO\Sprite.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\UFO\Sprite\Background.png
+      fullPath: D:\Projekti\Unity\The game\Assets\UFO\Sprite\Background.png
+      projectPath: Assets\UFO\Sprite\Background.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\UFO\Sprite\Background.png.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\UFO\Sprite\Background.png.meta
+      projectPath: Assets\UFO\Sprite\Background.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\UFO\Sprite\Pickup.png
+      fullPath: D:\Projekti\Unity\The game\Assets\UFO\Sprite\Pickup.png
+      projectPath: Assets\UFO\Sprite\Pickup.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\UFO\Sprite\Pickup.png.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\UFO\Sprite\Pickup.png.meta
+      projectPath: Assets\UFO\Sprite\Pickup.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\UFO\Sprite\UFO.png
+      fullPath: D:\Projekti\Unity\The game\Assets\UFO\Sprite\UFO.png
+      projectPath: Assets\UFO\Sprite\UFO.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\UFO\Sprite\UFO.png.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\UFO\Sprite\UFO.png.meta
+      projectPath: Assets\UFO\Sprite\UFO.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\UFO\Ufo_Game.unity
+      fullPath: D:\Projekti\Unity\The game\Assets\UFO\Ufo_Game.unity
+      projectPath: Assets\UFO\Ufo_Game.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\UFO\Ufo_Game.unity.meta
+      fullPath: D:\Projekti\Unity\The game\Assets\UFO\Ufo_Game.unity.meta
+      projectPath: Assets\UFO\Ufo_Game.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 79ef46008d10a2679dc14367b52316b649671b7f
+    mergeA: 
+    mergeB: 
+    authorName: Grajfo
+    authorEmail: zan.grajfoner.1996@gmail.com
+    commitEmail: zan.grajfoner.1996@gmail.com
+    commitName: Grajfo
+    summary: First game
+    description: 
+    timeString: 2019-04-01T08:34:31.000+02:00
+    commitTimeString: 2019-04-01T08:34:31.000+02:00
+    changes:
+    - path: Packages\manifest.json
+      fullPath: D:\Projekti\Unity\The game\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      status: 4
+      staged: 0
