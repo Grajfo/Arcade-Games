@@ -3,21 +3,33 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+
 public class ball : MonoBehaviour
 {
     private int counter = 0;
     public float speed;
     public Text scoreLeft;
     public Text scoreRight;
-    private int scorele = 0;
-    private int scoreri = 0;
     public Text winner_left;
     public Text winner_right;
-    private Random rnd = new Random();
+    private int scorele = 0;
+    private int scoreri = 0;
+    private string[] Check =  {"right", "left"};
+    private Random random = new Random();
     // Start is called before the first frame update
     void Start()
     {
-    GetComponent<Rigidbody2D>().velocity = Vector2.right * speed;
+        System.Random rd = new System.Random();
+        var st = rd.Next(Check.Length);
+        if (Check[st] == "right")
+        {
+            GetComponent<Rigidbody2D>().velocity = Vector2.right * speed;
+        }
+        else if(Check[st] == "left")
+        {
+            GetComponent<Rigidbody2D>().velocity = Vector2.left * speed;
+
+        }
     }
 
 
@@ -72,7 +84,7 @@ public class ball : MonoBehaviour
             GetComponent<SpriteRenderer>().color = get_color();
         }
 
-        else if(collision.gameObject.name == "right_pallete")
+        else if(collision.gameObject.name == "right_pallete" || collision.gameObject.name == "right_pallete_AI")
         {
             float y = hitFactor(transform.position,
                 collision.transform.position,
@@ -88,7 +100,7 @@ public class ball : MonoBehaviour
         {
             scorele += 1;
             scoreLeft.text = scorele.ToString();
-            speed = 60;
+            speed = 70;
             GetComponent<SpriteRenderer>().color = get_color();
             GameObject.FindWithTag("MainCamera").GetComponent<Camera>().backgroundColor = get_color();
             scoreLeft.color = get_color();
@@ -97,7 +109,7 @@ public class ball : MonoBehaviour
         {
             scoreri += 1;
             scoreRight.text = scoreri.ToString();
-            speed = 60;
+            speed = 70;
             GetComponent<SpriteRenderer>().color = get_color();
             GameObject.FindWithTag("MainCamera").GetComponent<Camera>().backgroundColor = get_color();
             scoreRight.color = get_color();

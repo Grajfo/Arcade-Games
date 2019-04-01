@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-04-01T08:39:37.835+02:00
-  initializedAtString: 2019-04-01T08:13:58.557+02:00
+  lastUpdatedAtString: 2019-04-01T12:32:37.642+02:00
+  initializedAtString: 2019-04-01T12:32:37.642+02:00
   currentGitRemote:
     name: Unity
     url: https://github.com/Grajfo/Unity.git
@@ -25,13 +25,13 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: Unity/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: Unity
+      url: https://github.com/Grajfo/Unity.git
+    trackingBranch: master
   currentConfigRemote:
     name: Unity
     url: https://github.com/Grajfo/Unity.git

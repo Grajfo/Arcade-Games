@@ -23,11 +23,12 @@ public class Ai_racket_menu : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-            var check = transform.position;
-            var targ = target.position;
-            Vector2 v2 = new Vector2(check.x, check.y);
-            Vector2 t2 = new Vector2(check.x, targ.y);
-            transform.position = Vector2.MoveTowards(v2, t2, speed * Time.deltaTime);       
+        var check = transform.position;
+        var targ = target.position;
+        Vector2 v2 = new Vector2(check.x, check.y);
+        Vector2 t2 = new Vector2(check.x, targ.y);
+        transform.position = Vector2.MoveTowards(v2, t2, speed * Time.deltaTime);
+        Debug.Log(speed);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

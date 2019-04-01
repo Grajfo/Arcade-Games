@@ -2628,7 +2628,7 @@ PrefabInstance:
     - target: {fileID: 5381954567732884512, guid: 16c1fbb2fa727d049be77f757f87f5f9,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 7.6
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5381954567732884512, guid: 16c1fbb2fa727d049be77f757f87f5f9,
         type: 3}
@@ -2695,12 +2695,18 @@ PrefabInstance:
       propertyPath: winner_right
       value: 
       objectReference: {fileID: 1102260390}
+    - target: {fileID: 5381954567732885471, guid: 16c1fbb2fa727d049be77f757f87f5f9,
+        type: 3}
+      propertyPath: speed
+      value: 70
+      objectReference: {fileID: 0}
     - target: {fileID: 5381954567732884515, guid: 16c1fbb2fa727d049be77f757f87f5f9,
         type: 3}
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 5381954567732885468, guid: 16c1fbb2fa727d049be77f757f87f5f9, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 16c1fbb2fa727d049be77f757f87f5f9, type: 3}
 --- !u!1 &1681869101
 GameObject:

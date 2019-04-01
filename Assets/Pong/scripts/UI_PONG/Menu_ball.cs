@@ -8,10 +8,10 @@ public class Menu_ball : MonoBehaviour
 
     private void Start()
     {
-        Debug.Log("zakaj ne dela");
         this.GetComponent<Rigidbody2D>().velocity = Vector2.right * speed;
     }
 
+    //Hit factor where the ball hits the racket
     float hitFactor(Vector2 ballPos, Vector2 racketPos, float racketHeight)
     {
         // ascii art:
@@ -22,6 +22,8 @@ public class Menu_ball : MonoBehaviour
         // || -1 <- at the bottom of the racket
         return (ballPos.y - racketPos.y) / racketHeight;
     }
+
+    // change color 
     private Color get_color()
     {
         Color Displayer = new Color(
@@ -34,6 +36,7 @@ public class Menu_ball : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        // for detecting ball with left racket and adding velocity to ball 
         if (collision.gameObject.name == "left_racket")
         {
             float y = hitFactor(transform.position,
@@ -45,6 +48,7 @@ public class Menu_ball : MonoBehaviour
             GetComponent<SpriteRenderer>().color = get_color();
         }
 
+        // for detecting ball with right racket and adding velocity to ball 
         else if (collision.gameObject.name == "right_racket")
         {
             float y = hitFactor(transform.position,

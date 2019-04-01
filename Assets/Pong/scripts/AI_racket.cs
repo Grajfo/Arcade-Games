@@ -6,6 +6,7 @@ public class AI_racket : MonoBehaviour
 {
     private Transform target;
     public float speed;
+    private int framecount = 0;
 
     private Color get_color()
     {
@@ -25,27 +26,32 @@ public class AI_racket : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        var targ = target.position;
+        framecount++;
+        if (framecount == 3)
+        {
+            var targ = target.position;
 
-        if (transform.position.y < 32f && transform.position.y > -32f)
-        {
-            var check = transform.position;
-            Vector2 v2 = new Vector2(60, check.y);
-            Vector2 t2 = new Vector2(60, targ.y);
-            transform.position = Vector2.MoveTowards(v2, t2, speed * Time.deltaTime);
-        }
-        else if(transform.position.y >= 32f)
-        {
-            Vector2 v2 = new Vector2(60, 31.9f);
-            Vector2 t2 = new Vector2(60, targ.y);
-            transform.position = Vector2.MoveTowards(v2, t2, speed * Time.deltaTime);
+            if (transform.position.y < 32f && transform.position.y > -32f)
+            {
+                var check = transform.position;
+                Vector2 v2 = new Vector2(60.50f, check.y);
+                Vector2 t2 = new Vector2(60.50f, targ.y);
+                transform.position = Vector2.MoveTowards(v2, t2, speed * Time.deltaTime);
+            }
+            else if (transform.position.y >= 32f)
+            {
+                Vector2 v2 = new Vector2(60.50f, 31.9f);
+                Vector2 t2 = new Vector2(60.50f, targ.y);
+                transform.position = Vector2.MoveTowards(v2, t2, speed * Time.deltaTime);
 
-        }
-        else if (transform.position.y <= -32f)
-        {
-            Vector2 v2 = new Vector2(60, -31.9f);
-            Vector2 t2 = new Vector2(60, targ.y);
-            transform.position = Vector2.MoveTowards(v2, t2, speed * Time.deltaTime);
+            }
+            else if (transform.position.y <= -32f)
+            {
+                Vector2 v2 = new Vector2(60.50f, -31.9f);
+                Vector2 t2 = new Vector2(60.50f, targ.y);
+                transform.position = Vector2.MoveTowards(v2, t2, speed * Time.deltaTime);
+            }
+            framecount = 0;
         }
     }
     private void OnCollisionEnter2D(Collision2D collision)
