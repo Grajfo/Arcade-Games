@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/UFO/Ufo_GUI.unity
+- path: Assets/MAINGUI/MainGUI.unity
   isLoaded: 1
   isActive: 1
