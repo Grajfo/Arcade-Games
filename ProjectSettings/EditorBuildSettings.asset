@@ -18,9 +18,15 @@ EditorBuildSettings:
     path: Assets/Pong/Scenes/Pong_game.unity
     guid: 7171577a0d7e98b4a98b27174fd4448e
   - enabled: 1
-    path: Assets/UFO/Ufo_GUI.unity
+    path: Assets/UFO/Scenes/Ufo_GUI.unity
     guid: 90b669953fcc30b4e982e0a408ebacea
   - enabled: 1
-    path: Assets/UFO/Ufo_Game.unity
+    path: Assets/UFO/Scenes/Level1.unity
     guid: d86c737e8914cbd4ea525ce2b0c4c02c
+  - enabled: 1
+    path: Assets/FlappyBird/FlappyGui.unity
+    guid: 4611206ce3b75604f943facb8fbf70c9
+  - enabled: 1
+    path: Assets/FlappyBird/Flappy.unity
+    guid: ba737ccf21d037040924799b9a1843f5
   m_configObjects: {}

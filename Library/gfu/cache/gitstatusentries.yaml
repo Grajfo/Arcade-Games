@@ -13,26 +13,32 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-04-03T12:25:41.896+02:00
-  initializedAtString: 2019-04-03T08:27:56.262+02:00
+  lastUpdatedAtString: 2019-04-03T15:34:57.298+02:00
+  initializedAtString: 2019-04-03T13:07:45.555+02:00
   entries:
-  - path: Assets\FlappyBird\Animations\BirdHero_0.controller
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Animations\BirdHero_0.controller
-    projectPath: Assets\FlappyBird\Animations\BirdHero_0.controller
+  - path: Assets\FlappyBird\345689__inspectorj__comedic-boing-a.wav
+    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\345689__inspectorj__comedic-boing-a.wav
+    projectPath: Assets\FlappyBird\345689__inspectorj__comedic-boing-a.wav
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Assets\FlappyBird\Animations\Die.anim
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Animations\Die.anim
-    projectPath: Assets\FlappyBird\Animations\Die.anim
+  - path: Assets\FlappyBird\345689__inspectorj__comedic-boing-a.wav.meta
+    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\345689__inspectorj__comedic-boing-a.wav.meta
+    projectPath: Assets\FlappyBird\345689__inspectorj__comedic-boing-a.wav.meta
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
-  - path: Assets\FlappyBird\Animations\Flap.anim
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Animations\Flap.anim
-    projectPath: Assets\FlappyBird\Animations\Flap.anim
+  - path: Assets\FlappyBird\Animations\Button.controller
+    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Animations\Button.controller
+    projectPath: Assets\FlappyBird\Animations\Button.controller
     originalPath: 
-    status: 3
+    status: 1
+    staged: 0
+  - path: Assets\FlappyBird\Animations\Button.controller.meta
+    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Animations\Button.controller.meta
+    projectPath: Assets\FlappyBird\Animations\Button.controller.meta
+    originalPath: 
+    status: 1
     staged: 0
   - path: Assets\FlappyBird\Flappy.unity
     fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Flappy.unity
@@ -44,119 +50,17 @@ MonoBehaviour:
     fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\FlappyGui.unity
     projectPath: Assets\FlappyBird\FlappyGui.unity
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\FlappyBird\FlappyGui.unity.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\FlappyGui.unity.meta
-    projectPath: Assets\FlappyBird\FlappyGui.unity.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\FlappyBird\Prefab.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Prefab.meta
-    projectPath: Assets\FlappyBird\Prefab.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\FlappyBird\Prefab\Columns.prefab
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Prefab\Columns.prefab
-    projectPath: Assets\FlappyBird\Prefab\Columns.prefab
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\FlappyBird\Prefab\Columns.prefab.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Prefab\Columns.prefab.meta
-    projectPath: Assets\FlappyBird\Prefab\Columns.prefab.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\FlappyBird\Scripts\ColumnPool.cs
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts\ColumnPool.cs
-    projectPath: Assets\FlappyBird\Scripts\ColumnPool.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\FlappyBird\Scripts\ColumnPool.cs.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts\ColumnPool.cs.meta
-    projectPath: Assets\FlappyBird\Scripts\ColumnPool.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\FlappyBird\Scripts\Columns.cs
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts\Columns.cs
-    projectPath: Assets\FlappyBird\Scripts\Columns.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\FlappyBird\Scripts\Columns.cs.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts\Columns.cs.meta
-    projectPath: Assets\FlappyBird\Scripts\Columns.cs.meta
-    originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Assets\FlappyBird\Scripts\GameControll.cs
     fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts\GameControll.cs
     projectPath: Assets\FlappyBird\Scripts\GameControll.cs
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\FlappyBird\Scripts\GameControll.cs.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts\GameControll.cs.meta
-    projectPath: Assets\FlappyBird\Scripts\GameControll.cs.meta
-    originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Assets\FlappyBird\Scripts\playerMovement.cs
     fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts\playerMovement.cs
     projectPath: Assets\FlappyBird\Scripts\playerMovement.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\FlappyBird\Scripts\ReapitingBackground.cs
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts\ReapitingBackground.cs
-    projectPath: Assets\FlappyBird\Scripts\ReapitingBackground.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\FlappyBird\Scripts\ReapitingBackground.cs.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts\ReapitingBackground.cs.meta
-    projectPath: Assets\FlappyBird\Scripts\ReapitingBackground.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\FlappyBird\Scripts\ScroollingObject.cs
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts\ScroollingObject.cs
-    projectPath: Assets\FlappyBird\Scripts\ScroollingObject.cs
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\FlappyBird\Scripts\ScroollingObject.cs.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts\ScroollingObject.cs.meta
-    projectPath: Assets\FlappyBird\Scripts\ScroollingObject.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\FlappyBird\Sprites\ColumnSprite.png.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Sprites\ColumnSprite.png.meta
-    projectPath: Assets\FlappyBird\Sprites\ColumnSprite.png.meta
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Pong\Scenes\Pong_game.unity
-    fullPath: D:\Projekti\Unity\The game\Assets\Pong\Scenes\Pong_game.unity
-    projectPath: Assets\Pong\Scenes\Pong_game.unity
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Pong\Scenes\Pong_game_AI.unity
-    fullPath: D:\Projekti\Unity\The game\Assets\Pong\Scenes\Pong_game_AI.unity
-    projectPath: Assets\Pong\Scenes\Pong_game_AI.unity
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Assets\Pong\scripts\main.cs
-    fullPath: D:\Projekti\Unity\The game\Assets\Pong\scripts\main.cs
-    projectPath: Assets\Pong\scripts\main.cs
     originalPath: 
     status: 3
     staged: 0
@@ -165,12 +69,6 @@ MonoBehaviour:
     projectPath: Library\assetDatabase3
     originalPath: 
     status: 3
-    staged: 0
-  - path: Library\CrashedAssetImports.txt
-    fullPath: D:\Projekti\Unity\The game\Library\CrashedAssetImports.txt
-    projectPath: Library\CrashedAssetImports.txt
-    originalPath: 
-    status: 1
     staged: 0
   - path: Library\CurrentMaximizeLayout.dwlt
     fullPath: D:\Projekti\Unity\The game\Library\CurrentMaximizeLayout.dwlt
@@ -208,77 +106,11 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\0e\0e62fb06e4aeecb4cbd80224e718f0be
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\0e\0e62fb06e4aeecb4cbd80224e718f0be
-    projectPath: Library\metadata\0e\0e62fb06e4aeecb4cbd80224e718f0be
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\0e\0e62fb06e4aeecb4cbd80224e718f0be.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\0e\0e62fb06e4aeecb4cbd80224e718f0be.info
-    projectPath: Library\metadata\0e\0e62fb06e4aeecb4cbd80224e718f0be.info
-    originalPath: 
-    status: 1
-    staged: 0
   - path: Library\metadata\34\34b65ad4ac40bc247a7e6ff81bcb1f61
     fullPath: D:\Projekti\Unity\The game\Library\metadata\34\34b65ad4ac40bc247a7e6ff81bcb1f61
     projectPath: Library\metadata\34\34b65ad4ac40bc247a7e6ff81bcb1f61
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\34\34b65ad4ac40bc247a7e6ff81bcb1f61.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\34\34b65ad4ac40bc247a7e6ff81bcb1f61.info
-    projectPath: Library\metadata\34\34b65ad4ac40bc247a7e6ff81bcb1f61.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\45\455d4552be4a892499e68929cac09fc4
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\45\455d4552be4a892499e68929cac09fc4
-    projectPath: Library\metadata\45\455d4552be4a892499e68929cac09fc4
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\45\455d4552be4a892499e68929cac09fc4.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\45\455d4552be4a892499e68929cac09fc4.info
-    projectPath: Library\metadata\45\455d4552be4a892499e68929cac09fc4.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\46\4611206ce3b75604f943facb8fbf70c9
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\46\4611206ce3b75604f943facb8fbf70c9
-    projectPath: Library\metadata\46\4611206ce3b75604f943facb8fbf70c9
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\46\4611206ce3b75604f943facb8fbf70c9.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\46\4611206ce3b75604f943facb8fbf70c9.info
-    projectPath: Library\metadata\46\4611206ce3b75604f943facb8fbf70c9.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\48\48fb7a105a5a7d54a8381ce423789542
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\48\48fb7a105a5a7d54a8381ce423789542
-    projectPath: Library\metadata\48\48fb7a105a5a7d54a8381ce423789542
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\48\48fb7a105a5a7d54a8381ce423789542.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\48\48fb7a105a5a7d54a8381ce423789542.info
-    projectPath: Library\metadata\48\48fb7a105a5a7d54a8381ce423789542.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\60\6014dab412afb6b46a6d5a80f423deec
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\60\6014dab412afb6b46a6d5a80f423deec
-    projectPath: Library\metadata\60\6014dab412afb6b46a6d5a80f423deec
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\60\6014dab412afb6b46a6d5a80f423deec.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\60\6014dab412afb6b46a6d5a80f423deec.info
-    projectPath: Library\metadata\60\6014dab412afb6b46a6d5a80f423deec.info
-    originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Library\metadata\6e\6e4c8725e5286e34cab72a3c591cc8c9
     fullPath: D:\Projekti\Unity\The game\Library\metadata\6e\6e4c8725e5286e34cab72a3c591cc8c9
@@ -286,45 +118,33 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\72\725e268d88dd16348a3c278b660a9064
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\72\725e268d88dd16348a3c278b660a9064
-    projectPath: Library\metadata\72\725e268d88dd16348a3c278b660a9064
+  - path: Library\metadata\95\9517adf02a37e974a8e31cba6550e94e
+    fullPath: D:\Projekti\Unity\The game\Library\metadata\95\9517adf02a37e974a8e31cba6550e94e
+    projectPath: Library\metadata\95\9517adf02a37e974a8e31cba6550e94e
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\72\725e268d88dd16348a3c278b660a9064.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\72\725e268d88dd16348a3c278b660a9064.info
-    projectPath: Library\metadata\72\725e268d88dd16348a3c278b660a9064.info
+  - path: Library\metadata\95\9517adf02a37e974a8e31cba6550e94e.info
+    fullPath: D:\Projekti\Unity\The game\Library\metadata\95\9517adf02a37e974a8e31cba6550e94e.info
+    projectPath: Library\metadata\95\9517adf02a37e974a8e31cba6550e94e.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\78\78ffd3606cf77bb43a45881cd999b9b8
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\78\78ffd3606cf77bb43a45881cd999b9b8
-    projectPath: Library\metadata\78\78ffd3606cf77bb43a45881cd999b9b8
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\78\78ffd3606cf77bb43a45881cd999b9b8.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\78\78ffd3606cf77bb43a45881cd999b9b8.info
-    projectPath: Library\metadata\78\78ffd3606cf77bb43a45881cd999b9b8.info
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\d1\d19ea87d6afa0ad46b1bbc350d09b3f7
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\d1\d19ea87d6afa0ad46b1bbc350d09b3f7
-    projectPath: Library\metadata\d1\d19ea87d6afa0ad46b1bbc350d09b3f7
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\metadata\d2\d2d16c989561d0543a7f232b0148680c
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\d2\d2d16c989561d0543a7f232b0148680c
-    projectPath: Library\metadata\d2\d2d16c989561d0543a7f232b0148680c
+  - path: Library\metadata\f4\f49cfd342d09dc943b37c3394e5bba0c
+    fullPath: D:\Projekti\Unity\The game\Library\metadata\f4\f49cfd342d09dc943b37c3394e5bba0c
+    projectPath: Library\metadata\f4\f49cfd342d09dc943b37c3394e5bba0c
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\d2\d2d16c989561d0543a7f232b0148680c.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\d2\d2d16c989561d0543a7f232b0148680c.info
-    projectPath: Library\metadata\d2\d2d16c989561d0543a7f232b0148680c.info
+  - path: Library\metadata\f4\f49cfd342d09dc943b37c3394e5bba0c.info
+    fullPath: D:\Projekti\Unity\The game\Library\metadata\f4\f49cfd342d09dc943b37c3394e5bba0c.info
+    projectPath: Library\metadata\f4\f49cfd342d09dc943b37c3394e5bba0c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\f4\f49cfd342d09dc943b37c3394e5bba0c.resource
+    fullPath: D:\Projekti\Unity\The game\Library\metadata\f4\f49cfd342d09dc943b37c3394e5bba0c.resource
+    projectPath: Library\metadata\f4\f49cfd342d09dc943b37c3394e5bba0c.resource
     originalPath: 
     status: 1
     staged: 0
@@ -346,23 +166,11 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\StateCache\Hierarchy\40ceb2-48fb7a105a5a7d54a8.json
-    fullPath: D:\Projekti\Unity\The game\Library\StateCache\Hierarchy\40ceb2-48fb7a105a5a7d54a8.json
-    projectPath: Library\StateCache\Hierarchy\40ceb2-48fb7a105a5a7d54a8.json
-    originalPath: 
-    status: 1
-    staged: 0
   - path: Library\StateCache\Hierarchy\40ceb2-mainStage.json
     fullPath: D:\Projekti\Unity\The game\Library\StateCache\Hierarchy\40ceb2-mainStage.json
     projectPath: Library\StateCache\Hierarchy\40ceb2-mainStage.json
     originalPath: 
     status: 3
-    staged: 0
-  - path: Library\StateCache\SceneView\8631f9-48fb7a105a5a7d54a8.json
-    fullPath: D:\Projekti\Unity\The game\Library\StateCache\SceneView\8631f9-48fb7a105a5a7d54a8.json
-    projectPath: Library\StateCache\SceneView\8631f9-48fb7a105a5a7d54a8.json
-    originalPath: 
-    status: 1
     staged: 0
   - path: Library\StateCache\SceneView\8631f9-mainStage.json
     fullPath: D:\Projekti\Unity\The game\Library\StateCache\SceneView\8631f9-mainStage.json
@@ -370,39 +178,15 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    fullPath: D:\Projekti\Unity\The game\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: ProjectSettings\ProjectVersion.txt
-    fullPath: D:\Projekti\Unity\The game\ProjectSettings\ProjectVersion.txt
-    projectPath: ProjectSettings\ProjectVersion.txt
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: ProjectSettings\QualitySettings.asset
-    fullPath: D:\Projekti\Unity\The game\ProjectSettings\QualitySettings.asset
-    projectPath: ProjectSettings\QualitySettings.asset
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: ProjectSettings\TagManager.asset
-    fullPath: D:\Projekti\Unity\The game\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: D:\Projekti\Unity\The game\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
     originalPath: 
     status: 3
     staged: 0
   - path: ProjectSettings\TimeManager.asset
     fullPath: D:\Projekti\Unity\The game\ProjectSettings\TimeManager.asset
     projectPath: ProjectSettings\TimeManager.asset
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: ProjectSettings\UnityConnectSettings.asset
-    fullPath: D:\Projekti\Unity\The game\ProjectSettings\UnityConnectSettings.asset
-    projectPath: ProjectSettings\UnityConnectSettings.asset
     originalPath: 
     status: 3
     staged: 0
@@ -424,249 +208,63 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-0b1e9db781dd4904f8d7531a07819650
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-0b1e9db781dd4904f8d7531a07819650
-    projectPath: Temp\UnityTempFile-0b1e9db781dd4904f8d7531a07819650
+  - path: Temp\UnityTempFile-3825dca57fbbffe42b3111a712d8330f
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-3825dca57fbbffe42b3111a712d8330f
+    projectPath: Temp\UnityTempFile-3825dca57fbbffe42b3111a712d8330f
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-15a476435cc109641adaa75a65bc6cf2
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-15a476435cc109641adaa75a65bc6cf2
-    projectPath: Temp\UnityTempFile-15a476435cc109641adaa75a65bc6cf2
+  - path: Temp\UnityTempFile-45577d4dc763a224b931be437067221b
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-45577d4dc763a224b931be437067221b
+    projectPath: Temp\UnityTempFile-45577d4dc763a224b931be437067221b
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-1fba83219fe71684697c6f14712be30e
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-1fba83219fe71684697c6f14712be30e
-    projectPath: Temp\UnityTempFile-1fba83219fe71684697c6f14712be30e
+  - path: Temp\UnityTempFile-4bb5c86be454a604185c780b584c3135
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-4bb5c86be454a604185c780b584c3135
+    projectPath: Temp\UnityTempFile-4bb5c86be454a604185c780b584c3135
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-241ffa1bf7487bf43b9f7b00c83ec536
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-241ffa1bf7487bf43b9f7b00c83ec536
-    projectPath: Temp\UnityTempFile-241ffa1bf7487bf43b9f7b00c83ec536
+  - path: Temp\UnityTempFile-4f5c8327700bbac47baf8b08d4b53177
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-4f5c8327700bbac47baf8b08d4b53177
+    projectPath: Temp\UnityTempFile-4f5c8327700bbac47baf8b08d4b53177
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-2736bd11a6280b846a1b0913692a711f
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-2736bd11a6280b846a1b0913692a711f
-    projectPath: Temp\UnityTempFile-2736bd11a6280b846a1b0913692a711f
+  - path: Temp\UnityTempFile-5c3f7750015011e43892c991bc46b8bf
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-5c3f7750015011e43892c991bc46b8bf
+    projectPath: Temp\UnityTempFile-5c3f7750015011e43892c991bc46b8bf
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-32f7cc75788aa7344be9e09a8801ae7e
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-32f7cc75788aa7344be9e09a8801ae7e
-    projectPath: Temp\UnityTempFile-32f7cc75788aa7344be9e09a8801ae7e
+  - path: Temp\UnityTempFile-64e2c9eba2fdf2f459885de36b330d9f
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-64e2c9eba2fdf2f459885de36b330d9f
+    projectPath: Temp\UnityTempFile-64e2c9eba2fdf2f459885de36b330d9f
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-36ea09f9ec355594fad6aaabce5c3fb1
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-36ea09f9ec355594fad6aaabce5c3fb1
-    projectPath: Temp\UnityTempFile-36ea09f9ec355594fad6aaabce5c3fb1
+  - path: Temp\UnityTempFile-66dbb6f6f881b5742806fb20a4df1132
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-66dbb6f6f881b5742806fb20a4df1132
+    projectPath: Temp\UnityTempFile-66dbb6f6f881b5742806fb20a4df1132
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-3ae259057497e994fabfc52eaecc3992
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-3ae259057497e994fabfc52eaecc3992
-    projectPath: Temp\UnityTempFile-3ae259057497e994fabfc52eaecc3992
+  - path: Temp\UnityTempFile-9f5a8aa4f9381904f9166dbd6a8f7c64
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-9f5a8aa4f9381904f9166dbd6a8f7c64
+    projectPath: Temp\UnityTempFile-9f5a8aa4f9381904f9166dbd6a8f7c64
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-42afbed1711c8024b89af9eaed3d88ac
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-42afbed1711c8024b89af9eaed3d88ac
-    projectPath: Temp\UnityTempFile-42afbed1711c8024b89af9eaed3d88ac
+  - path: Temp\UnityTempFile-e0b890533245a4f49ab15c5a47eeed73
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-e0b890533245a4f49ab15c5a47eeed73
+    projectPath: Temp\UnityTempFile-e0b890533245a4f49ab15c5a47eeed73
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-4acbbd98bb37fc64f8f33a979dae3b9f
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-4acbbd98bb37fc64f8f33a979dae3b9f
-    projectPath: Temp\UnityTempFile-4acbbd98bb37fc64f8f33a979dae3b9f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-533b9e6e917534d41b65452d234a253d
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-533b9e6e917534d41b65452d234a253d
-    projectPath: Temp\UnityTempFile-533b9e6e917534d41b65452d234a253d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-5bf6a781473c7fc4e9735842f2885e89
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-5bf6a781473c7fc4e9735842f2885e89
-    projectPath: Temp\UnityTempFile-5bf6a781473c7fc4e9735842f2885e89
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-63ddf39880a567347a66975a8bb6192f
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-63ddf39880a567347a66975a8bb6192f
-    projectPath: Temp\UnityTempFile-63ddf39880a567347a66975a8bb6192f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-6ce7a69f69fc15240b4a659305de5426
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-6ce7a69f69fc15240b4a659305de5426
-    projectPath: Temp\UnityTempFile-6ce7a69f69fc15240b4a659305de5426
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-754c515e3dfefb94381102917ad53104
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-754c515e3dfefb94381102917ad53104
-    projectPath: Temp\UnityTempFile-754c515e3dfefb94381102917ad53104
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-7942e36fa16aaab4e88fdaa67e93709f
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-7942e36fa16aaab4e88fdaa67e93709f
-    projectPath: Temp\UnityTempFile-7942e36fa16aaab4e88fdaa67e93709f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-7bcf14b61acb01d4e86f22d297eb5086
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-7bcf14b61acb01d4e86f22d297eb5086
-    projectPath: Temp\UnityTempFile-7bcf14b61acb01d4e86f22d297eb5086
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-7d71abd670ef96c44bfb00d78fbf60b5
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-7d71abd670ef96c44bfb00d78fbf60b5
-    projectPath: Temp\UnityTempFile-7d71abd670ef96c44bfb00d78fbf60b5
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-7edc06e95ded00948baa75cfd72aceeb
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-7edc06e95ded00948baa75cfd72aceeb
-    projectPath: Temp\UnityTempFile-7edc06e95ded00948baa75cfd72aceeb
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-86f314ce09c4f39419390114b7b190aa
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-86f314ce09c4f39419390114b7b190aa
-    projectPath: Temp\UnityTempFile-86f314ce09c4f39419390114b7b190aa
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-8e602f295523d754d8f436a0f8b6d13f
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-8e602f295523d754d8f436a0f8b6d13f
-    projectPath: Temp\UnityTempFile-8e602f295523d754d8f436a0f8b6d13f
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-9939c2b7e4f3bf74394039be4943dbaa
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-9939c2b7e4f3bf74394039be4943dbaa
-    projectPath: Temp\UnityTempFile-9939c2b7e4f3bf74394039be4943dbaa
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-9bbba7ddcac245b469f7c03a3697361d
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-9bbba7ddcac245b469f7c03a3697361d
-    projectPath: Temp\UnityTempFile-9bbba7ddcac245b469f7c03a3697361d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-9e36eb4f18a798f4c9c02fb32832846e
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-9e36eb4f18a798f4c9c02fb32832846e
-    projectPath: Temp\UnityTempFile-9e36eb4f18a798f4c9c02fb32832846e
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-a14c1d4afe91ca24e926ed709c6965d1
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-a14c1d4afe91ca24e926ed709c6965d1
-    projectPath: Temp\UnityTempFile-a14c1d4afe91ca24e926ed709c6965d1
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-a6ae9a528bb550340a7a04181e77d302
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-a6ae9a528bb550340a7a04181e77d302
-    projectPath: Temp\UnityTempFile-a6ae9a528bb550340a7a04181e77d302
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-aace7f5bce5049340afed456bdb818c9
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-aace7f5bce5049340afed456bdb818c9
-    projectPath: Temp\UnityTempFile-aace7f5bce5049340afed456bdb818c9
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-ac613516f8717cf45a5177d1f5f60ffe
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-ac613516f8717cf45a5177d1f5f60ffe
-    projectPath: Temp\UnityTempFile-ac613516f8717cf45a5177d1f5f60ffe
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-b08db1dd4b04fa04bb6d92044c1ec431
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-b08db1dd4b04fa04bb6d92044c1ec431
-    projectPath: Temp\UnityTempFile-b08db1dd4b04fa04bb6d92044c1ec431
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-b1269ba29dc58a9409ea89f4534e2649
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-b1269ba29dc58a9409ea89f4534e2649
-    projectPath: Temp\UnityTempFile-b1269ba29dc58a9409ea89f4534e2649
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-b6ae05c8a4fd252419e32a4d897dd5ce
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-b6ae05c8a4fd252419e32a4d897dd5ce
-    projectPath: Temp\UnityTempFile-b6ae05c8a4fd252419e32a4d897dd5ce
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-c0e48b890e1d3c243a3e474510bed7ea
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-c0e48b890e1d3c243a3e474510bed7ea
-    projectPath: Temp\UnityTempFile-c0e48b890e1d3c243a3e474510bed7ea
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-cccdea704cab2304187e5070db2b48fa
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-cccdea704cab2304187e5070db2b48fa
-    projectPath: Temp\UnityTempFile-cccdea704cab2304187e5070db2b48fa
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-cfbb99096423efc4291957ca8f4d7c4c
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-cfbb99096423efc4291957ca8f4d7c4c
-    projectPath: Temp\UnityTempFile-cfbb99096423efc4291957ca8f4d7c4c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-d278e2e63c87f854d835d3e5b2189373
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-d278e2e63c87f854d835d3e5b2189373
-    projectPath: Temp\UnityTempFile-d278e2e63c87f854d835d3e5b2189373
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-db4acc1729f1e3140ae6f5640318ec78
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-db4acc1729f1e3140ae6f5640318ec78
-    projectPath: Temp\UnityTempFile-db4acc1729f1e3140ae6f5640318ec78
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-df0b860119fa78549b10ec3fbac0a967
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-df0b860119fa78549b10ec3fbac0a967
-    projectPath: Temp\UnityTempFile-df0b860119fa78549b10ec3fbac0a967
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-e1b4406bf903fb14a8b745b4d84a98f6
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-e1b4406bf903fb14a8b745b4d84a98f6
-    projectPath: Temp\UnityTempFile-e1b4406bf903fb14a8b745b4d84a98f6
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-e7bc56d4be57af44eb15bf96bdab7df2
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-e7bc56d4be57af44eb15bf96bdab7df2
-    projectPath: Temp\UnityTempFile-e7bc56d4be57af44eb15bf96bdab7df2
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-ea9c6b57322e82b428366cb62316cc17
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-ea9c6b57322e82b428366cb62316cc17
-    projectPath: Temp\UnityTempFile-ea9c6b57322e82b428366cb62316cc17
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-fcc450fcd6aac0144bfddf9d27c38314
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-fcc450fcd6aac0144bfddf9d27c38314
-    projectPath: Temp\UnityTempFile-fcc450fcd6aac0144bfddf9d27c38314
+  - path: Temp\UnityTempFile-eaaf1410740e2fc42b36eed0531d072d
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-eaaf1410740e2fc42b36eed0531d072d
+    projectPath: Temp\UnityTempFile-eaaf1410740e2fc42b36eed0531d072d
     originalPath: 
     status: 1
     staged: 0

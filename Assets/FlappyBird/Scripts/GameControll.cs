@@ -9,6 +9,7 @@ public class GameControll : MonoBehaviour
     public static GameControll instance;
     public GameObject GameOverTxt;
     public Text ScoreText;
+    public GameObject StartTxt;
     public bool GameOver = false;
     public float scroolSpeed;
     private int score = 0;
@@ -28,10 +29,15 @@ public class GameControll : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(GameOver == true && Input.GetKeyDown(KeyCode.Space))
+        if (GameOver == true && Input.GetKeyDown(KeyCode.Space))
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-        }   
+        }
+
+        else if (GameOver == true && Input.GetKeyDown(KeyCode.Escape))
+        {
+            SceneManager.LoadScene(6);
+        }
     }
     public void BirdScore()
     {
@@ -44,6 +50,12 @@ public class GameControll : MonoBehaviour
         ScoreText.text = "Score: " + score.ToString();
         
     }
+
+    public void StartText()
+    {
+        StartTxt.SetActive(false);
+    }
+
 
     public void playerDies()
     {

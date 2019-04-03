@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/FlappyBird/Flappy.unity
+- path: Assets/UFO/Scenes/Level1.unity
   isLoaded: 1
   isActive: 1
