@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/FlappyBird/FlappyGui.unity
+- path: Assets/Endless Runner/Endless_runner.unity
   isLoaded: 1
   isActive: 1

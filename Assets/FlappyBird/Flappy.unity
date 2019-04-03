@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311947, g: 0.38074005, b: 0.35872722, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -577,7 +577,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 4.3691864
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -720,7 +720,7 @@ MonoBehaviour:
   ScoreText: {fileID: 956691751}
   StartTxt: {fileID: 1968311812}
   GameOver: 0
-  scroolSpeed: -2.5
+  scroolSpeed: -1.5
 --- !u!4 &518661318
 Transform:
   m_ObjectHideFlags: 0
@@ -750,7 +750,7 @@ MonoBehaviour:
   columnPoolSize: 5
   ColumnPrefab: {fileID: 840009388601533662, guid: 48fb7a105a5a7d54a8381ce423789542,
     type: 3}
-  spawnRate: 3
+  spawnRate: 4
   columnMin: -2
   columnMax: 2
 --- !u!1 &566553153
