@@ -72,9 +72,9 @@ public class main : MonoBehaviour
         seperator.GetComponent<SpriteRenderer>().enabled = true;
         balls.enabled = true;
     }
-    public void restart(int scena)
+    public void restart()
     {
-        SceneManager.LoadScene(scena);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
     public void End(int scena)
     {

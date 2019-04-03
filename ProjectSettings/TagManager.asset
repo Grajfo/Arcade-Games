@@ -54,6 +54,9 @@ TagManager:
   - name: pickups
     uniqueID: 3670946449
     locked: 0
+  - name: midGround
+    uniqueID: 2209699021
+    locked: 0
   - name: player
     uniqueID: 3294974487
     locked: 0

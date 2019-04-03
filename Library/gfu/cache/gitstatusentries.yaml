@@ -13,132 +13,96 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-04-02T14:04:10.319+02:00
-  initializedAtString: 2019-04-02T12:39:01.924+02:00
+  lastUpdatedAtString: 2019-04-03T12:25:41.896+02:00
+  initializedAtString: 2019-04-03T08:27:56.262+02:00
   entries:
-  - path: Assets\Endless Runner.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Endless Runner.meta
-    projectPath: Assets\Endless Runner.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Endless Runner\Endless_runner.unity
-    fullPath: D:\Projekti\Unity\The game\Assets\Endless Runner\Endless_runner.unity
-    projectPath: Assets\Endless Runner\Endless_runner.unity
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Endless Runner\Endless_runner.unity.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Endless Runner\Endless_runner.unity.meta
-    projectPath: Assets\Endless Runner\Endless_runner.unity.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Endless Runner\Player.psd
-    fullPath: D:\Projekti\Unity\The game\Assets\Endless Runner\Player.psd
-    projectPath: Assets\Endless Runner\Player.psd
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Endless Runner\Player.psd.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Endless Runner\Player.psd.meta
-    projectPath: Assets\Endless Runner\Player.psd.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\FlappyBird.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird.meta
-    projectPath: Assets\FlappyBird.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\FlappyBird\Animations.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Animations.meta
-    projectPath: Assets\FlappyBird\Animations.meta
-    originalPath: 
-    status: 1
-    staged: 0
   - path: Assets\FlappyBird\Animations\BirdHero_0.controller
     fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Animations\BirdHero_0.controller
     projectPath: Assets\FlappyBird\Animations\BirdHero_0.controller
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\FlappyBird\Animations\BirdHero_0.controller.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Animations\BirdHero_0.controller.meta
-    projectPath: Assets\FlappyBird\Animations\BirdHero_0.controller.meta
-    originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Assets\FlappyBird\Animations\Die.anim
     fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Animations\Die.anim
     projectPath: Assets\FlappyBird\Animations\Die.anim
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\FlappyBird\Animations\Die.anim.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Animations\Die.anim.meta
-    projectPath: Assets\FlappyBird\Animations\Die.anim.meta
-    originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Assets\FlappyBird\Animations\Flap.anim
     fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Animations\Flap.anim
     projectPath: Assets\FlappyBird\Animations\Flap.anim
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\FlappyBird\Animations\Flap.anim.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Animations\Flap.anim.meta
-    projectPath: Assets\FlappyBird\Animations\Flap.anim.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\FlappyBird\Animations\Idle.anim
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Animations\Idle.anim
-    projectPath: Assets\FlappyBird\Animations\Idle.anim
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\FlappyBird\Animations\Idle.anim.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Animations\Idle.anim.meta
-    projectPath: Assets\FlappyBird\Animations\Idle.anim.meta
-    originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Assets\FlappyBird\Flappy.unity
     fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Flappy.unity
     projectPath: Assets\FlappyBird\Flappy.unity
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: Assets\FlappyBird\Flappy.unity.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Flappy.unity.meta
-    projectPath: Assets\FlappyBird\Flappy.unity.meta
+  - path: Assets\FlappyBird\FlappyGui.unity
+    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\FlappyGui.unity
+    projectPath: Assets\FlappyBird\FlappyGui.unity
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\FlappyBird\Fonts.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Fonts.meta
-    projectPath: Assets\FlappyBird\Fonts.meta
+  - path: Assets\FlappyBird\FlappyGui.unity.meta
+    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\FlappyGui.unity.meta
+    projectPath: Assets\FlappyBird\FlappyGui.unity.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\FlappyBird\Fonts\LuckiestGuy.ttf
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Fonts\LuckiestGuy.ttf
-    projectPath: Assets\FlappyBird\Fonts\LuckiestGuy.ttf
+  - path: Assets\FlappyBird\Prefab.meta
+    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Prefab.meta
+    projectPath: Assets\FlappyBird\Prefab.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\FlappyBird\Fonts\LuckiestGuy.ttf.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Fonts\LuckiestGuy.ttf.meta
-    projectPath: Assets\FlappyBird\Fonts\LuckiestGuy.ttf.meta
+  - path: Assets\FlappyBird\Prefab\Columns.prefab
+    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Prefab\Columns.prefab
+    projectPath: Assets\FlappyBird\Prefab\Columns.prefab
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\FlappyBird\Scripts.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts.meta
-    projectPath: Assets\FlappyBird\Scripts.meta
+  - path: Assets\FlappyBird\Prefab\Columns.prefab.meta
+    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Prefab\Columns.prefab.meta
+    projectPath: Assets\FlappyBird\Prefab\Columns.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\FlappyBird\Scripts\ColumnPool.cs
+    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts\ColumnPool.cs
+    projectPath: Assets\FlappyBird\Scripts\ColumnPool.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\FlappyBird\Scripts\ColumnPool.cs.meta
+    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts\ColumnPool.cs.meta
+    projectPath: Assets\FlappyBird\Scripts\ColumnPool.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\FlappyBird\Scripts\Columns.cs
+    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts\Columns.cs
+    projectPath: Assets\FlappyBird\Scripts\Columns.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\FlappyBird\Scripts\Columns.cs.meta
+    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts\Columns.cs.meta
+    projectPath: Assets\FlappyBird\Scripts\Columns.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\FlappyBird\Scripts\GameControll.cs
+    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts\GameControll.cs
+    projectPath: Assets\FlappyBird\Scripts\GameControll.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\FlappyBird\Scripts\GameControll.cs.meta
+    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts\GameControll.cs.meta
+    projectPath: Assets\FlappyBird\Scripts\GameControll.cs.meta
     originalPath: 
     status: 1
     staged: 0
@@ -146,35 +110,29 @@ MonoBehaviour:
     fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts\playerMovement.cs
     projectPath: Assets\FlappyBird\Scripts\playerMovement.cs
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: Assets\FlappyBird\Scripts\playerMovement.cs.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts\playerMovement.cs.meta
-    projectPath: Assets\FlappyBird\Scripts\playerMovement.cs.meta
+  - path: Assets\FlappyBird\Scripts\ReapitingBackground.cs
+    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts\ReapitingBackground.cs
+    projectPath: Assets\FlappyBird\Scripts\ReapitingBackground.cs
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\FlappyBird\Sprites.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Sprites.meta
-    projectPath: Assets\FlappyBird\Sprites.meta
+  - path: Assets\FlappyBird\Scripts\ReapitingBackground.cs.meta
+    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts\ReapitingBackground.cs.meta
+    projectPath: Assets\FlappyBird\Scripts\ReapitingBackground.cs.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\FlappyBird\Sprites\BirdHero.png
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Sprites\BirdHero.png
-    projectPath: Assets\FlappyBird\Sprites\BirdHero.png
+  - path: Assets\FlappyBird\Scripts\ScroollingObject.cs
+    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts\ScroollingObject.cs
+    projectPath: Assets\FlappyBird\Scripts\ScroollingObject.cs
     originalPath: 
     status: 1
     staged: 0
-  - path: Assets\FlappyBird\Sprites\BirdHero.png.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Sprites\BirdHero.png.meta
-    projectPath: Assets\FlappyBird\Sprites\BirdHero.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\FlappyBird\Sprites\ColumnSprite.png
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Sprites\ColumnSprite.png
-    projectPath: Assets\FlappyBird\Sprites\ColumnSprite.png
+  - path: Assets\FlappyBird\Scripts\ScroollingObject.cs.meta
+    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Scripts\ScroollingObject.cs.meta
+    projectPath: Assets\FlappyBird\Scripts\ScroollingObject.cs.meta
     originalPath: 
     status: 1
     staged: 0
@@ -182,745 +140,37 @@ MonoBehaviour:
     fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Sprites\ColumnSprite.png.meta
     projectPath: Assets\FlappyBird\Sprites\ColumnSprite.png.meta
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: Assets\FlappyBird\Sprites\GrassThinSprite.png
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Sprites\GrassThinSprite.png
-    projectPath: Assets\FlappyBird\Sprites\GrassThinSprite.png
+  - path: Assets\Pong\Scenes\Pong_game.unity
+    fullPath: D:\Projekti\Unity\The game\Assets\Pong\Scenes\Pong_game.unity
+    projectPath: Assets\Pong\Scenes\Pong_game.unity
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: Assets\FlappyBird\Sprites\GrassThinSprite.png.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Sprites\GrassThinSprite.png.meta
-    projectPath: Assets\FlappyBird\Sprites\GrassThinSprite.png.meta
+  - path: Assets\Pong\Scenes\Pong_game_AI.unity
+    fullPath: D:\Projekti\Unity\The game\Assets\Pong\Scenes\Pong_game_AI.unity
+    projectPath: Assets\Pong\Scenes\Pong_game_AI.unity
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: Assets\FlappyBird\Sprites\SkyTileSprite.png
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Sprites\SkyTileSprite.png
-    projectPath: Assets\FlappyBird\Sprites\SkyTileSprite.png
+  - path: Assets\Pong\scripts\main.cs
+    fullPath: D:\Projekti\Unity\The game\Assets\Pong\scripts\main.cs
+    projectPath: Assets\Pong\scripts\main.cs
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\FlappyBird\Sprites\SkyTileSprite.png.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\FlappyBird\Sprites\SkyTileSprite.png.meta
-    projectPath: Assets\FlappyBird\Sprites\SkyTileSprite.png.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Assets\Space_Shooter.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter.meta
-    projectPath: Assets\Space_Shooter.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\_scene.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\_scene.meta
-    projectPath: Assets\Space_Shooter\_scene.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\_scene\Main.unity
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\_scene\Main.unity
-    projectPath: Assets\Space_Shooter\_scene\Main.unity
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\_scene\Main.unity.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\_scene\Main.unity.meta
-    projectPath: Assets\Space_Shooter\_scene\Main.unity.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Audio.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Audio.meta
-    projectPath: Assets\Space_Shooter\Audio.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Audio\explosion_asteroid.wav
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Audio\explosion_asteroid.wav
-    projectPath: Assets\Space_Shooter\Audio\explosion_asteroid.wav
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Audio\explosion_asteroid.wav.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Audio\explosion_asteroid.wav.meta
-    projectPath: Assets\Space_Shooter\Audio\explosion_asteroid.wav.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Audio\explosion_enemy.wav
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Audio\explosion_enemy.wav
-    projectPath: Assets\Space_Shooter\Audio\explosion_enemy.wav
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Audio\explosion_enemy.wav.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Audio\explosion_enemy.wav.meta
-    projectPath: Assets\Space_Shooter\Audio\explosion_enemy.wav.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Audio\explosion_player.wav
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Audio\explosion_player.wav
-    projectPath: Assets\Space_Shooter\Audio\explosion_player.wav
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Audio\explosion_player.wav.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Audio\explosion_player.wav.meta
-    projectPath: Assets\Space_Shooter\Audio\explosion_player.wav.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Audio\music_background.wav
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Audio\music_background.wav
-    projectPath: Assets\Space_Shooter\Audio\music_background.wav
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Audio\music_background.wav.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Audio\music_background.wav.meta
-    projectPath: Assets\Space_Shooter\Audio\music_background.wav.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Audio\weapon_enemy.wav
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Audio\weapon_enemy.wav
-    projectPath: Assets\Space_Shooter\Audio\weapon_enemy.wav
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Audio\weapon_enemy.wav.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Audio\weapon_enemy.wav.meta
-    projectPath: Assets\Space_Shooter\Audio\weapon_enemy.wav.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Audio\weapon_player.wav
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Audio\weapon_player.wav
-    projectPath: Assets\Space_Shooter\Audio\weapon_player.wav
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Audio\weapon_player.wav.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Audio\weapon_player.wav.meta
-    projectPath: Assets\Space_Shooter\Audio\weapon_player.wav.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials.meta
-    projectPath: Assets\Space_Shooter\Materials.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\fx_bolt_orange.mat
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\fx_bolt_orange.mat
-    projectPath: Assets\Space_Shooter\Materials\fx_bolt_orange.mat
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\fx_bolt_orange.mat.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\fx_bolt_orange.mat.meta
-    projectPath: Assets\Space_Shooter\Materials\fx_bolt_orange.mat.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\fx_enemyShip_engines_mat.mat
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\fx_enemyShip_engines_mat.mat
-    projectPath: Assets\Space_Shooter\Materials\fx_enemyShip_engines_mat.mat
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\fx_enemyShip_engines_mat.mat.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\fx_enemyShip_engines_mat.mat.meta
-    projectPath: Assets\Space_Shooter\Materials\fx_enemyShip_engines_mat.mat.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\part_blast_mat.mat
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\part_blast_mat.mat
-    projectPath: Assets\Space_Shooter\Materials\part_blast_mat.mat
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\part_blast_mat.mat.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\part_blast_mat.mat.meta
-    projectPath: Assets\Space_Shooter\Materials\part_blast_mat.mat.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\part_glow_mat.mat
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\part_glow_mat.mat
-    projectPath: Assets\Space_Shooter\Materials\part_glow_mat.mat
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\part_glow_mat.mat.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\part_glow_mat.mat.meta
-    projectPath: Assets\Space_Shooter\Materials\part_glow_mat.mat.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\part_jet_core_mat.mat
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\part_jet_core_mat.mat
-    projectPath: Assets\Space_Shooter\Materials\part_jet_core_mat.mat
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\part_jet_core_mat.mat.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\part_jet_core_mat.mat.meta
-    projectPath: Assets\Space_Shooter\Materials\part_jet_core_mat.mat.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\part_jet_flare_mat.mat
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\part_jet_flare_mat.mat
-    projectPath: Assets\Space_Shooter\Materials\part_jet_flare_mat.mat
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\part_jet_flare_mat.mat.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\part_jet_flare_mat.mat.meta
-    projectPath: Assets\Space_Shooter\Materials\part_jet_flare_mat.mat.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\part_shockwave_mat.mat
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\part_shockwave_mat.mat
-    projectPath: Assets\Space_Shooter\Materials\part_shockwave_mat.mat
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\part_shockwave_mat.mat.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\part_shockwave_mat.mat.meta
-    projectPath: Assets\Space_Shooter\Materials\part_shockwave_mat.mat.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\part_spark_blue_mat.mat
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\part_spark_blue_mat.mat
-    projectPath: Assets\Space_Shooter\Materials\part_spark_blue_mat.mat
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\part_spark_blue_mat.mat.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\part_spark_blue_mat.mat.meta
-    projectPath: Assets\Space_Shooter\Materials\part_spark_blue_mat.mat.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\part_spark_large_mat.mat
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\part_spark_large_mat.mat
-    projectPath: Assets\Space_Shooter\Materials\part_spark_large_mat.mat
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\part_spark_large_mat.mat.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\part_spark_large_mat.mat.meta
-    projectPath: Assets\Space_Shooter\Materials\part_spark_large_mat.mat.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\part_spark_white_mat.mat
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\part_spark_white_mat.mat
-    projectPath: Assets\Space_Shooter\Materials\part_spark_white_mat.mat
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\part_spark_white_mat.mat.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\part_spark_white_mat.mat.meta
-    projectPath: Assets\Space_Shooter\Materials\part_spark_white_mat.mat.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\part_spark_yellow_mat.mat
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\part_spark_yellow_mat.mat
-    projectPath: Assets\Space_Shooter\Materials\part_spark_yellow_mat.mat
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\part_spark_yellow_mat.mat.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\part_spark_yellow_mat.mat.meta
-    projectPath: Assets\Space_Shooter\Materials\part_spark_yellow_mat.mat.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\part_star_mat.mat
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\part_star_mat.mat
-    projectPath: Assets\Space_Shooter\Materials\part_star_mat.mat
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\part_star_mat.mat.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\part_star_mat.mat.meta
-    projectPath: Assets\Space_Shooter\Materials\part_star_mat.mat.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\prop_asteroid_01_mat.mat
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\prop_asteroid_01_mat.mat
-    projectPath: Assets\Space_Shooter\Materials\prop_asteroid_01_mat.mat
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\prop_asteroid_01_mat.mat.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\prop_asteroid_01_mat.mat.meta
-    projectPath: Assets\Space_Shooter\Materials\prop_asteroid_01_mat.mat.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\prop_asteroid_02_mat.mat
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\prop_asteroid_02_mat.mat
-    projectPath: Assets\Space_Shooter\Materials\prop_asteroid_02_mat.mat
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\prop_asteroid_02_mat.mat.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\prop_asteroid_02_mat.mat.meta
-    projectPath: Assets\Space_Shooter\Materials\prop_asteroid_02_mat.mat.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\prop_asteroid_03_mat.mat
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\prop_asteroid_03_mat.mat
-    projectPath: Assets\Space_Shooter\Materials\prop_asteroid_03_mat.mat
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\prop_asteroid_03_mat.mat.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\prop_asteroid_03_mat.mat.meta
-    projectPath: Assets\Space_Shooter\Materials\prop_asteroid_03_mat.mat.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\vehicle_enemyShip_glow_mat.mat
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\vehicle_enemyShip_glow_mat.mat
-    projectPath: Assets\Space_Shooter\Materials\vehicle_enemyShip_glow_mat.mat
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\vehicle_enemyShip_glow_mat.mat.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\vehicle_enemyShip_glow_mat.mat.meta
-    projectPath: Assets\Space_Shooter\Materials\vehicle_enemyShip_glow_mat.mat.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\vehicle_enemyShip_metal_mat.mat
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\vehicle_enemyShip_metal_mat.mat
-    projectPath: Assets\Space_Shooter\Materials\vehicle_enemyShip_metal_mat.mat
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\vehicle_enemyShip_metal_mat.mat.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\vehicle_enemyShip_metal_mat.mat.meta
-    projectPath: Assets\Space_Shooter\Materials\vehicle_enemyShip_metal_mat.mat.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\vehicle_playerShip_glass_mat.mat
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\vehicle_playerShip_glass_mat.mat
-    projectPath: Assets\Space_Shooter\Materials\vehicle_playerShip_glass_mat.mat
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\vehicle_playerShip_glass_mat.mat.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\vehicle_playerShip_glass_mat.mat.meta
-    projectPath: Assets\Space_Shooter\Materials\vehicle_playerShip_glass_mat.mat.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\vehicle_playerShip_metal_mat.mat
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\vehicle_playerShip_metal_mat.mat
-    projectPath: Assets\Space_Shooter\Materials\vehicle_playerShip_metal_mat.mat
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Materials\vehicle_playerShip_metal_mat.mat.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Materials\vehicle_playerShip_metal_mat.mat.meta
-    projectPath: Assets\Space_Shooter\Materials\vehicle_playerShip_metal_mat.mat.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Models.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Models.meta
-    projectPath: Assets\Space_Shooter\Models.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Models\prop_asteroid_01.FBX
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Models\prop_asteroid_01.FBX
-    projectPath: Assets\Space_Shooter\Models\prop_asteroid_01.FBX
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Models\prop_asteroid_01.FBX.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Models\prop_asteroid_01.FBX.meta
-    projectPath: Assets\Space_Shooter\Models\prop_asteroid_01.FBX.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Models\prop_asteroid_02.FBX
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Models\prop_asteroid_02.FBX
-    projectPath: Assets\Space_Shooter\Models\prop_asteroid_02.FBX
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Models\prop_asteroid_02.FBX.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Models\prop_asteroid_02.FBX.meta
-    projectPath: Assets\Space_Shooter\Models\prop_asteroid_02.FBX.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Models\prop_asteroid_03.FBX
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Models\prop_asteroid_03.FBX
-    projectPath: Assets\Space_Shooter\Models\prop_asteroid_03.FBX
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Models\prop_asteroid_03.FBX.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Models\prop_asteroid_03.FBX.meta
-    projectPath: Assets\Space_Shooter\Models\prop_asteroid_03.FBX.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Models\vehicle_enemyShip.FBX
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Models\vehicle_enemyShip.FBX
-    projectPath: Assets\Space_Shooter\Models\vehicle_enemyShip.FBX
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Models\vehicle_enemyShip.FBX.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Models\vehicle_enemyShip.FBX.meta
-    projectPath: Assets\Space_Shooter\Models\vehicle_enemyShip.FBX.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Models\vehicle_playerShip.FBX
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Models\vehicle_playerShip.FBX
-    projectPath: Assets\Space_Shooter\Models\vehicle_playerShip.FBX
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Models\vehicle_playerShip.FBX.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Models\vehicle_playerShip.FBX.meta
-    projectPath: Assets\Space_Shooter\Models\vehicle_playerShip.FBX.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Models\vehicle_playerShip_collider.FBX
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Models\vehicle_playerShip_collider.FBX
-    projectPath: Assets\Space_Shooter\Models\vehicle_playerShip_collider.FBX
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Models\vehicle_playerShip_collider.FBX.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Models\vehicle_playerShip_collider.FBX.meta
-    projectPath: Assets\Space_Shooter\Models\vehicle_playerShip_collider.FBX.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures.meta
-    projectPath: Assets\Space_Shooter\Textures.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\cube_junkyard_sharp.cubemap
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\cube_junkyard_sharp.cubemap
-    projectPath: Assets\Space_Shooter\Textures\cube_junkyard_sharp.cubemap
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\cube_junkyard_sharp.cubemap.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\cube_junkyard_sharp.cubemap.meta
-    projectPath: Assets\Space_Shooter\Textures\cube_junkyard_sharp.cubemap.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\cube_junkyard_soft.cubemap
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\cube_junkyard_soft.cubemap
-    projectPath: Assets\Space_Shooter\Textures\cube_junkyard_soft.cubemap
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\cube_junkyard_soft.cubemap.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\cube_junkyard_soft.cubemap.meta
-    projectPath: Assets\Space_Shooter\Textures\cube_junkyard_soft.cubemap.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\fx_lazer_cyan_dff.tif
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\fx_lazer_cyan_dff.tif
-    projectPath: Assets\Space_Shooter\Textures\fx_lazer_cyan_dff.tif
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\fx_lazer_cyan_dff.tif.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\fx_lazer_cyan_dff.tif.meta
-    projectPath: Assets\Space_Shooter\Textures\fx_lazer_cyan_dff.tif.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\fx_lazer_orange_dff.tif
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\fx_lazer_orange_dff.tif
-    projectPath: Assets\Space_Shooter\Textures\fx_lazer_orange_dff.tif
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\fx_lazer_orange_dff.tif.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\fx_lazer_orange_dff.tif.meta
-    projectPath: Assets\Space_Shooter\Textures\fx_lazer_orange_dff.tif.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\part_enginePulse_dff.tif
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\part_enginePulse_dff.tif
-    projectPath: Assets\Space_Shooter\Textures\part_enginePulse_dff.tif
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\part_enginePulse_dff.tif.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\part_enginePulse_dff.tif.meta
-    projectPath: Assets\Space_Shooter\Textures\part_enginePulse_dff.tif.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\part_flash_dff.tif
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\part_flash_dff.tif
-    projectPath: Assets\Space_Shooter\Textures\part_flash_dff.tif
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\part_flash_dff.tif.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\part_flash_dff.tif.meta
-    projectPath: Assets\Space_Shooter\Textures\part_flash_dff.tif.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\part_jet_core_dff.tif
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\part_jet_core_dff.tif
-    projectPath: Assets\Space_Shooter\Textures\part_jet_core_dff.tif
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\part_jet_core_dff.tif.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\part_jet_core_dff.tif.meta
-    projectPath: Assets\Space_Shooter\Textures\part_jet_core_dff.tif.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\part_jet_flare_dff.tif
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\part_jet_flare_dff.tif
-    projectPath: Assets\Space_Shooter\Textures\part_jet_flare_dff.tif
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\part_jet_flare_dff.tif.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\part_jet_flare_dff.tif.meta
-    projectPath: Assets\Space_Shooter\Textures\part_jet_flare_dff.tif.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\part_shockwave_dff.tif
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\part_shockwave_dff.tif
-    projectPath: Assets\Space_Shooter\Textures\part_shockwave_dff.tif
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\part_shockwave_dff.tif.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\part_shockwave_dff.tif.meta
-    projectPath: Assets\Space_Shooter\Textures\part_shockwave_dff.tif.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\part_spark_large_dff.tif
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\part_spark_large_dff.tif
-    projectPath: Assets\Space_Shooter\Textures\part_spark_large_dff.tif
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\part_spark_large_dff.tif.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\part_spark_large_dff.tif.meta
-    projectPath: Assets\Space_Shooter\Textures\part_spark_large_dff.tif.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\part_spark_small_dff.tif
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\part_spark_small_dff.tif
-    projectPath: Assets\Space_Shooter\Textures\part_spark_small_dff.tif
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\part_spark_small_dff.tif.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\part_spark_small_dff.tif.meta
-    projectPath: Assets\Space_Shooter\Textures\part_spark_small_dff.tif.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\part_star_dff.tif
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\part_star_dff.tif
-    projectPath: Assets\Space_Shooter\Textures\part_star_dff.tif
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\part_star_dff.tif.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\part_star_dff.tif.meta
-    projectPath: Assets\Space_Shooter\Textures\part_star_dff.tif.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\prop_asteroid_01_dff.tif
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\prop_asteroid_01_dff.tif
-    projectPath: Assets\Space_Shooter\Textures\prop_asteroid_01_dff.tif
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\prop_asteroid_01_dff.tif.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\prop_asteroid_01_dff.tif.meta
-    projectPath: Assets\Space_Shooter\Textures\prop_asteroid_01_dff.tif.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\prop_asteroid_01_nrm.tif
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\prop_asteroid_01_nrm.tif
-    projectPath: Assets\Space_Shooter\Textures\prop_asteroid_01_nrm.tif
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\prop_asteroid_01_nrm.tif.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\prop_asteroid_01_nrm.tif.meta
-    projectPath: Assets\Space_Shooter\Textures\prop_asteroid_01_nrm.tif.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\prop_asteroid_02_dff.tif
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\prop_asteroid_02_dff.tif
-    projectPath: Assets\Space_Shooter\Textures\prop_asteroid_02_dff.tif
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\prop_asteroid_02_dff.tif.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\prop_asteroid_02_dff.tif.meta
-    projectPath: Assets\Space_Shooter\Textures\prop_asteroid_02_dff.tif.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\prop_asteroid_02_nrm.tif
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\prop_asteroid_02_nrm.tif
-    projectPath: Assets\Space_Shooter\Textures\prop_asteroid_02_nrm.tif
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\prop_asteroid_02_nrm.tif.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\prop_asteroid_02_nrm.tif.meta
-    projectPath: Assets\Space_Shooter\Textures\prop_asteroid_02_nrm.tif.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\prop_asteroid_03_dff.tif
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\prop_asteroid_03_dff.tif
-    projectPath: Assets\Space_Shooter\Textures\prop_asteroid_03_dff.tif
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\prop_asteroid_03_dff.tif.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\prop_asteroid_03_dff.tif.meta
-    projectPath: Assets\Space_Shooter\Textures\prop_asteroid_03_dff.tif.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\prop_asteroid_03_nrm.tif
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\prop_asteroid_03_nrm.tif
-    projectPath: Assets\Space_Shooter\Textures\prop_asteroid_03_nrm.tif
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\prop_asteroid_03_nrm.tif.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\prop_asteroid_03_nrm.tif.meta
-    projectPath: Assets\Space_Shooter\Textures\prop_asteroid_03_nrm.tif.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\tile_nebula_green_dff.tif
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\tile_nebula_green_dff.tif
-    projectPath: Assets\Space_Shooter\Textures\tile_nebula_green_dff.tif
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\tile_nebula_green_dff.tif.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\tile_nebula_green_dff.tif.meta
-    projectPath: Assets\Space_Shooter\Textures\tile_nebula_green_dff.tif.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\vehicle_enemyShip_nrm.tif
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\vehicle_enemyShip_nrm.tif
-    projectPath: Assets\Space_Shooter\Textures\vehicle_enemyShip_nrm.tif
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\vehicle_enemyShip_nrm.tif.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\vehicle_enemyShip_nrm.tif.meta
-    projectPath: Assets\Space_Shooter\Textures\vehicle_enemyShip_nrm.tif.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\vehicle_enemyShip_purple_dff.tif
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\vehicle_enemyShip_purple_dff.tif
-    projectPath: Assets\Space_Shooter\Textures\vehicle_enemyShip_purple_dff.tif
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\vehicle_enemyShip_purple_dff.tif.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\vehicle_enemyShip_purple_dff.tif.meta
-    projectPath: Assets\Space_Shooter\Textures\vehicle_enemyShip_purple_dff.tif.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\vehicle_enemyShip_red_dff.tif
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\vehicle_enemyShip_red_dff.tif
-    projectPath: Assets\Space_Shooter\Textures\vehicle_enemyShip_red_dff.tif
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\vehicle_enemyShip_red_dff.tif.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\vehicle_enemyShip_red_dff.tif.meta
-    projectPath: Assets\Space_Shooter\Textures\vehicle_enemyShip_red_dff.tif.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\vehicle_playerShip_orange_dff.tif
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\vehicle_playerShip_orange_dff.tif
-    projectPath: Assets\Space_Shooter\Textures\vehicle_playerShip_orange_dff.tif
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\vehicle_playerShip_orange_dff.tif.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\vehicle_playerShip_orange_dff.tif.meta
-    projectPath: Assets\Space_Shooter\Textures\vehicle_playerShip_orange_dff.tif.meta
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\vehicle_playerShip_orange_nrm.tif
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\vehicle_playerShip_orange_nrm.tif
-    projectPath: Assets\Space_Shooter\Textures\vehicle_playerShip_orange_nrm.tif
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Assets\Space_Shooter\Textures\vehicle_playerShip_orange_nrm.tif.meta
-    fullPath: D:\Projekti\Unity\The game\Assets\Space_Shooter\Textures\vehicle_playerShip_orange_nrm.tif.meta
-    projectPath: Assets\Space_Shooter\Textures\vehicle_playerShip_orange_nrm.tif.meta
-    originalPath: 
-    status: 5
+    status: 3
     staged: 0
   - path: Library\assetDatabase3
     fullPath: D:\Projekti\Unity\The game\Library\assetDatabase3
     projectPath: Library\assetDatabase3
     originalPath: 
     status: 3
+    staged: 0
+  - path: Library\CrashedAssetImports.txt
+    fullPath: D:\Projekti\Unity\The game\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
+    originalPath: 
+    status: 1
     staged: 0
   - path: Library\CurrentMaximizeLayout.dwlt
     fullPath: D:\Projekti\Unity\The game\Library\CurrentMaximizeLayout.dwlt
@@ -958,1013 +208,125 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\metadata\02\025cb420cb1a179428d1e0d8ad935582
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\02\025cb420cb1a179428d1e0d8ad935582
-    projectPath: Library\metadata\02\025cb420cb1a179428d1e0d8ad935582
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\02\025cb420cb1a179428d1e0d8ad935582.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\02\025cb420cb1a179428d1e0d8ad935582.info
-    projectPath: Library\metadata\02\025cb420cb1a179428d1e0d8ad935582.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\02\02b9842ef9f24504da607ffe85d8b8d7
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\02\02b9842ef9f24504da607ffe85d8b8d7
-    projectPath: Library\metadata\02\02b9842ef9f24504da607ffe85d8b8d7
+  - path: Library\metadata\0e\0e62fb06e4aeecb4cbd80224e718f0be
+    fullPath: D:\Projekti\Unity\The game\Library\metadata\0e\0e62fb06e4aeecb4cbd80224e718f0be
+    projectPath: Library\metadata\0e\0e62fb06e4aeecb4cbd80224e718f0be
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\02\02b9842ef9f24504da607ffe85d8b8d7.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\02\02b9842ef9f24504da607ffe85d8b8d7.info
-    projectPath: Library\metadata\02\02b9842ef9f24504da607ffe85d8b8d7.info
+  - path: Library\metadata\0e\0e62fb06e4aeecb4cbd80224e718f0be.info
+    fullPath: D:\Projekti\Unity\The game\Library\metadata\0e\0e62fb06e4aeecb4cbd80224e718f0be.info
+    projectPath: Library\metadata\0e\0e62fb06e4aeecb4cbd80224e718f0be.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\05\056cf2cadbcf6c54c84fda00e73c915d
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\05\056cf2cadbcf6c54c84fda00e73c915d
-    projectPath: Library\metadata\05\056cf2cadbcf6c54c84fda00e73c915d
+  - path: Library\metadata\34\34b65ad4ac40bc247a7e6ff81bcb1f61
+    fullPath: D:\Projekti\Unity\The game\Library\metadata\34\34b65ad4ac40bc247a7e6ff81bcb1f61
+    projectPath: Library\metadata\34\34b65ad4ac40bc247a7e6ff81bcb1f61
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\05\056cf2cadbcf6c54c84fda00e73c915d.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\05\056cf2cadbcf6c54c84fda00e73c915d.info
-    projectPath: Library\metadata\05\056cf2cadbcf6c54c84fda00e73c915d.info
+  - path: Library\metadata\34\34b65ad4ac40bc247a7e6ff81bcb1f61.info
+    fullPath: D:\Projekti\Unity\The game\Library\metadata\34\34b65ad4ac40bc247a7e6ff81bcb1f61.info
+    projectPath: Library\metadata\34\34b65ad4ac40bc247a7e6ff81bcb1f61.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\06\06d48eb6cad93b44dbe203b8bbc8b27f
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\06\06d48eb6cad93b44dbe203b8bbc8b27f
-    projectPath: Library\metadata\06\06d48eb6cad93b44dbe203b8bbc8b27f
+  - path: Library\metadata\45\455d4552be4a892499e68929cac09fc4
+    fullPath: D:\Projekti\Unity\The game\Library\metadata\45\455d4552be4a892499e68929cac09fc4
+    projectPath: Library\metadata\45\455d4552be4a892499e68929cac09fc4
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\06\06d48eb6cad93b44dbe203b8bbc8b27f.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\06\06d48eb6cad93b44dbe203b8bbc8b27f.info
-    projectPath: Library\metadata\06\06d48eb6cad93b44dbe203b8bbc8b27f.info
+  - path: Library\metadata\45\455d4552be4a892499e68929cac09fc4.info
+    fullPath: D:\Projekti\Unity\The game\Library\metadata\45\455d4552be4a892499e68929cac09fc4.info
+    projectPath: Library\metadata\45\455d4552be4a892499e68929cac09fc4.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\0c\0cc19be6f233fbc44a5c0fd3c1880785
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\0c\0cc19be6f233fbc44a5c0fd3c1880785
-    projectPath: Library\metadata\0c\0cc19be6f233fbc44a5c0fd3c1880785
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\0c\0cc19be6f233fbc44a5c0fd3c1880785.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\0c\0cc19be6f233fbc44a5c0fd3c1880785.info
-    projectPath: Library\metadata\0c\0cc19be6f233fbc44a5c0fd3c1880785.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\0e\0ee039f1b68922044ac82c695318d370
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\0e\0ee039f1b68922044ac82c695318d370
-    projectPath: Library\metadata\0e\0ee039f1b68922044ac82c695318d370
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\0e\0ee039f1b68922044ac82c695318d370.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\0e\0ee039f1b68922044ac82c695318d370.info
-    projectPath: Library\metadata\0e\0ee039f1b68922044ac82c695318d370.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\0e\0ef8c48f9d57f4349b5508058001a50c
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\0e\0ef8c48f9d57f4349b5508058001a50c
-    projectPath: Library\metadata\0e\0ef8c48f9d57f4349b5508058001a50c
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\0e\0ef8c48f9d57f4349b5508058001a50c.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\0e\0ef8c48f9d57f4349b5508058001a50c.info
-    projectPath: Library\metadata\0e\0ef8c48f9d57f4349b5508058001a50c.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\0f\0f099fdbe34992841afee9be73491e98
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\0f\0f099fdbe34992841afee9be73491e98
-    projectPath: Library\metadata\0f\0f099fdbe34992841afee9be73491e98
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\0f\0f099fdbe34992841afee9be73491e98.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\0f\0f099fdbe34992841afee9be73491e98.info
-    projectPath: Library\metadata\0f\0f099fdbe34992841afee9be73491e98.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\10\10a2de259c66c854db484fd3a6057e9b
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\10\10a2de259c66c854db484fd3a6057e9b
-    projectPath: Library\metadata\10\10a2de259c66c854db484fd3a6057e9b
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\10\10a2de259c66c854db484fd3a6057e9b.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\10\10a2de259c66c854db484fd3a6057e9b.info
-    projectPath: Library\metadata\10\10a2de259c66c854db484fd3a6057e9b.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\11\11ac586af6a938f4b9c09ade7aafcbb9
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\11\11ac586af6a938f4b9c09ade7aafcbb9
-    projectPath: Library\metadata\11\11ac586af6a938f4b9c09ade7aafcbb9
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\11\11ac586af6a938f4b9c09ade7aafcbb9.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\11\11ac586af6a938f4b9c09ade7aafcbb9.info
-    projectPath: Library\metadata\11\11ac586af6a938f4b9c09ade7aafcbb9.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\14\14d9d71b3aa9f9948816e59af77811af
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\14\14d9d71b3aa9f9948816e59af77811af
-    projectPath: Library\metadata\14\14d9d71b3aa9f9948816e59af77811af
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\14\14d9d71b3aa9f9948816e59af77811af.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\14\14d9d71b3aa9f9948816e59af77811af.info
-    projectPath: Library\metadata\14\14d9d71b3aa9f9948816e59af77811af.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\15\15b399474825b764daef0182e2db44cc
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\15\15b399474825b764daef0182e2db44cc
-    projectPath: Library\metadata\15\15b399474825b764daef0182e2db44cc
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\15\15b399474825b764daef0182e2db44cc.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\15\15b399474825b764daef0182e2db44cc.info
-    projectPath: Library\metadata\15\15b399474825b764daef0182e2db44cc.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\1e\1e15cde87274bb34d8f895c00a034f29
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\1e\1e15cde87274bb34d8f895c00a034f29
-    projectPath: Library\metadata\1e\1e15cde87274bb34d8f895c00a034f29
+  - path: Library\metadata\46\4611206ce3b75604f943facb8fbf70c9
+    fullPath: D:\Projekti\Unity\The game\Library\metadata\46\4611206ce3b75604f943facb8fbf70c9
+    projectPath: Library\metadata\46\4611206ce3b75604f943facb8fbf70c9
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\1e\1e15cde87274bb34d8f895c00a034f29.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\1e\1e15cde87274bb34d8f895c00a034f29.info
-    projectPath: Library\metadata\1e\1e15cde87274bb34d8f895c00a034f29.info
+  - path: Library\metadata\46\4611206ce3b75604f943facb8fbf70c9.info
+    fullPath: D:\Projekti\Unity\The game\Library\metadata\46\4611206ce3b75604f943facb8fbf70c9.info
+    projectPath: Library\metadata\46\4611206ce3b75604f943facb8fbf70c9.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\20\200c4969e08bb9b4190277f11f46e19a
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\20\200c4969e08bb9b4190277f11f46e19a
-    projectPath: Library\metadata\20\200c4969e08bb9b4190277f11f46e19a
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\20\200c4969e08bb9b4190277f11f46e19a.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\20\200c4969e08bb9b4190277f11f46e19a.info
-    projectPath: Library\metadata\20\200c4969e08bb9b4190277f11f46e19a.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\2d\2dde3fb56730c224e861e859990fb946
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\2d\2dde3fb56730c224e861e859990fb946
-    projectPath: Library\metadata\2d\2dde3fb56730c224e861e859990fb946
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\2d\2dde3fb56730c224e861e859990fb946.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\2d\2dde3fb56730c224e861e859990fb946.info
-    projectPath: Library\metadata\2d\2dde3fb56730c224e861e859990fb946.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\2d\2dde3fb56730c224e861e859990fb946.resource
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\2d\2dde3fb56730c224e861e859990fb946.resource
-    projectPath: Library\metadata\2d\2dde3fb56730c224e861e859990fb946.resource
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\35\357288b142b8aab4e815e9fb393b1eba
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\35\357288b142b8aab4e815e9fb393b1eba
-    projectPath: Library\metadata\35\357288b142b8aab4e815e9fb393b1eba
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\35\357288b142b8aab4e815e9fb393b1eba.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\35\357288b142b8aab4e815e9fb393b1eba.info
-    projectPath: Library\metadata\35\357288b142b8aab4e815e9fb393b1eba.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\39\391e8b823fd0b5d4aa3f64be4b960b92
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\39\391e8b823fd0b5d4aa3f64be4b960b92
-    projectPath: Library\metadata\39\391e8b823fd0b5d4aa3f64be4b960b92
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\39\391e8b823fd0b5d4aa3f64be4b960b92.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\39\391e8b823fd0b5d4aa3f64be4b960b92.info
-    projectPath: Library\metadata\39\391e8b823fd0b5d4aa3f64be4b960b92.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\39\397492f38cb50a94b87fd5ff5a820086
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\39\397492f38cb50a94b87fd5ff5a820086
-    projectPath: Library\metadata\39\397492f38cb50a94b87fd5ff5a820086
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\39\397492f38cb50a94b87fd5ff5a820086.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\39\397492f38cb50a94b87fd5ff5a820086.info
-    projectPath: Library\metadata\39\397492f38cb50a94b87fd5ff5a820086.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\3a\3aba56c0a616a1940b07df21fd76903d
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\3a\3aba56c0a616a1940b07df21fd76903d
-    projectPath: Library\metadata\3a\3aba56c0a616a1940b07df21fd76903d
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\3a\3aba56c0a616a1940b07df21fd76903d.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\3a\3aba56c0a616a1940b07df21fd76903d.info
-    projectPath: Library\metadata\3a\3aba56c0a616a1940b07df21fd76903d.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\3b\3b77c7ca3f96a28488da872633bd0138
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\3b\3b77c7ca3f96a28488da872633bd0138
-    projectPath: Library\metadata\3b\3b77c7ca3f96a28488da872633bd0138
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\3b\3b77c7ca3f96a28488da872633bd0138.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\3b\3b77c7ca3f96a28488da872633bd0138.info
-    projectPath: Library\metadata\3b\3b77c7ca3f96a28488da872633bd0138.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\3d\3d4df9e2890964a448db17da40b6640e
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\3d\3d4df9e2890964a448db17da40b6640e
-    projectPath: Library\metadata\3d\3d4df9e2890964a448db17da40b6640e
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\3d\3d4df9e2890964a448db17da40b6640e.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\3d\3d4df9e2890964a448db17da40b6640e.info
-    projectPath: Library\metadata\3d\3d4df9e2890964a448db17da40b6640e.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\3e\3e26f8fad13817d41b426ab5dce800bc
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\3e\3e26f8fad13817d41b426ab5dce800bc
-    projectPath: Library\metadata\3e\3e26f8fad13817d41b426ab5dce800bc
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\3e\3e26f8fad13817d41b426ab5dce800bc.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\3e\3e26f8fad13817d41b426ab5dce800bc.info
-    projectPath: Library\metadata\3e\3e26f8fad13817d41b426ab5dce800bc.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\3f\3f9746c74c79caf49b1bd5908ebebdd1
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\3f\3f9746c74c79caf49b1bd5908ebebdd1
-    projectPath: Library\metadata\3f\3f9746c74c79caf49b1bd5908ebebdd1
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\3f\3f9746c74c79caf49b1bd5908ebebdd1.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\3f\3f9746c74c79caf49b1bd5908ebebdd1.info
-    projectPath: Library\metadata\3f\3f9746c74c79caf49b1bd5908ebebdd1.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\43\43083ee838e13d242b69f3bc689840a2
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\43\43083ee838e13d242b69f3bc689840a2
-    projectPath: Library\metadata\43\43083ee838e13d242b69f3bc689840a2
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\43\43083ee838e13d242b69f3bc689840a2.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\43\43083ee838e13d242b69f3bc689840a2.info
-    projectPath: Library\metadata\43\43083ee838e13d242b69f3bc689840a2.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\43\43ffcb8b867c53642b421f5e06c9c546
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\43\43ffcb8b867c53642b421f5e06c9c546
-    projectPath: Library\metadata\43\43ffcb8b867c53642b421f5e06c9c546
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\43\43ffcb8b867c53642b421f5e06c9c546.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\43\43ffcb8b867c53642b421f5e06c9c546.info
-    projectPath: Library\metadata\43\43ffcb8b867c53642b421f5e06c9c546.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\45\45e86a855140c3b4ca41ca5047f3634e
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\45\45e86a855140c3b4ca41ca5047f3634e
-    projectPath: Library\metadata\45\45e86a855140c3b4ca41ca5047f3634e
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\45\45e86a855140c3b4ca41ca5047f3634e.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\45\45e86a855140c3b4ca41ca5047f3634e.info
-    projectPath: Library\metadata\45\45e86a855140c3b4ca41ca5047f3634e.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\4c\4c57fdc9898c31c4eacf93c22fe96489
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\4c\4c57fdc9898c31c4eacf93c22fe96489
-    projectPath: Library\metadata\4c\4c57fdc9898c31c4eacf93c22fe96489
+  - path: Library\metadata\48\48fb7a105a5a7d54a8381ce423789542
+    fullPath: D:\Projekti\Unity\The game\Library\metadata\48\48fb7a105a5a7d54a8381ce423789542
+    projectPath: Library\metadata\48\48fb7a105a5a7d54a8381ce423789542
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\4c\4c57fdc9898c31c4eacf93c22fe96489.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\4c\4c57fdc9898c31c4eacf93c22fe96489.info
-    projectPath: Library\metadata\4c\4c57fdc9898c31c4eacf93c22fe96489.info
+  - path: Library\metadata\48\48fb7a105a5a7d54a8381ce423789542.info
+    fullPath: D:\Projekti\Unity\The game\Library\metadata\48\48fb7a105a5a7d54a8381ce423789542.info
+    projectPath: Library\metadata\48\48fb7a105a5a7d54a8381ce423789542.info
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\4d\4d0562ece3a535342ab541f8d19f24ee
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\4d\4d0562ece3a535342ab541f8d19f24ee
-    projectPath: Library\metadata\4d\4d0562ece3a535342ab541f8d19f24ee
+  - path: Library\metadata\60\6014dab412afb6b46a6d5a80f423deec
+    fullPath: D:\Projekti\Unity\The game\Library\metadata\60\6014dab412afb6b46a6d5a80f423deec
+    projectPath: Library\metadata\60\6014dab412afb6b46a6d5a80f423deec
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\4d\4d0562ece3a535342ab541f8d19f24ee.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\4d\4d0562ece3a535342ab541f8d19f24ee.info
-    projectPath: Library\metadata\4d\4d0562ece3a535342ab541f8d19f24ee.info
+  - path: Library\metadata\60\6014dab412afb6b46a6d5a80f423deec.info
+    fullPath: D:\Projekti\Unity\The game\Library\metadata\60\6014dab412afb6b46a6d5a80f423deec.info
+    projectPath: Library\metadata\60\6014dab412afb6b46a6d5a80f423deec.info
     originalPath: 
     status: 1
-    staged: 0
-  - path: Library\metadata\53\53e269bd937ddcb4698bea145794071b
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\53\53e269bd937ddcb4698bea145794071b
-    projectPath: Library\metadata\53\53e269bd937ddcb4698bea145794071b
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\53\53e269bd937ddcb4698bea145794071b.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\53\53e269bd937ddcb4698bea145794071b.info
-    projectPath: Library\metadata\53\53e269bd937ddcb4698bea145794071b.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\56\56fa9a4df4718114c9afd08881bb8988
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\56\56fa9a4df4718114c9afd08881bb8988
-    projectPath: Library\metadata\56\56fa9a4df4718114c9afd08881bb8988
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\56\56fa9a4df4718114c9afd08881bb8988.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\56\56fa9a4df4718114c9afd08881bb8988.info
-    projectPath: Library\metadata\56\56fa9a4df4718114c9afd08881bb8988.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\59\5939a80f96d3287499ba7be20fedd032
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\59\5939a80f96d3287499ba7be20fedd032
-    projectPath: Library\metadata\59\5939a80f96d3287499ba7be20fedd032
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\59\5939a80f96d3287499ba7be20fedd032.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\59\5939a80f96d3287499ba7be20fedd032.info
-    projectPath: Library\metadata\59\5939a80f96d3287499ba7be20fedd032.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\5b\5b8beeab690c2c84284ff5c55c90fdbf
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\5b\5b8beeab690c2c84284ff5c55c90fdbf
-    projectPath: Library\metadata\5b\5b8beeab690c2c84284ff5c55c90fdbf
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\5b\5b8beeab690c2c84284ff5c55c90fdbf.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\5b\5b8beeab690c2c84284ff5c55c90fdbf.info
-    projectPath: Library\metadata\5b\5b8beeab690c2c84284ff5c55c90fdbf.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\5c\5cf9f371fd85813408dad2b5a4f15975
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\5c\5cf9f371fd85813408dad2b5a4f15975
-    projectPath: Library\metadata\5c\5cf9f371fd85813408dad2b5a4f15975
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\5c\5cf9f371fd85813408dad2b5a4f15975.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\5c\5cf9f371fd85813408dad2b5a4f15975.info
-    projectPath: Library\metadata\5c\5cf9f371fd85813408dad2b5a4f15975.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\5e\5e51371426ceea94e9a7d7bec718245b
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\5e\5e51371426ceea94e9a7d7bec718245b
-    projectPath: Library\metadata\5e\5e51371426ceea94e9a7d7bec718245b
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\5e\5e51371426ceea94e9a7d7bec718245b.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\5e\5e51371426ceea94e9a7d7bec718245b.info
-    projectPath: Library\metadata\5e\5e51371426ceea94e9a7d7bec718245b.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\60\608524e21d7632b4c89337653822f72d
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\60\608524e21d7632b4c89337653822f72d
-    projectPath: Library\metadata\60\608524e21d7632b4c89337653822f72d
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\60\608524e21d7632b4c89337653822f72d.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\60\608524e21d7632b4c89337653822f72d.info
-    projectPath: Library\metadata\60\608524e21d7632b4c89337653822f72d.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\61\618f020d1d5301144bf18b94bb497b08
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\61\618f020d1d5301144bf18b94bb497b08
-    projectPath: Library\metadata\61\618f020d1d5301144bf18b94bb497b08
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\61\618f020d1d5301144bf18b94bb497b08.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\61\618f020d1d5301144bf18b94bb497b08.info
-    projectPath: Library\metadata\61\618f020d1d5301144bf18b94bb497b08.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\63\6334578784ad5754ab2763d899cebc3b
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\63\6334578784ad5754ab2763d899cebc3b
-    projectPath: Library\metadata\63\6334578784ad5754ab2763d899cebc3b
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\63\6334578784ad5754ab2763d899cebc3b.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\63\6334578784ad5754ab2763d899cebc3b.info
-    projectPath: Library\metadata\63\6334578784ad5754ab2763d899cebc3b.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\63\6334578784ad5754ab2763d899cebc3b.resource
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\63\6334578784ad5754ab2763d899cebc3b.resource
-    projectPath: Library\metadata\63\6334578784ad5754ab2763d899cebc3b.resource
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\6a\6ab3bede1d644f6488b7f6912d77ede2
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\6a\6ab3bede1d644f6488b7f6912d77ede2
-    projectPath: Library\metadata\6a\6ab3bede1d644f6488b7f6912d77ede2
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\6a\6ab3bede1d644f6488b7f6912d77ede2.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\6a\6ab3bede1d644f6488b7f6912d77ede2.info
-    projectPath: Library\metadata\6a\6ab3bede1d644f6488b7f6912d77ede2.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\6b\6bfe9dc3ec008f6429910cdb13357990
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\6b\6bfe9dc3ec008f6429910cdb13357990
-    projectPath: Library\metadata\6b\6bfe9dc3ec008f6429910cdb13357990
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\6b\6bfe9dc3ec008f6429910cdb13357990.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\6b\6bfe9dc3ec008f6429910cdb13357990.info
-    projectPath: Library\metadata\6b\6bfe9dc3ec008f6429910cdb13357990.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\6d\6d506675129ea3f479f2b9be23c64324
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\6d\6d506675129ea3f479f2b9be23c64324
-    projectPath: Library\metadata\6d\6d506675129ea3f479f2b9be23c64324
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\6d\6d506675129ea3f479f2b9be23c64324.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\6d\6d506675129ea3f479f2b9be23c64324.info
-    projectPath: Library\metadata\6d\6d506675129ea3f479f2b9be23c64324.info
-    originalPath: 
-    status: 5
     staged: 0
   - path: Library\metadata\6e\6e4c8725e5286e34cab72a3c591cc8c9
     fullPath: D:\Projekti\Unity\The game\Library\metadata\6e\6e4c8725e5286e34cab72a3c591cc8c9
     projectPath: Library\metadata\6e\6e4c8725e5286e34cab72a3c591cc8c9
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: Library\metadata\6e\6e4c8725e5286e34cab72a3c591cc8c9.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\6e\6e4c8725e5286e34cab72a3c591cc8c9.info
-    projectPath: Library\metadata\6e\6e4c8725e5286e34cab72a3c591cc8c9.info
+  - path: Library\metadata\72\725e268d88dd16348a3c278b660a9064
+    fullPath: D:\Projekti\Unity\The game\Library\metadata\72\725e268d88dd16348a3c278b660a9064
+    projectPath: Library\metadata\72\725e268d88dd16348a3c278b660a9064
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\72\720eb4f74257e5d4f88d6588deee8ae5
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\72\720eb4f74257e5d4f88d6588deee8ae5
-    projectPath: Library\metadata\72\720eb4f74257e5d4f88d6588deee8ae5
+  - path: Library\metadata\72\725e268d88dd16348a3c278b660a9064.info
+    fullPath: D:\Projekti\Unity\The game\Library\metadata\72\725e268d88dd16348a3c278b660a9064.info
+    projectPath: Library\metadata\72\725e268d88dd16348a3c278b660a9064.info
     originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\72\720eb4f74257e5d4f88d6588deee8ae5.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\72\720eb4f74257e5d4f88d6588deee8ae5.info
-    projectPath: Library\metadata\72\720eb4f74257e5d4f88d6588deee8ae5.info
-    originalPath: 
-    status: 5
+    status: 1
     staged: 0
   - path: Library\metadata\78\78ffd3606cf77bb43a45881cd999b9b8
     fullPath: D:\Projekti\Unity\The game\Library\metadata\78\78ffd3606cf77bb43a45881cd999b9b8
     projectPath: Library\metadata\78\78ffd3606cf77bb43a45881cd999b9b8
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Library\metadata\78\78ffd3606cf77bb43a45881cd999b9b8.info
     fullPath: D:\Projekti\Unity\The game\Library\metadata\78\78ffd3606cf77bb43a45881cd999b9b8.info
     projectPath: Library\metadata\78\78ffd3606cf77bb43a45881cd999b9b8.info
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: Library\metadata\7b\7b6f0dd503b913e44b95ddfbd5150680
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\7b\7b6f0dd503b913e44b95ddfbd5150680
-    projectPath: Library\metadata\7b\7b6f0dd503b913e44b95ddfbd5150680
+  - path: Library\metadata\d1\d19ea87d6afa0ad46b1bbc350d09b3f7
+    fullPath: D:\Projekti\Unity\The game\Library\metadata\d1\d19ea87d6afa0ad46b1bbc350d09b3f7
+    projectPath: Library\metadata\d1\d19ea87d6afa0ad46b1bbc350d09b3f7
     originalPath: 
-    status: 5
+    status: 3
     staged: 0
-  - path: Library\metadata\7b\7b6f0dd503b913e44b95ddfbd5150680.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\7b\7b6f0dd503b913e44b95ddfbd5150680.info
-    projectPath: Library\metadata\7b\7b6f0dd503b913e44b95ddfbd5150680.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\7f\7f721d00f5aae9f4bab891e0b6411efb
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\7f\7f721d00f5aae9f4bab891e0b6411efb
-    projectPath: Library\metadata\7f\7f721d00f5aae9f4bab891e0b6411efb
+  - path: Library\metadata\d2\d2d16c989561d0543a7f232b0148680c
+    fullPath: D:\Projekti\Unity\The game\Library\metadata\d2\d2d16c989561d0543a7f232b0148680c
+    projectPath: Library\metadata\d2\d2d16c989561d0543a7f232b0148680c
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\metadata\7f\7f721d00f5aae9f4bab891e0b6411efb.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\7f\7f721d00f5aae9f4bab891e0b6411efb.info
-    projectPath: Library\metadata\7f\7f721d00f5aae9f4bab891e0b6411efb.info
+  - path: Library\metadata\d2\d2d16c989561d0543a7f232b0148680c.info
+    fullPath: D:\Projekti\Unity\The game\Library\metadata\d2\d2d16c989561d0543a7f232b0148680c.info
+    projectPath: Library\metadata\d2\d2d16c989561d0543a7f232b0148680c.info
     originalPath: 
     status: 1
-    staged: 0
-  - path: Library\metadata\85\85f10cbf84d0cdb48b0244d929c7c076
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\85\85f10cbf84d0cdb48b0244d929c7c076
-    projectPath: Library\metadata\85\85f10cbf84d0cdb48b0244d929c7c076
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\85\85f10cbf84d0cdb48b0244d929c7c076.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\85\85f10cbf84d0cdb48b0244d929c7c076.info
-    projectPath: Library\metadata\85\85f10cbf84d0cdb48b0244d929c7c076.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\86\863a6f0c7e292d341bbb5361a8704524
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\86\863a6f0c7e292d341bbb5361a8704524
-    projectPath: Library\metadata\86\863a6f0c7e292d341bbb5361a8704524
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\86\863a6f0c7e292d341bbb5361a8704524.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\86\863a6f0c7e292d341bbb5361a8704524.info
-    projectPath: Library\metadata\86\863a6f0c7e292d341bbb5361a8704524.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\87\87392dddbe7876e4ea94c43ff7a06d8c
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\87\87392dddbe7876e4ea94c43ff7a06d8c
-    projectPath: Library\metadata\87\87392dddbe7876e4ea94c43ff7a06d8c
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\87\87392dddbe7876e4ea94c43ff7a06d8c.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\87\87392dddbe7876e4ea94c43ff7a06d8c.info
-    projectPath: Library\metadata\87\87392dddbe7876e4ea94c43ff7a06d8c.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\8c\8c5ca7a41f33f9749ac0da2d12edf8a8
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\8c\8c5ca7a41f33f9749ac0da2d12edf8a8
-    projectPath: Library\metadata\8c\8c5ca7a41f33f9749ac0da2d12edf8a8
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\8c\8c5ca7a41f33f9749ac0da2d12edf8a8.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\8c\8c5ca7a41f33f9749ac0da2d12edf8a8.info
-    projectPath: Library\metadata\8c\8c5ca7a41f33f9749ac0da2d12edf8a8.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\8c\8c5ca7a41f33f9749ac0da2d12edf8a8.resource
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\8c\8c5ca7a41f33f9749ac0da2d12edf8a8.resource
-    projectPath: Library\metadata\8c\8c5ca7a41f33f9749ac0da2d12edf8a8.resource
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\8f\8f8e8f170053cb34bbbaf013c1058f70
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\8f\8f8e8f170053cb34bbbaf013c1058f70
-    projectPath: Library\metadata\8f\8f8e8f170053cb34bbbaf013c1058f70
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\8f\8f8e8f170053cb34bbbaf013c1058f70.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\8f\8f8e8f170053cb34bbbaf013c1058f70.info
-    projectPath: Library\metadata\8f\8f8e8f170053cb34bbbaf013c1058f70.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\8f\8fa39affb04dd184bb70ed2b6799c919
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\8f\8fa39affb04dd184bb70ed2b6799c919
-    projectPath: Library\metadata\8f\8fa39affb04dd184bb70ed2b6799c919
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\8f\8fa39affb04dd184bb70ed2b6799c919.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\8f\8fa39affb04dd184bb70ed2b6799c919.info
-    projectPath: Library\metadata\8f\8fa39affb04dd184bb70ed2b6799c919.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\91\913c99f30ab11c543adad5becc9fa7da
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\91\913c99f30ab11c543adad5becc9fa7da
-    projectPath: Library\metadata\91\913c99f30ab11c543adad5becc9fa7da
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\91\913c99f30ab11c543adad5becc9fa7da.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\91\913c99f30ab11c543adad5becc9fa7da.info
-    projectPath: Library\metadata\91\913c99f30ab11c543adad5becc9fa7da.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\91\913c99f30ab11c543adad5becc9fa7da.resource
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\91\913c99f30ab11c543adad5becc9fa7da.resource
-    projectPath: Library\metadata\91\913c99f30ab11c543adad5becc9fa7da.resource
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\91\91a4a4bb53bcf744089a9d8fd8a95e09
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\91\91a4a4bb53bcf744089a9d8fd8a95e09
-    projectPath: Library\metadata\91\91a4a4bb53bcf744089a9d8fd8a95e09
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\91\91a4a4bb53bcf744089a9d8fd8a95e09.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\91\91a4a4bb53bcf744089a9d8fd8a95e09.info
-    projectPath: Library\metadata\91\91a4a4bb53bcf744089a9d8fd8a95e09.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\91\91ba2d30cb48ccb40ab6745d00ebcc92
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\91\91ba2d30cb48ccb40ab6745d00ebcc92
-    projectPath: Library\metadata\91\91ba2d30cb48ccb40ab6745d00ebcc92
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\91\91ba2d30cb48ccb40ab6745d00ebcc92.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\91\91ba2d30cb48ccb40ab6745d00ebcc92.info
-    projectPath: Library\metadata\91\91ba2d30cb48ccb40ab6745d00ebcc92.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\94\9429579c48c1d5f47ae4bf1c6c34546e
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\94\9429579c48c1d5f47ae4bf1c6c34546e
-    projectPath: Library\metadata\94\9429579c48c1d5f47ae4bf1c6c34546e
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\94\9429579c48c1d5f47ae4bf1c6c34546e.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\94\9429579c48c1d5f47ae4bf1c6c34546e.info
-    projectPath: Library\metadata\94\9429579c48c1d5f47ae4bf1c6c34546e.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\9f\9f40d434e85bc574589c37f5348d84b2
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\9f\9f40d434e85bc574589c37f5348d84b2
-    projectPath: Library\metadata\9f\9f40d434e85bc574589c37f5348d84b2
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\9f\9f40d434e85bc574589c37f5348d84b2.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\9f\9f40d434e85bc574589c37f5348d84b2.info
-    projectPath: Library\metadata\9f\9f40d434e85bc574589c37f5348d84b2.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\9f\9f40d434e85bc574589c37f5348d84b2.resource
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\9f\9f40d434e85bc574589c37f5348d84b2.resource
-    projectPath: Library\metadata\9f\9f40d434e85bc574589c37f5348d84b2.resource
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\a8\a8e1654cb425db44fbd38ca06937bf5d
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\a8\a8e1654cb425db44fbd38ca06937bf5d
-    projectPath: Library\metadata\a8\a8e1654cb425db44fbd38ca06937bf5d
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\a8\a8e1654cb425db44fbd38ca06937bf5d.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\a8\a8e1654cb425db44fbd38ca06937bf5d.info
-    projectPath: Library\metadata\a8\a8e1654cb425db44fbd38ca06937bf5d.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\a9\a909783e0653adb489553491974b323c
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\a9\a909783e0653adb489553491974b323c
-    projectPath: Library\metadata\a9\a909783e0653adb489553491974b323c
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\a9\a909783e0653adb489553491974b323c.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\a9\a909783e0653adb489553491974b323c.info
-    projectPath: Library\metadata\a9\a909783e0653adb489553491974b323c.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\aa\aa310c6a4d5a35b4789d2e4f3fa54cfe
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\aa\aa310c6a4d5a35b4789d2e4f3fa54cfe
-    projectPath: Library\metadata\aa\aa310c6a4d5a35b4789d2e4f3fa54cfe
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\aa\aa310c6a4d5a35b4789d2e4f3fa54cfe.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\aa\aa310c6a4d5a35b4789d2e4f3fa54cfe.info
-    projectPath: Library\metadata\aa\aa310c6a4d5a35b4789d2e4f3fa54cfe.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\ac\ac4f567b5801559429bbdfffd165203f
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\ac\ac4f567b5801559429bbdfffd165203f
-    projectPath: Library\metadata\ac\ac4f567b5801559429bbdfffd165203f
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\ac\ac4f567b5801559429bbdfffd165203f.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\ac\ac4f567b5801559429bbdfffd165203f.info
-    projectPath: Library\metadata\ac\ac4f567b5801559429bbdfffd165203f.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\b5\b5134cd01e4e87544af9b79d163d89d9
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\b5\b5134cd01e4e87544af9b79d163d89d9
-    projectPath: Library\metadata\b5\b5134cd01e4e87544af9b79d163d89d9
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\b5\b5134cd01e4e87544af9b79d163d89d9.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\b5\b5134cd01e4e87544af9b79d163d89d9.info
-    projectPath: Library\metadata\b5\b5134cd01e4e87544af9b79d163d89d9.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\b7\b78b3c2a483ed4944a0880d500193441
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\b7\b78b3c2a483ed4944a0880d500193441
-    projectPath: Library\metadata\b7\b78b3c2a483ed4944a0880d500193441
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\b7\b78b3c2a483ed4944a0880d500193441.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\b7\b78b3c2a483ed4944a0880d500193441.info
-    projectPath: Library\metadata\b7\b78b3c2a483ed4944a0880d500193441.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\ba\ba737ccf21d037040924799b9a1843f5
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\ba\ba737ccf21d037040924799b9a1843f5
-    projectPath: Library\metadata\ba\ba737ccf21d037040924799b9a1843f5
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\ba\ba737ccf21d037040924799b9a1843f5.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\ba\ba737ccf21d037040924799b9a1843f5.info
-    projectPath: Library\metadata\ba\ba737ccf21d037040924799b9a1843f5.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\c0\c0434195f2a98a546a2ba31ebde8c50c
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\c0\c0434195f2a98a546a2ba31ebde8c50c
-    projectPath: Library\metadata\c0\c0434195f2a98a546a2ba31ebde8c50c
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\c0\c0434195f2a98a546a2ba31ebde8c50c.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\c0\c0434195f2a98a546a2ba31ebde8c50c.info
-    projectPath: Library\metadata\c0\c0434195f2a98a546a2ba31ebde8c50c.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\c3\c3730cb2da2b7bc43b9e9722e60c6305
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\c3\c3730cb2da2b7bc43b9e9722e60c6305
-    projectPath: Library\metadata\c3\c3730cb2da2b7bc43b9e9722e60c6305
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\c3\c3730cb2da2b7bc43b9e9722e60c6305.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\c3\c3730cb2da2b7bc43b9e9722e60c6305.info
-    projectPath: Library\metadata\c3\c3730cb2da2b7bc43b9e9722e60c6305.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\c5\c56072c0c9882474bbb28eae9d3ff64d
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\c5\c56072c0c9882474bbb28eae9d3ff64d
-    projectPath: Library\metadata\c5\c56072c0c9882474bbb28eae9d3ff64d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\c5\c56072c0c9882474bbb28eae9d3ff64d.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\c5\c56072c0c9882474bbb28eae9d3ff64d.info
-    projectPath: Library\metadata\c5\c56072c0c9882474bbb28eae9d3ff64d.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\c9\c9c0be7e990a90347ad63307487add1a
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\c9\c9c0be7e990a90347ad63307487add1a
-    projectPath: Library\metadata\c9\c9c0be7e990a90347ad63307487add1a
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\c9\c9c0be7e990a90347ad63307487add1a.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\c9\c9c0be7e990a90347ad63307487add1a.info
-    projectPath: Library\metadata\c9\c9c0be7e990a90347ad63307487add1a.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\cd\cd6851ba65d30944eb94a20498ea8eb6
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\cd\cd6851ba65d30944eb94a20498ea8eb6
-    projectPath: Library\metadata\cd\cd6851ba65d30944eb94a20498ea8eb6
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\cd\cd6851ba65d30944eb94a20498ea8eb6.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\cd\cd6851ba65d30944eb94a20498ea8eb6.info
-    projectPath: Library\metadata\cd\cd6851ba65d30944eb94a20498ea8eb6.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\d3\d3cd9b9cfcfc1b448870fbccd3a25c76
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\d3\d3cd9b9cfcfc1b448870fbccd3a25c76
-    projectPath: Library\metadata\d3\d3cd9b9cfcfc1b448870fbccd3a25c76
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\d3\d3cd9b9cfcfc1b448870fbccd3a25c76.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\d3\d3cd9b9cfcfc1b448870fbccd3a25c76.info
-    projectPath: Library\metadata\d3\d3cd9b9cfcfc1b448870fbccd3a25c76.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\d3\d3cd9b9cfcfc1b448870fbccd3a25c76.resource
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\d3\d3cd9b9cfcfc1b448870fbccd3a25c76.resource
-    projectPath: Library\metadata\d3\d3cd9b9cfcfc1b448870fbccd3a25c76.resource
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\d7\d7b0a975ee22a1145b251b5fddde6c4e
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\d7\d7b0a975ee22a1145b251b5fddde6c4e
-    projectPath: Library\metadata\d7\d7b0a975ee22a1145b251b5fddde6c4e
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\d7\d7b0a975ee22a1145b251b5fddde6c4e.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\d7\d7b0a975ee22a1145b251b5fddde6c4e.info
-    projectPath: Library\metadata\d7\d7b0a975ee22a1145b251b5fddde6c4e.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\d8\d8db8f9c6d0ff3742806183a902e468a
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\d8\d8db8f9c6d0ff3742806183a902e468a
-    projectPath: Library\metadata\d8\d8db8f9c6d0ff3742806183a902e468a
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\d8\d8db8f9c6d0ff3742806183a902e468a.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\d8\d8db8f9c6d0ff3742806183a902e468a.info
-    projectPath: Library\metadata\d8\d8db8f9c6d0ff3742806183a902e468a.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\db\dbb2f08194b24af4aa52e9dffcee7a72
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\db\dbb2f08194b24af4aa52e9dffcee7a72
-    projectPath: Library\metadata\db\dbb2f08194b24af4aa52e9dffcee7a72
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\db\dbb2f08194b24af4aa52e9dffcee7a72.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\db\dbb2f08194b24af4aa52e9dffcee7a72.info
-    projectPath: Library\metadata\db\dbb2f08194b24af4aa52e9dffcee7a72.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\e0\e034670481ae6fd4e93bd98873d3de56
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\e0\e034670481ae6fd4e93bd98873d3de56
-    projectPath: Library\metadata\e0\e034670481ae6fd4e93bd98873d3de56
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\e0\e034670481ae6fd4e93bd98873d3de56.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\e0\e034670481ae6fd4e93bd98873d3de56.info
-    projectPath: Library\metadata\e0\e034670481ae6fd4e93bd98873d3de56.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\e3\e35c8ea2ee82559458a198d222133feb
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\e3\e35c8ea2ee82559458a198d222133feb
-    projectPath: Library\metadata\e3\e35c8ea2ee82559458a198d222133feb
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\e3\e35c8ea2ee82559458a198d222133feb.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\e3\e35c8ea2ee82559458a198d222133feb.info
-    projectPath: Library\metadata\e3\e35c8ea2ee82559458a198d222133feb.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\e3\e38d6089750d55041bbf8f8990dadf67
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\e3\e38d6089750d55041bbf8f8990dadf67
-    projectPath: Library\metadata\e3\e38d6089750d55041bbf8f8990dadf67
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\e3\e38d6089750d55041bbf8f8990dadf67.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\e3\e38d6089750d55041bbf8f8990dadf67.info
-    projectPath: Library\metadata\e3\e38d6089750d55041bbf8f8990dadf67.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\ee\eeb4f88fe0095e1439298468923b1bd8
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\ee\eeb4f88fe0095e1439298468923b1bd8
-    projectPath: Library\metadata\ee\eeb4f88fe0095e1439298468923b1bd8
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\ee\eeb4f88fe0095e1439298468923b1bd8.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\ee\eeb4f88fe0095e1439298468923b1bd8.info
-    projectPath: Library\metadata\ee\eeb4f88fe0095e1439298468923b1bd8.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\ef\ef0b04b19dfaa2444baed436db5a2d25
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\ef\ef0b04b19dfaa2444baed436db5a2d25
-    projectPath: Library\metadata\ef\ef0b04b19dfaa2444baed436db5a2d25
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\ef\ef0b04b19dfaa2444baed436db5a2d25.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\ef\ef0b04b19dfaa2444baed436db5a2d25.info
-    projectPath: Library\metadata\ef\ef0b04b19dfaa2444baed436db5a2d25.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\f6\f661446978810a74d8c254dd19205afa
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\f6\f661446978810a74d8c254dd19205afa
-    projectPath: Library\metadata\f6\f661446978810a74d8c254dd19205afa
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\f6\f661446978810a74d8c254dd19205afa.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\f6\f661446978810a74d8c254dd19205afa.info
-    projectPath: Library\metadata\f6\f661446978810a74d8c254dd19205afa.info
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\metadata\f7\f787a05d619b1494989415cea324258a
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\f7\f787a05d619b1494989415cea324258a
-    projectPath: Library\metadata\f7\f787a05d619b1494989415cea324258a
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\f7\f787a05d619b1494989415cea324258a.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\f7\f787a05d619b1494989415cea324258a.info
-    projectPath: Library\metadata\f7\f787a05d619b1494989415cea324258a.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\fd\fd7905fad9cf5f444b407bd1650e0558
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\fd\fd7905fad9cf5f444b407bd1650e0558
-    projectPath: Library\metadata\fd\fd7905fad9cf5f444b407bd1650e0558
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\fd\fd7905fad9cf5f444b407bd1650e0558.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\fd\fd7905fad9cf5f444b407bd1650e0558.info
-    projectPath: Library\metadata\fd\fd7905fad9cf5f444b407bd1650e0558.info
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\ff\ff3fb566f64e1c140a668ee5071babdb
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\ff\ff3fb566f64e1c140a668ee5071babdb
-    projectPath: Library\metadata\ff\ff3fb566f64e1c140a668ee5071babdb
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\metadata\ff\ff3fb566f64e1c140a668ee5071babdb.info
-    fullPath: D:\Projekti\Unity\The game\Library\metadata\ff\ff3fb566f64e1c140a668ee5071babdb.info
-    projectPath: Library\metadata\ff\ff3fb566f64e1c140a668ee5071babdb.info
-    originalPath: 
-    status: 5
     staged: 0
   - path: Library\ScriptAssemblies\Assembly-CSharp.dll
     fullPath: D:\Projekti\Unity\The game\Library\ScriptAssemblies\Assembly-CSharp.dll
@@ -1978,23 +340,17 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\ShaderCache\2\29f8c338a9906867c977c20b1cbb8fc3.bin
-    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\2\29f8c338a9906867c977c20b1cbb8fc3.bin
-    projectPath: Library\ShaderCache\2\29f8c338a9906867c977c20b1cbb8fc3.bin
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Library\ShaderCache\c\c20b0b8a4f411ac1d52d123c8240e35b.bin
-    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\c\c20b0b8a4f411ac1d52d123c8240e35b.bin
-    projectPath: Library\ShaderCache\c\c20b0b8a4f411ac1d52d123c8240e35b.bin
-    originalPath: 
-    status: 1
-    staged: 0
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: D:\Projekti\Unity\The game\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     status: 3
+    staged: 0
+  - path: Library\StateCache\Hierarchy\40ceb2-48fb7a105a5a7d54a8.json
+    fullPath: D:\Projekti\Unity\The game\Library\StateCache\Hierarchy\40ceb2-48fb7a105a5a7d54a8.json
+    projectPath: Library\StateCache\Hierarchy\40ceb2-48fb7a105a5a7d54a8.json
+    originalPath: 
+    status: 1
     staged: 0
   - path: Library\StateCache\Hierarchy\40ceb2-mainStage.json
     fullPath: D:\Projekti\Unity\The game\Library\StateCache\Hierarchy\40ceb2-mainStage.json
@@ -2002,9 +358,51 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: Library\StateCache\SceneView\8631f9-48fb7a105a5a7d54a8.json
+    fullPath: D:\Projekti\Unity\The game\Library\StateCache\SceneView\8631f9-48fb7a105a5a7d54a8.json
+    projectPath: Library\StateCache\SceneView\8631f9-48fb7a105a5a7d54a8.json
+    originalPath: 
+    status: 1
+    staged: 0
   - path: Library\StateCache\SceneView\8631f9-mainStage.json
     fullPath: D:\Projekti\Unity\The game\Library\StateCache\SceneView\8631f9-mainStage.json
     projectPath: Library\StateCache\SceneView\8631f9-mainStage.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    fullPath: D:\Projekti\Unity\The game\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: ProjectSettings\ProjectVersion.txt
+    fullPath: D:\Projekti\Unity\The game\ProjectSettings\ProjectVersion.txt
+    projectPath: ProjectSettings\ProjectVersion.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: D:\Projekti\Unity\The game\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\TagManager.asset
+    fullPath: D:\Projekti\Unity\The game\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\TimeManager.asset
+    fullPath: D:\Projekti\Unity\The game\ProjectSettings\TimeManager.asset
+    projectPath: ProjectSettings\TimeManager.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: D:\Projekti\Unity\The game\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
     originalPath: 
     status: 3
     staged: 0
@@ -2026,75 +424,249 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-0eadc3fd1cbfeeb45b7ea06545768437
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-0eadc3fd1cbfeeb45b7ea06545768437
-    projectPath: Temp\UnityTempFile-0eadc3fd1cbfeeb45b7ea06545768437
+  - path: Temp\UnityTempFile-0b1e9db781dd4904f8d7531a07819650
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-0b1e9db781dd4904f8d7531a07819650
+    projectPath: Temp\UnityTempFile-0b1e9db781dd4904f8d7531a07819650
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-0f18aec8fde79c84abb6be16a5cd19b6
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-0f18aec8fde79c84abb6be16a5cd19b6
-    projectPath: Temp\UnityTempFile-0f18aec8fde79c84abb6be16a5cd19b6
+  - path: Temp\UnityTempFile-15a476435cc109641adaa75a65bc6cf2
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-15a476435cc109641adaa75a65bc6cf2
+    projectPath: Temp\UnityTempFile-15a476435cc109641adaa75a65bc6cf2
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-20b26e5bf05db984091420ecebf29a47
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-20b26e5bf05db984091420ecebf29a47
-    projectPath: Temp\UnityTempFile-20b26e5bf05db984091420ecebf29a47
+  - path: Temp\UnityTempFile-1fba83219fe71684697c6f14712be30e
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-1fba83219fe71684697c6f14712be30e
+    projectPath: Temp\UnityTempFile-1fba83219fe71684697c6f14712be30e
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-679c42cc57c8f524f9462538cf2c40e4
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-679c42cc57c8f524f9462538cf2c40e4
-    projectPath: Temp\UnityTempFile-679c42cc57c8f524f9462538cf2c40e4
+  - path: Temp\UnityTempFile-241ffa1bf7487bf43b9f7b00c83ec536
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-241ffa1bf7487bf43b9f7b00c83ec536
+    projectPath: Temp\UnityTempFile-241ffa1bf7487bf43b9f7b00c83ec536
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-68b34c29537a02d4980cb0d947725251
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-68b34c29537a02d4980cb0d947725251
-    projectPath: Temp\UnityTempFile-68b34c29537a02d4980cb0d947725251
+  - path: Temp\UnityTempFile-2736bd11a6280b846a1b0913692a711f
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-2736bd11a6280b846a1b0913692a711f
+    projectPath: Temp\UnityTempFile-2736bd11a6280b846a1b0913692a711f
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-72695f41b995a9343a58b40a30ec9648
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-72695f41b995a9343a58b40a30ec9648
-    projectPath: Temp\UnityTempFile-72695f41b995a9343a58b40a30ec9648
+  - path: Temp\UnityTempFile-32f7cc75788aa7344be9e09a8801ae7e
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-32f7cc75788aa7344be9e09a8801ae7e
+    projectPath: Temp\UnityTempFile-32f7cc75788aa7344be9e09a8801ae7e
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-8b338d59e7a7e9448905f2761e719b86
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-8b338d59e7a7e9448905f2761e719b86
-    projectPath: Temp\UnityTempFile-8b338d59e7a7e9448905f2761e719b86
+  - path: Temp\UnityTempFile-36ea09f9ec355594fad6aaabce5c3fb1
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-36ea09f9ec355594fad6aaabce5c3fb1
+    projectPath: Temp\UnityTempFile-36ea09f9ec355594fad6aaabce5c3fb1
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-9587e5767cfc214438e2f91846608a3c
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-9587e5767cfc214438e2f91846608a3c
-    projectPath: Temp\UnityTempFile-9587e5767cfc214438e2f91846608a3c
+  - path: Temp\UnityTempFile-3ae259057497e994fabfc52eaecc3992
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-3ae259057497e994fabfc52eaecc3992
+    projectPath: Temp\UnityTempFile-3ae259057497e994fabfc52eaecc3992
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-a6f4efdcde1774c44ad3c5055cb324e2
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-a6f4efdcde1774c44ad3c5055cb324e2
-    projectPath: Temp\UnityTempFile-a6f4efdcde1774c44ad3c5055cb324e2
+  - path: Temp\UnityTempFile-42afbed1711c8024b89af9eaed3d88ac
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-42afbed1711c8024b89af9eaed3d88ac
+    projectPath: Temp\UnityTempFile-42afbed1711c8024b89af9eaed3d88ac
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-aa64c05157b339244b3ab4632df146d7
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-aa64c05157b339244b3ab4632df146d7
-    projectPath: Temp\UnityTempFile-aa64c05157b339244b3ab4632df146d7
+  - path: Temp\UnityTempFile-4acbbd98bb37fc64f8f33a979dae3b9f
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-4acbbd98bb37fc64f8f33a979dae3b9f
+    projectPath: Temp\UnityTempFile-4acbbd98bb37fc64f8f33a979dae3b9f
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-dea18d5c9cd55d14f8e45261aad37cfe
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-dea18d5c9cd55d14f8e45261aad37cfe
-    projectPath: Temp\UnityTempFile-dea18d5c9cd55d14f8e45261aad37cfe
+  - path: Temp\UnityTempFile-533b9e6e917534d41b65452d234a253d
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-533b9e6e917534d41b65452d234a253d
+    projectPath: Temp\UnityTempFile-533b9e6e917534d41b65452d234a253d
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-e1f135e0f9563a44187bdf5d1afb88d1
-    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-e1f135e0f9563a44187bdf5d1afb88d1
-    projectPath: Temp\UnityTempFile-e1f135e0f9563a44187bdf5d1afb88d1
+  - path: Temp\UnityTempFile-5bf6a781473c7fc4e9735842f2885e89
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-5bf6a781473c7fc4e9735842f2885e89
+    projectPath: Temp\UnityTempFile-5bf6a781473c7fc4e9735842f2885e89
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-63ddf39880a567347a66975a8bb6192f
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-63ddf39880a567347a66975a8bb6192f
+    projectPath: Temp\UnityTempFile-63ddf39880a567347a66975a8bb6192f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-6ce7a69f69fc15240b4a659305de5426
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-6ce7a69f69fc15240b4a659305de5426
+    projectPath: Temp\UnityTempFile-6ce7a69f69fc15240b4a659305de5426
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-754c515e3dfefb94381102917ad53104
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-754c515e3dfefb94381102917ad53104
+    projectPath: Temp\UnityTempFile-754c515e3dfefb94381102917ad53104
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-7942e36fa16aaab4e88fdaa67e93709f
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-7942e36fa16aaab4e88fdaa67e93709f
+    projectPath: Temp\UnityTempFile-7942e36fa16aaab4e88fdaa67e93709f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-7bcf14b61acb01d4e86f22d297eb5086
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-7bcf14b61acb01d4e86f22d297eb5086
+    projectPath: Temp\UnityTempFile-7bcf14b61acb01d4e86f22d297eb5086
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-7d71abd670ef96c44bfb00d78fbf60b5
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-7d71abd670ef96c44bfb00d78fbf60b5
+    projectPath: Temp\UnityTempFile-7d71abd670ef96c44bfb00d78fbf60b5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-7edc06e95ded00948baa75cfd72aceeb
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-7edc06e95ded00948baa75cfd72aceeb
+    projectPath: Temp\UnityTempFile-7edc06e95ded00948baa75cfd72aceeb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-86f314ce09c4f39419390114b7b190aa
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-86f314ce09c4f39419390114b7b190aa
+    projectPath: Temp\UnityTempFile-86f314ce09c4f39419390114b7b190aa
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-8e602f295523d754d8f436a0f8b6d13f
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-8e602f295523d754d8f436a0f8b6d13f
+    projectPath: Temp\UnityTempFile-8e602f295523d754d8f436a0f8b6d13f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-9939c2b7e4f3bf74394039be4943dbaa
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-9939c2b7e4f3bf74394039be4943dbaa
+    projectPath: Temp\UnityTempFile-9939c2b7e4f3bf74394039be4943dbaa
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-9bbba7ddcac245b469f7c03a3697361d
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-9bbba7ddcac245b469f7c03a3697361d
+    projectPath: Temp\UnityTempFile-9bbba7ddcac245b469f7c03a3697361d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-9e36eb4f18a798f4c9c02fb32832846e
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-9e36eb4f18a798f4c9c02fb32832846e
+    projectPath: Temp\UnityTempFile-9e36eb4f18a798f4c9c02fb32832846e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-a14c1d4afe91ca24e926ed709c6965d1
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-a14c1d4afe91ca24e926ed709c6965d1
+    projectPath: Temp\UnityTempFile-a14c1d4afe91ca24e926ed709c6965d1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-a6ae9a528bb550340a7a04181e77d302
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-a6ae9a528bb550340a7a04181e77d302
+    projectPath: Temp\UnityTempFile-a6ae9a528bb550340a7a04181e77d302
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-aace7f5bce5049340afed456bdb818c9
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-aace7f5bce5049340afed456bdb818c9
+    projectPath: Temp\UnityTempFile-aace7f5bce5049340afed456bdb818c9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-ac613516f8717cf45a5177d1f5f60ffe
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-ac613516f8717cf45a5177d1f5f60ffe
+    projectPath: Temp\UnityTempFile-ac613516f8717cf45a5177d1f5f60ffe
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-b08db1dd4b04fa04bb6d92044c1ec431
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-b08db1dd4b04fa04bb6d92044c1ec431
+    projectPath: Temp\UnityTempFile-b08db1dd4b04fa04bb6d92044c1ec431
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-b1269ba29dc58a9409ea89f4534e2649
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-b1269ba29dc58a9409ea89f4534e2649
+    projectPath: Temp\UnityTempFile-b1269ba29dc58a9409ea89f4534e2649
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-b6ae05c8a4fd252419e32a4d897dd5ce
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-b6ae05c8a4fd252419e32a4d897dd5ce
+    projectPath: Temp\UnityTempFile-b6ae05c8a4fd252419e32a4d897dd5ce
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-c0e48b890e1d3c243a3e474510bed7ea
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-c0e48b890e1d3c243a3e474510bed7ea
+    projectPath: Temp\UnityTempFile-c0e48b890e1d3c243a3e474510bed7ea
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-cccdea704cab2304187e5070db2b48fa
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-cccdea704cab2304187e5070db2b48fa
+    projectPath: Temp\UnityTempFile-cccdea704cab2304187e5070db2b48fa
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-cfbb99096423efc4291957ca8f4d7c4c
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-cfbb99096423efc4291957ca8f4d7c4c
+    projectPath: Temp\UnityTempFile-cfbb99096423efc4291957ca8f4d7c4c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-d278e2e63c87f854d835d3e5b2189373
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-d278e2e63c87f854d835d3e5b2189373
+    projectPath: Temp\UnityTempFile-d278e2e63c87f854d835d3e5b2189373
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-db4acc1729f1e3140ae6f5640318ec78
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-db4acc1729f1e3140ae6f5640318ec78
+    projectPath: Temp\UnityTempFile-db4acc1729f1e3140ae6f5640318ec78
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-df0b860119fa78549b10ec3fbac0a967
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-df0b860119fa78549b10ec3fbac0a967
+    projectPath: Temp\UnityTempFile-df0b860119fa78549b10ec3fbac0a967
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-e1b4406bf903fb14a8b745b4d84a98f6
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-e1b4406bf903fb14a8b745b4d84a98f6
+    projectPath: Temp\UnityTempFile-e1b4406bf903fb14a8b745b4d84a98f6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-e7bc56d4be57af44eb15bf96bdab7df2
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-e7bc56d4be57af44eb15bf96bdab7df2
+    projectPath: Temp\UnityTempFile-e7bc56d4be57af44eb15bf96bdab7df2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-ea9c6b57322e82b428366cb62316cc17
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-ea9c6b57322e82b428366cb62316cc17
+    projectPath: Temp\UnityTempFile-ea9c6b57322e82b428366cb62316cc17
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-fcc450fcd6aac0144bfddf9d27c38314
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-fcc450fcd6aac0144bfddf9d27c38314
+    projectPath: Temp\UnityTempFile-fcc450fcd6aac0144bfddf9d27c38314
     originalPath: 
     status: 1
     staged: 0
