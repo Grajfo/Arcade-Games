@@ -1413,6 +1413,16 @@ PrefabInstance:
       propertyPath: winText
       value: 
       objectReference: {fileID: 203243367}
+    - target: {fileID: 2030759695542911846, guid: 8520ada096f2e5e4091840694090efbf,
+        type: 3}
+      propertyPath: m_SortingLayerID
+      value: -999992809
+      objectReference: {fileID: 0}
+    - target: {fileID: 2030759695542911846, guid: 8520ada096f2e5e4091840694090efbf,
+        type: 3}
+      propertyPath: m_SortingLayer
+      value: 4
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8520ada096f2e5e4091840694090efbf, type: 3}
 --- !u!1001 &6621484973250788811
