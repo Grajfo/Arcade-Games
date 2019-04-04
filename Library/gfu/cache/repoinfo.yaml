@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-04-03T13:07:44.490+02:00
-  initializedAtString: 2019-04-03T13:07:44.490+02:00
+  lastUpdatedAtString: 2019-04-03T18:58:03.809+02:00
+  initializedAtString: 2019-04-03T18:58:03.809+02:00
   currentGitRemote:
     name: Unity
     url: https://github.com/Grajfo/Unity.git

@@ -1,4 +1,8 @@
 sceneSetups:
-- path: Assets/UFO/Scenes/Level1.unity
+<<<<<<< HEAD
+- path: Assets/FlappyBird/FlappyGui.unity
+=======
+- path: Assets/Endless Runner/Endless_runner.unity
+>>>>>>> 75329a29b09fd4116813e1764ff69f159d4cc8ca
   isLoaded: 1
   isActive: 1
