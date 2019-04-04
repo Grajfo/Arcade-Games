@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6621484972891041570}
   - component: {fileID: 6621484972891041571}
   - component: {fileID: 6621484972891041580}
-  - component: {fileID: 6621484972891041581}
+  - component: {fileID: 7909225186153197562}
   - component: {fileID: 2186580984121820281}
   m_Layer: 0
   m_Name: Pickup
@@ -98,7 +98,7 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.94
---- !u!114 &6621484972891041581
+--- !u!114 &7909225186153197562
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

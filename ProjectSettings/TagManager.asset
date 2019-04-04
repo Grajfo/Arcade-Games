@@ -11,6 +11,7 @@ TagManager:
   - label
   - seperator
   - Pickup
+  - spike
   layers:
   - Default
   - TransparentFX

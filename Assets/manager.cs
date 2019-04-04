@@ -9,4 +9,10 @@ public class manager : MonoBehaviour
     {
         SceneManager.LoadScene(scena);
     }
+
+    public void LastLevel()
+    {
+        PlayerPrefs.DeleteKey("ufolv");
+        SceneManager.LoadScene(4);
+    }
 }

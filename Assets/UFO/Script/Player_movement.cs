@@ -1,31 +1,37 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class Player_movement : MonoBehaviour
 {
     private Rigidbody2D rb2d;
     public float speed;
-    private int Count;
+    public int Count;
     public Text countText;
     public Text winText;
+    public GameObject panel;
+    public GameObject quit;
+    private bool playerWins =false;
 
     private void Start()
     {
         rb2d = GetComponent<Rigidbody2D>();
-        Count = 10;
         winText.text = "";
         SetCountText();
     }
 
     private void FixedUpdate()
     {
-        float moveHorizontal = Input.GetAxis("Horizontal");
-        float moveVertical = Input.GetAxis("Vertical");
-        Vector2 movement = new Vector2(moveHorizontal, moveVertical);
+        var vertical = Input.GetAxis("Vertical");
+        var horizontal = Input.GetAxis("Horizontal");
+        var movement = new Vector2(horizontal, vertical);
         rb2d.AddForce(movement * speed);
+      
     }
+
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -43,7 +49,25 @@ public class Player_movement : MonoBehaviour
         countText.text = "Count: " + Count.ToString();
         if (Count == 0)
         {
+            playerWins = true;
+            panel.SetActive(true);
+            quit.SetActive(false);
             winText.text = "You WIN";
+        }
+        else if (Count == 0 && PlayerPrefs.GetInt("ufolv") == 10)
+        {
+            playerWins = true;
+            panel.SetActive(true);
+            quit.SetActive(false);
+            winText.text = "Congratulations You Finished last lv";
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if(collision.gameObject.tag == "spike" && playerWins == false)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
     }
 }
