@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-04-04T14:40:09.228+02:00
-  initializedAtString: 2019-04-04T14:37:48.708+02:00
+  lastUpdatedAtString: 2019-04-04T16:20:04.996+02:00
+  initializedAtString: 2019-04-04T15:57:03.855+02:00
   entries:
   - path: Library\assetDatabase3
     fullPath: D:\Projekti\Unity\The game\Library\assetDatabase3
@@ -34,18 +34,6 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: Library\gfu\cache\branches.yaml
-    fullPath: D:\Projekti\Unity\The game\Library\gfu\cache\branches.yaml
-    projectPath: Library\gfu\cache\branches.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: D:\Projekti\Unity\The game\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library\gfu\cache\gitstatusentries.yaml
     fullPath: D:\Projekti\Unity\The game\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
@@ -58,21 +46,879 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\gfu\cache\gituser.yaml
-    fullPath: D:\Projekti\Unity\The game\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: D:\Projekti\Unity\The game\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     status: 3
     staged: 0
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: D:\Projekti\Unity\The game\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\LastBuild.buildreport
+    fullPath: D:\Projekti\Unity\The game\Library\LastBuild.buildreport
+    projectPath: Library\LastBuild.buildreport
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000004000000000000000
+    fullPath: D:\Projekti\Unity\The game\Library\metadata\00\00000000000000004000000000000000
+    projectPath: Library\metadata\00\00000000000000004000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\globalgamemanagers
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\globalgamemanagers
+    projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\level0
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\level0
+    projectPath: Library\PlayerDataCache\Win64\Data\level0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\level1
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\level1
+    projectPath: Library\PlayerDataCache\Win64\Data\level1
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\level10
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\level10
+    projectPath: Library\PlayerDataCache\Win64\Data\level10
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\level10.resS
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\level10.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\level10.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\level11
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\level11
+    projectPath: Library\PlayerDataCache\Win64\Data\level11
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\level11.resS
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\level11.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\level11.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\level12
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\level12
+    projectPath: Library\PlayerDataCache\Win64\Data\level12
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\level12.resS
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\level12.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\level12.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\level2
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\level2
+    projectPath: Library\PlayerDataCache\Win64\Data\level2
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\level3
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\level3
+    projectPath: Library\PlayerDataCache\Win64\Data\level3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\level4
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\level4
+    projectPath: Library\PlayerDataCache\Win64\Data\level4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\level4.resS
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\level4.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\level4.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\level5
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\level5
+    projectPath: Library\PlayerDataCache\Win64\Data\level5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\level5.resS
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\level5.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\level5.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\level6
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\level6
+    projectPath: Library\PlayerDataCache\Win64\Data\level6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\level6.resS
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\level6.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\level6.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\level7
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\level7
+    projectPath: Library\PlayerDataCache\Win64\Data\level7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\level7.resS
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\level7.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\level7.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\level8
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\level8
+    projectPath: Library\PlayerDataCache\Win64\Data\level8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\level8.resS
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\level8.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\level8.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\level9
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\level9
+    projectPath: Library\PlayerDataCache\Win64\Data\level9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\level9.resS
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\level9.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\level9.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.DataPrivacy.dll
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.StandardEvents.dll
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.StandardEvents.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.StandardEvents.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.Tracker.dll
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.Tracker.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.Tracker.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+    projectPath: Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\Resources\unity_builtin_extra
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\Resources\unity_builtin_extra
+    projectPath: Library\PlayerDataCache\Win64\Data\Resources\unity_builtin_extra
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets0.resource
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets0.resource
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.resource
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets1.assets.resS
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets1.assets.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.assets.resS
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets1.resource
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets1.resource
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.resource
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets10.assets
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets10.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets10.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets10.assets.resS
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets10.assets.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets10.assets.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets11.assets
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets11.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets11.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets11.assets.resS
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets11.assets.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets11.assets.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets12.assets
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets12.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets12.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets12.resource
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets12.resource
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets12.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets2.assets
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets2.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets2.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets2.assets.resS
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets2.assets.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets2.assets.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets2.resource
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets2.resource
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets2.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets3.assets
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets3.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets3.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets4.assets
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets4.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets4.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets4.assets.resS
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets4.assets.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets4.assets.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets5.assets
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets5.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets5.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets5.assets.resS
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets5.assets.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets5.assets.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets5.resource
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets5.resource
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets5.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets6.assets
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets6.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets6.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets6.assets.resS
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets6.assets.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets6.assets.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets7.assets
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets7.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets7.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets7.assets.resS
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets7.assets.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets7.assets.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets8.assets
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets8.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets8.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets8.assets.resS
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets8.assets.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets8.assets.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets9.assets
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets9.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets9.assets
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets9.assets.resS
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\Data\sharedassets9.assets.resS
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets9.assets.resS
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\ScriptLayoutHashes.txt
+    fullPath: D:\Projekti\Unity\The game\Library\PlayerDataCache\Win64\ScriptLayoutHashes.txt
+    projectPath: Library\PlayerDataCache\Win64\ScriptLayoutHashes.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\Projekti\Unity\The game\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\Projekti\Unity\The game\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: D:\Projekti\Unity\The game\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\Projekti\Unity\The game\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    fullPath: D:\Projekti\Unity\The game\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\Projekti\Unity\The game\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\Projekti\Unity\The game\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ShaderCache\0\0208ddd4b196dca4a12bfb19bad40b24.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\0\0208ddd4b196dca4a12bfb19bad40b24.bin
+    projectPath: Library\ShaderCache\0\0208ddd4b196dca4a12bfb19bad40b24.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\0\02231b9dd9e05957b5a6f75ca3a9fe0e.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\0\02231b9dd9e05957b5a6f75ca3a9fe0e.bin
+    projectPath: Library\ShaderCache\0\02231b9dd9e05957b5a6f75ca3a9fe0e.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\1\12c9f41091783470c7d3b1a32e3136e1.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\1\12c9f41091783470c7d3b1a32e3136e1.bin
+    projectPath: Library\ShaderCache\1\12c9f41091783470c7d3b1a32e3136e1.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\1\134aaebda411f136462ecebe8702728d.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\1\134aaebda411f136462ecebe8702728d.bin
+    projectPath: Library\ShaderCache\1\134aaebda411f136462ecebe8702728d.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\1\18f79edfb842ad01b1b889bb583a2685.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\1\18f79edfb842ad01b1b889bb583a2685.bin
+    projectPath: Library\ShaderCache\1\18f79edfb842ad01b1b889bb583a2685.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\1\1ac99d6c92eb55fbd14e8323773d212f.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\1\1ac99d6c92eb55fbd14e8323773d212f.bin
+    projectPath: Library\ShaderCache\1\1ac99d6c92eb55fbd14e8323773d212f.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\1\1f34afec5ce4aae3449a1bf21164cb7f.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\1\1f34afec5ce4aae3449a1bf21164cb7f.bin
+    projectPath: Library\ShaderCache\1\1f34afec5ce4aae3449a1bf21164cb7f.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\2\2622b50eb952012228d376f5efd1efdd.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\2\2622b50eb952012228d376f5efd1efdd.bin
+    projectPath: Library\ShaderCache\2\2622b50eb952012228d376f5efd1efdd.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\2\284df5c426737060ec0c7f06339dcca3.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\2\284df5c426737060ec0c7f06339dcca3.bin
+    projectPath: Library\ShaderCache\2\284df5c426737060ec0c7f06339dcca3.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\3\31632140cdfeb6c961bb8eab70f1bf73.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\3\31632140cdfeb6c961bb8eab70f1bf73.bin
+    projectPath: Library\ShaderCache\3\31632140cdfeb6c961bb8eab70f1bf73.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\3\31746d4006542e6438f3bf88430eb3ce.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\3\31746d4006542e6438f3bf88430eb3ce.bin
+    projectPath: Library\ShaderCache\3\31746d4006542e6438f3bf88430eb3ce.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\3\3456e259d3142d0b1fd062d709b7d359.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\3\3456e259d3142d0b1fd062d709b7d359.bin
+    projectPath: Library\ShaderCache\3\3456e259d3142d0b1fd062d709b7d359.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\3\380e939ddbe80ea354cfdd9b13e9aa49.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\3\380e939ddbe80ea354cfdd9b13e9aa49.bin
+    projectPath: Library\ShaderCache\3\380e939ddbe80ea354cfdd9b13e9aa49.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\4\430b4ca84417959a6b451c82b8d00791.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\4\430b4ca84417959a6b451c82b8d00791.bin
+    projectPath: Library\ShaderCache\4\430b4ca84417959a6b451c82b8d00791.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\4\434a7cd8b163d101a133caa369c41018.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\4\434a7cd8b163d101a133caa369c41018.bin
+    projectPath: Library\ShaderCache\4\434a7cd8b163d101a133caa369c41018.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\4\478070fc0c315d78d21aefbe76305772.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\4\478070fc0c315d78d21aefbe76305772.bin
+    projectPath: Library\ShaderCache\4\478070fc0c315d78d21aefbe76305772.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\4\48e75291afcf3ff3859213fccefee24a.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\4\48e75291afcf3ff3859213fccefee24a.bin
+    projectPath: Library\ShaderCache\4\48e75291afcf3ff3859213fccefee24a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\4\4b049afa2f4f71429b2e6f22481a12c5.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\4\4b049afa2f4f71429b2e6f22481a12c5.bin
+    projectPath: Library\ShaderCache\4\4b049afa2f4f71429b2e6f22481a12c5.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\5\54da68f5738db9ab04a0ceee0cd3f76e.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\5\54da68f5738db9ab04a0ceee0cd3f76e.bin
+    projectPath: Library\ShaderCache\5\54da68f5738db9ab04a0ceee0cd3f76e.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\5\56abac5fb202afcab7fbed13ba7141b0.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\5\56abac5fb202afcab7fbed13ba7141b0.bin
+    projectPath: Library\ShaderCache\5\56abac5fb202afcab7fbed13ba7141b0.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\5\5d51f08ab641044ceeb3e0587cb69f95.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\5\5d51f08ab641044ceeb3e0587cb69f95.bin
+    projectPath: Library\ShaderCache\5\5d51f08ab641044ceeb3e0587cb69f95.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\5\5e9ffb620001aba17d613a4fc14ebc7f.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\5\5e9ffb620001aba17d613a4fc14ebc7f.bin
+    projectPath: Library\ShaderCache\5\5e9ffb620001aba17d613a4fc14ebc7f.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\5\5f09bfcc68ad3640e9af6933a69d517c.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\5\5f09bfcc68ad3640e9af6933a69d517c.bin
+    projectPath: Library\ShaderCache\5\5f09bfcc68ad3640e9af6933a69d517c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\6\62d43fe5d2998fad8566222ab124032d.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\6\62d43fe5d2998fad8566222ab124032d.bin
+    projectPath: Library\ShaderCache\6\62d43fe5d2998fad8566222ab124032d.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\6\6c99aee6db241b005258fe4d6b1fc709.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\6\6c99aee6db241b005258fe4d6b1fc709.bin
+    projectPath: Library\ShaderCache\6\6c99aee6db241b005258fe4d6b1fc709.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\6\6d3a04583781ae38c96a911e8e27bb32.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\6\6d3a04583781ae38c96a911e8e27bb32.bin
+    projectPath: Library\ShaderCache\6\6d3a04583781ae38c96a911e8e27bb32.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\6\6effaf77468389a7b88da51c086d665e.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\6\6effaf77468389a7b88da51c086d665e.bin
+    projectPath: Library\ShaderCache\6\6effaf77468389a7b88da51c086d665e.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\6\6ff5de38d1e4a05022809a26d8c47fa3.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\6\6ff5de38d1e4a05022809a26d8c47fa3.bin
+    projectPath: Library\ShaderCache\6\6ff5de38d1e4a05022809a26d8c47fa3.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\7\758c756a392c9e5db7712dafd56ac580.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\7\758c756a392c9e5db7712dafd56ac580.bin
+    projectPath: Library\ShaderCache\7\758c756a392c9e5db7712dafd56ac580.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\7\7e53b6632d608b6cab1944514e3537e2.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\7\7e53b6632d608b6cab1944514e3537e2.bin
+    projectPath: Library\ShaderCache\7\7e53b6632d608b6cab1944514e3537e2.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\7\7e9a41c510331ccb2189f2b5f679c69f.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\7\7e9a41c510331ccb2189f2b5f679c69f.bin
+    projectPath: Library\ShaderCache\7\7e9a41c510331ccb2189f2b5f679c69f.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\8\80237c29881b1e35d41257adb24a630b.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\8\80237c29881b1e35d41257adb24a630b.bin
+    projectPath: Library\ShaderCache\8\80237c29881b1e35d41257adb24a630b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\8\8b2edb90611e491621be7606dfcdf978.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\8\8b2edb90611e491621be7606dfcdf978.bin
+    projectPath: Library\ShaderCache\8\8b2edb90611e491621be7606dfcdf978.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\8\8d474157e63d418384a999426088fe05.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\8\8d474157e63d418384a999426088fe05.bin
+    projectPath: Library\ShaderCache\8\8d474157e63d418384a999426088fe05.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\8\8fe89e534cf97101a5a6180568db2963.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\8\8fe89e534cf97101a5a6180568db2963.bin
+    projectPath: Library\ShaderCache\8\8fe89e534cf97101a5a6180568db2963.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\9\949d69ab766b2b9dd36621461f4918fa.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\9\949d69ab766b2b9dd36621461f4918fa.bin
+    projectPath: Library\ShaderCache\9\949d69ab766b2b9dd36621461f4918fa.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\9\98639094f09bf271eff9d86a6df283cf.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\9\98639094f09bf271eff9d86a6df283cf.bin
+    projectPath: Library\ShaderCache\9\98639094f09bf271eff9d86a6df283cf.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\9\9cc269a9ce6d821a635d3b43a4eb1fca.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\9\9cc269a9ce6d821a635d3b43a4eb1fca.bin
+    projectPath: Library\ShaderCache\9\9cc269a9ce6d821a635d3b43a4eb1fca.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\9\9e66d312732abc5ce86ef43fdd57fed1.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\9\9e66d312732abc5ce86ef43fdd57fed1.bin
+    projectPath: Library\ShaderCache\9\9e66d312732abc5ce86ef43fdd57fed1.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\a\a39dbd78cdca452544a395833a00196c.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\a\a39dbd78cdca452544a395833a00196c.bin
+    projectPath: Library\ShaderCache\a\a39dbd78cdca452544a395833a00196c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\a\a463dbc80997d666fff4ff62f01628ea.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\a\a463dbc80997d666fff4ff62f01628ea.bin
+    projectPath: Library\ShaderCache\a\a463dbc80997d666fff4ff62f01628ea.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\a\a475a0fceaca6bb27f47df9715b592c7.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\a\a475a0fceaca6bb27f47df9715b592c7.bin
+    projectPath: Library\ShaderCache\a\a475a0fceaca6bb27f47df9715b592c7.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\a\ab6237b79cb85bb4bbc7da454e3da01b.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\a\ab6237b79cb85bb4bbc7da454e3da01b.bin
+    projectPath: Library\ShaderCache\a\ab6237b79cb85bb4bbc7da454e3da01b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\a\ad3321009593d9134455e2f32401d3bf.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\a\ad3321009593d9134455e2f32401d3bf.bin
+    projectPath: Library\ShaderCache\a\ad3321009593d9134455e2f32401d3bf.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\a\ae55df255f9be889ff4e35d48cc58f35.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\a\ae55df255f9be889ff4e35d48cc58f35.bin
+    projectPath: Library\ShaderCache\a\ae55df255f9be889ff4e35d48cc58f35.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\b\b33d2d08945b178e7207e33733767598.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\b\b33d2d08945b178e7207e33733767598.bin
+    projectPath: Library\ShaderCache\b\b33d2d08945b178e7207e33733767598.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\b\b8b41143ae20323dce403386ba3f1742.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\b\b8b41143ae20323dce403386ba3f1742.bin
+    projectPath: Library\ShaderCache\b\b8b41143ae20323dce403386ba3f1742.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\b\b8e97f3ece3a4a6efd804292c51f5971.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\b\b8e97f3ece3a4a6efd804292c51f5971.bin
+    projectPath: Library\ShaderCache\b\b8e97f3ece3a4a6efd804292c51f5971.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\b\baf087fc21d918a565e73efac50ed439.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\b\baf087fc21d918a565e73efac50ed439.bin
+    projectPath: Library\ShaderCache\b\baf087fc21d918a565e73efac50ed439.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\b\bc1f592a9fcc03a3b92446a46cad6696.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\b\bc1f592a9fcc03a3b92446a46cad6696.bin
+    projectPath: Library\ShaderCache\b\bc1f592a9fcc03a3b92446a46cad6696.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\b\bfa2ac11b5fea02cc6e8deec64bd78ee.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\b\bfa2ac11b5fea02cc6e8deec64bd78ee.bin
+    projectPath: Library\ShaderCache\b\bfa2ac11b5fea02cc6e8deec64bd78ee.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\c\c2a6f4c29f6d6e88f92759eb5e070f53.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\c\c2a6f4c29f6d6e88f92759eb5e070f53.bin
+    projectPath: Library\ShaderCache\c\c2a6f4c29f6d6e88f92759eb5e070f53.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\c\c7de981f154577d40e33877f0f5bab4d.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\c\c7de981f154577d40e33877f0f5bab4d.bin
+    projectPath: Library\ShaderCache\c\c7de981f154577d40e33877f0f5bab4d.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\c\cbb320befd4fcc5c2d6721d3d85549f7.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\c\cbb320befd4fcc5c2d6721d3d85549f7.bin
+    projectPath: Library\ShaderCache\c\cbb320befd4fcc5c2d6721d3d85549f7.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\c\ceb63ee91ad132828f4b003440f2fc64.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\c\ceb63ee91ad132828f4b003440f2fc64.bin
+    projectPath: Library\ShaderCache\c\ceb63ee91ad132828f4b003440f2fc64.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\d\d14a43e7a949e1a4e9ae4a4a831ac371.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\d\d14a43e7a949e1a4e9ae4a4a831ac371.bin
+    projectPath: Library\ShaderCache\d\d14a43e7a949e1a4e9ae4a4a831ac371.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\d\d3f366d77b3435f67a888d01ec49ee78.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\d\d3f366d77b3435f67a888d01ec49ee78.bin
+    projectPath: Library\ShaderCache\d\d3f366d77b3435f67a888d01ec49ee78.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\d\db760f6cc8b21d33161a4b9364629736.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\d\db760f6cc8b21d33161a4b9364629736.bin
+    projectPath: Library\ShaderCache\d\db760f6cc8b21d33161a4b9364629736.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\d\df8c0df119d38fbac24826aeb5ca82c3.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\d\df8c0df119d38fbac24826aeb5ca82c3.bin
+    projectPath: Library\ShaderCache\d\df8c0df119d38fbac24826aeb5ca82c3.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\e\e14e4c04920f394afc1d263e44e89680.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\e\e14e4c04920f394afc1d263e44e89680.bin
+    projectPath: Library\ShaderCache\e\e14e4c04920f394afc1d263e44e89680.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\e\e37bf236c2a74ec8940f47cca1e68c14.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\e\e37bf236c2a74ec8940f47cca1e68c14.bin
+    projectPath: Library\ShaderCache\e\e37bf236c2a74ec8940f47cca1e68c14.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\e\ebf3d192bef0d89ff398c5aa30846d39.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\e\ebf3d192bef0d89ff398c5aa30846d39.bin
+    projectPath: Library\ShaderCache\e\ebf3d192bef0d89ff398c5aa30846d39.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\e\ee8b2c6c107c02b342d526812dd2de64.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\e\ee8b2c6c107c02b342d526812dd2de64.bin
+    projectPath: Library\ShaderCache\e\ee8b2c6c107c02b342d526812dd2de64.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\e\ee90f3f17128e746c29f70b24c5f6383.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\e\ee90f3f17128e746c29f70b24c5f6383.bin
+    projectPath: Library\ShaderCache\e\ee90f3f17128e746c29f70b24c5f6383.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\f\f4884ec7094eaa7ebce51e9a63a82788.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\f\f4884ec7094eaa7ebce51e9a63a82788.bin
+    projectPath: Library\ShaderCache\f\f4884ec7094eaa7ebce51e9a63a82788.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\f\f7839359d0a5818642e51ead933a2ffd.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\f\f7839359d0a5818642e51ead933a2ffd.bin
+    projectPath: Library\ShaderCache\f\f7839359d0a5818642e51ead933a2ffd.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\f\fa1a56a9fffb264dc63ca61a78f9bc71.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\f\fa1a56a9fffb264dc63ca61a78f9bc71.bin
+    projectPath: Library\ShaderCache\f\fa1a56a9fffb264dc63ca61a78f9bc71.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\f\fe9afcb16bf54ae780ac755ec210292d.bin
+    fullPath: D:\Projekti\Unity\The game\Library\ShaderCache\f\fe9afcb16bf54ae780ac755ec210292d.bin
+    projectPath: Library\ShaderCache\f\fe9afcb16bf54ae780ac755ec210292d.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\Projekti\Unity\The game\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: D:\Projekti\Unity\The game\Library\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: D:\Projekti\Unity\The game\Library\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: D:\Projekti\Unity\The game\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Library\StateCache\Hierarchy\99a029-mainStage.json
     fullPath: D:\Projekti\Unity\The game\Library\StateCache\Hierarchy\99a029-mainStage.json
     projectPath: Library\StateCache\Hierarchy\99a029-mainStage.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\StateCache\SceneView\933bda-mainStage.json
+    fullPath: D:\Projekti\Unity\The game\Library\StateCache\SceneView\933bda-mainStage.json
+    projectPath: Library\StateCache\SceneView\933bda-mainStage.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: D:\Projekti\Unity\The game\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
     originalPath: 
     status: 3
     staged: 0
@@ -88,9 +934,81 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
+  - path: Temp\tempFile.res
+    fullPath: D:\Projekti\Unity\The game\Temp\tempFile.res
+    projectPath: Temp\tempFile.res
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\tempFile.resG
+    fullPath: D:\Projekti\Unity\The game\Temp\tempFile.resG
+    projectPath: Temp\tempFile.resG
+    originalPath: 
+    status: 1
+    staged: 0
   - path: Temp\UnityLockfile
     fullPath: D:\Projekti\Unity\The game\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-14dad23f3929e0f43957d1db784395ee
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-14dad23f3929e0f43957d1db784395ee
+    projectPath: Temp\UnityTempFile-14dad23f3929e0f43957d1db784395ee
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-17923895e51bbf744a8b1a665b40c24c
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-17923895e51bbf744a8b1a665b40c24c
+    projectPath: Temp\UnityTempFile-17923895e51bbf744a8b1a665b40c24c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-1ffe7601676f9664d9a97ba0327bee67
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-1ffe7601676f9664d9a97ba0327bee67
+    projectPath: Temp\UnityTempFile-1ffe7601676f9664d9a97ba0327bee67
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-3a68cc38a516a284cb6901ebb0de0471
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-3a68cc38a516a284cb6901ebb0de0471
+    projectPath: Temp\UnityTempFile-3a68cc38a516a284cb6901ebb0de0471
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-445f4b8930e52a641a5c78749bb0438d
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-445f4b8930e52a641a5c78749bb0438d
+    projectPath: Temp\UnityTempFile-445f4b8930e52a641a5c78749bb0438d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-5ce36165772d054478144bc32fa60f41
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-5ce36165772d054478144bc32fa60f41
+    projectPath: Temp\UnityTempFile-5ce36165772d054478144bc32fa60f41
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-679f14b1a269c4f49bb106cb3d93d0e4
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-679f14b1a269c4f49bb106cb3d93d0e4
+    projectPath: Temp\UnityTempFile-679f14b1a269c4f49bb106cb3d93d0e4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-7ae54f533e563e84fb911e00f517cd5f
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-7ae54f533e563e84fb911e00f517cd5f
+    projectPath: Temp\UnityTempFile-7ae54f533e563e84fb911e00f517cd5f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-bdd4b32360302c44c94039ec2210d55a
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-bdd4b32360302c44c94039ec2210d55a
+    projectPath: Temp\UnityTempFile-bdd4b32360302c44c94039ec2210d55a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-cb805a409b09f3c428fa466b2acc5b46
+    fullPath: D:\Projekti\Unity\The game\Temp\UnityTempFile-cb805a409b09f3c428fa466b2acc5b46
+    projectPath: Temp\UnityTempFile-cb805a409b09f3c428fa466b2acc5b46
     originalPath: 
     status: 1
     staged: 0
