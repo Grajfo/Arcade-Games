@@ -324,11 +324,6 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
       value: 3
       objectReference: {fileID: 0}
-    - target: {fileID: 3823635627014873664, guid: a8278216a6ce6bc4cb9dd12c73ec4a8d,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 1740586312, guid: a8278216a6ce6bc4cb9dd12c73ec4a8d, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -340,6 +335,11 @@ PrefabInstance:
     - target: {fileID: 1740586312, guid: a8278216a6ce6bc4cb9dd12c73ec4a8d, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
       value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3823635627014873664, guid: a8278216a6ce6bc4cb9dd12c73ec4a8d,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a8278216a6ce6bc4cb9dd12c73ec4a8d, type: 3}
@@ -872,6 +872,7 @@ GameObject:
   - component: {fileID: 914327606}
   - component: {fileID: 914327608}
   - component: {fileID: 914327605}
+  - component: {fileID: 914327609}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -956,6 +957,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Player: {fileID: 2113190336}
+--- !u!114 &914327609
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 914327604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80cc13b002c97664c97c6a971f0f2f4e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1140168138
 PrefabInstance:
   m_ObjectHideFlags: 0

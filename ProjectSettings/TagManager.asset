@@ -12,6 +12,7 @@ TagManager:
   - seperator
   - Pickup
   - spike
+  - Enemy
   layers:
   - Default
   - TransparentFX

@@ -11,6 +11,8 @@ public class CameraMovement : MonoBehaviour
     void Start()
     {
         PlayerPrefs.SetInt("ufolv" ,SceneManager.GetActiveScene().buildIndex);
+        int nekaj = PlayerPrefs.GetInt("ufolv");
+        Debug.Log(nekaj);
         OffSet = transform.position - Player.transform.position;
     }
 

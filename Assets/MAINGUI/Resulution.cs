@@ -10,7 +10,7 @@ public class Resulution : MonoBehaviour
 
     void Start()
     {
-        Screen.SetResolution(600, 900, false);
+        Screen.SetResolution(1920, 1080, false);
     }
 
    /* public void width(int w)

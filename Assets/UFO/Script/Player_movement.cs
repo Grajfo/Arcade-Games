@@ -17,7 +17,7 @@ public class Player_movement : MonoBehaviour
     private bool playerWins =false;
 
     private void Start()
-    {
+    {     
         rb2d = GetComponent<Rigidbody2D>();
         winText.text = "";
         SetCountText();
@@ -46,20 +46,22 @@ public class Player_movement : MonoBehaviour
 
     void SetCountText()
     {
+        int lv = PlayerPrefs.GetInt("ufolv");
+
         countText.text = "Count: " + Count.ToString();
-        if (Count == 0)
+        if (Count == 0 && lv != 10)
         {
             playerWins = true;
             panel.SetActive(true);
             quit.SetActive(false);
             winText.text = "You WIN";
         }
-        else if (Count == 0 && PlayerPrefs.GetInt("ufolv") == 10)
+        else if (Count == 0 && lv == 10)
         {
             playerWins = true;
             panel.SetActive(true);
             quit.SetActive(false);
-            winText.text = "Congratulations You Finished last lv";
+            winText.text = "YOU WON THE GAME";
         }
     }
 

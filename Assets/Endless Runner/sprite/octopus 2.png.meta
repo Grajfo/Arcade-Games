@@ -1,30 +1,30 @@
 fileFormatVersion: 2
-guid: 6acd543a7a8c5ba47b258e863ee1c2c3
+guid: d6618adeae53c2444aed3e5a47667862
 TextureImporter:
   fileIDToRecycleName:
-    21300000: octopuss_0
-    21300002: octopuss_1
-    21300004: octopuss_2
-    21300006: octopuss_3
-    21300008: octopuss_4
-    21300010: octopuss_5
-    21300012: octopuss_6
-    21300014: octopuss_7
-    21300016: octopuss_8
-    21300018: octopuss_9
-    21300020: octopuss_10
-    21300022: octopuss_11
-    21300024: octopuss_12
-    21300026: octopuss_13
-    21300028: octopuss_14
-    21300030: octopuss_15
-    21300032: octopuss_16
-    21300034: octopuss_17
-    21300036: octopuss_18
-    21300038: octopuss_19
-    21300040: octopuss_20
-    21300042: octopuss_21
-    21300044: octopuss_22
+    21300000: octopus 2_0
+    21300002: octopus 2_1
+    21300004: octopus 2_2
+    21300006: octopus 2_3
+    21300008: octopus 2_4
+    21300010: octopus 2_5
+    21300012: octopus 2_6
+    21300014: octopus 2_7
+    21300016: octopus 2_8
+    21300018: octopus 2_9
+    21300020: octopus 2_10
+    21300022: octopus 2_11
+    21300024: octopus 2_12
+    21300026: octopus 2_13
+    21300028: octopus 2_14
+    21300030: octopus 2_15
+    21300032: octopus 2_16
+    21300034: octopus 2_17
+    21300036: octopus 2_18
+    21300038: octopus 2_19
+    21300040: octopus 2_20
+    21300042: octopus 2_21
+    21300044: octopus 2_22
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -107,461 +107,461 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: octopuss_0
+      name: octopus 2_0
       rect:
         serializedVersion: 2
-        x: 786
-        y: 431
-        width: 366
-        height: 261
+        x: 504
+        y: 388
+        width: 231
+        height: 375
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff16bc634d7f94d479a4dad119a240ef
+      spriteID: 8c259d43d92d34745998fd2af7506e05
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: octopuss_1
+      name: octopus 2_1
       rect:
         serializedVersion: 2
-        x: 967
-        y: 687
+        x: 875
+        y: 483
+        width: 359
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015c4a95c4491e7409404732f40f28f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus 2_2
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 739
         width: 10
         height: 18
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4015c2608039d4440a8874e1fb228f0c
+      spriteID: a68cb48677f947543a266614f9ccd21a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: octopuss_2
+      name: octopus 2_3
       rect:
         serializedVersion: 2
-        x: 98
-        y: 304
+        x: 10
+        y: 355
         width: 262
-        height: 380
+        height: 378
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5762ded01af589f4f964cc1e72864206
+      spriteID: 9cef0f8e74572e04286ac125be0536b6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: octopuss_3
+      name: octopus 2_4
       rect:
         serializedVersion: 2
-        x: 295
-        y: 78
-        width: 275
-        height: 351
+        x: 869
+        y: 523
+        width: 8
+        height: 9
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ca1f0b0cdfa0bd428327a8db1f58405
+      spriteID: a74780155b358bc408d1b9ca1befa13d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: octopuss_4
+      name: octopus 2_5
       rect:
         serializedVersion: 2
-        x: 551
-        y: 304
-        width: 233
-        height: 381
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 51d9f3f0e0716894bb6645925ac83ff3
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: octopuss_5
-      rect:
-        serializedVersion: 2
-        x: 760
-        y: 63
-        width: 260
-        height: 338
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 670f26691e76e104e840324604c014a3
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: octopuss_6
-      rect:
-        serializedVersion: 2
-        x: 1078
-        y: 383
+        x: 1161
+        y: 435
         width: 16
         height: 15
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f5019f00fe327c418e15fa785437bc3
+      spriteID: a7e4860228deadd40a1c96d175cb7db8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: octopuss_7
+      name: octopus 2_6
       rect:
         serializedVersion: 2
-        x: 1095
-        y: 367
+        x: 1178
+        y: 419
         width: 16
         height: 33
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69eca3c729a9e89429085f93408ef18c
+      spriteID: 89afd259980ec374084abaf0485957a8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: octopuss_8
+      name: octopus 2_7
       rect:
         serializedVersion: 2
-        x: 1090
-        y: 365
+        x: 1173
+        y: 417
         width: 5
         height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f3ed416c9604844bb04ab51e6f437f8
+      spriteID: a860eb9764a15ee469a053fc3d5dd956
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: octopuss_9
+      name: octopus 2_8
       rect:
         serializedVersion: 2
-        x: 1184
-        y: 361
+        x: 1167
+        y: 404
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f0f2ecd1b0e1747b5ca8484e26a9f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus 2_9
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 391
         width: 9
         height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99bcb32d142165f46aeb9e35de33883e
+      spriteID: 7edfb21d57177954aa3e32839037a2d0
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: octopuss_10
+      name: octopus 2_10
       rect:
         serializedVersion: 2
-        x: 1070
-        y: 316
-        width: 20
-        height: 47
+        x: 251
+        y: 50
+        width: 271
+        height: 339
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 188199a8304da2349b982e4780d04c22
+      spriteID: b4373f2b2aa888043af8975fe6ffcb51
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: octopuss_11
+      name: octopus 2_11
       rect:
         serializedVersion: 2
-        x: 1079
-        y: 301
+        x: 770
+        y: 14
+        width: 259
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa75d84b4015e642a7e475db3a408ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus 2_12
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 346
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff97b189a15f9b4d82c9f4cee7fc6be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus 2_13
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 331
         width: 5
         height: 6
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1991b81e8441c34396b602e4ae0ff0a
+      spriteID: d88d10e25184f6e47a65d35c2901c07c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: octopuss_12
+      name: octopus 2_14
       rect:
         serializedVersion: 2
-        x: 757
-        y: 248
+        x: 766
+        y: 200
         width: 4
-        height: 5
+        height: 6
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a258f2f66e85881469bc4ccb3296473a
+      spriteID: 31fabe769fc310b4ca2d26c89dd0349c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: octopuss_13
+      name: octopus 2_15
       rect:
         serializedVersion: 2
-        x: 285
-        y: 136
+        x: 237
+        y: 103
         width: 10
         height: 14
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 256b5ecee97cd034181e86f5b9227d50
+      spriteID: e67478f4f5127fd41a52bfba2c1d4ca8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: octopuss_14
+      name: octopus 2_16
       rect:
         serializedVersion: 2
-        x: 273
-        y: 122
+        x: 225
+        y: 89
         width: 13
         height: 11
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2370105810c66b04ea59ad19daf062a1
+      spriteID: b5354324d6e9960429ba15797a842019
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: octopuss_15
+      name: octopus 2_17
       rect:
         serializedVersion: 2
-        x: 246
-        y: 94
-        width: 9
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d6bb73bd7c5dac4f9c6d36e6ed9d288
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: octopuss_16
-      rect:
-        serializedVersion: 2
-        x: 296
-        y: 98
+        x: 248
+        y: 65
         width: 17
         height: 10
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de462d6b24d5897469bab76d95782ff5
+      spriteID: 1bb1306f3add81344b395dcbc0c77a9a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: octopuss_17
+      name: octopus 2_18
       rect:
         serializedVersion: 2
-        x: 709
-        y: 100
+        x: 234
+        y: 61
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e0c3ebfb9cd9345aec4b2e09fe165c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus 2_19
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 52
         width: 11
         height: 10
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98e3fa7b573cbfb48a9b9a16a94575a7
+      spriteID: 0144b0b9a4af86b458c4a2529a84d4f4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: octopuss_18
+      name: octopus 2_20
       rect:
         serializedVersion: 2
-        x: 274
-        y: 92
-        width: 12
-        height: 6
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3a12ed83807ee594e95bda3b373cd10e
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: octopuss_19
-      rect:
-        serializedVersion: 2
-        x: 735
-        y: 92
+        x: 744
+        y: 44
         width: 5
         height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 64825b728ae18804a867cc1d86a09f0d
+      spriteID: 66cad4c6a7061794faba4af141f04bf3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: octopuss_20
+      name: octopus 2_21
       rect:
         serializedVersion: 2
-        x: 735
-        y: 77
+        x: 744
+        y: 29
         width: 6
         height: 6
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4aa55c3549ac6244a91a2835b8b97c3
+      spriteID: ce4ef6ace8c53c84a93ed30ae361d74c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: octopuss_21
+      name: octopus 2_22
       rect:
         serializedVersion: 2
-        x: 710
-        y: 70
+        x: 719
+        y: 22
         width: 12
         height: 6
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57d89302b0af70249933151f482774bc
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: octopuss_22
-      rect:
-        serializedVersion: 2
-        x: 375
-        y: 58
-        width: 9
-        height: 4
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9da21f8f450aaa341b5b5f68c12b9d5c
+      spriteID: 73a9c2223a6e49143a455d978328179f
       vertices: []
       indices: 
       edges: []
@@ -569,7 +569,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 95809f6e81d50f24d8759801bf0fe35b
+    spriteID: cda454010e437354faa8507352d11594
     vertices: []
     indices: 
     edges: []
