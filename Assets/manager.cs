@@ -15,4 +15,9 @@ public class manager : MonoBehaviour
         PlayerPrefs.DeleteKey("ufolv");
         SceneManager.LoadScene(4);
     }
+
+    public void Restart()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
 }

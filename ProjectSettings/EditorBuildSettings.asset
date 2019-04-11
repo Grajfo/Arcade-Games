@@ -44,4 +44,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/FlappyBird/Flappy.unity
     guid: ba737ccf21d037040924799b9a1843f5
+  - enabled: 1
+    path: Assets/Endless Runner/EndlessRuner_Gui.unity
+    guid: 10296a1a8521ea24da13a8d6770e3364
+  - enabled: 1
+    path: Assets/Endless Runner/Endless_runner.unity
+    guid: 02b9842ef9f24504da607ffe85d8b8d7
   m_configObjects: {}
