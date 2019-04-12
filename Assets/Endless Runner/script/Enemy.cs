@@ -23,6 +23,7 @@ public class Enemy : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
+            other.GetComponents<AudioSource>()[0].Play();
             Instantiate(effect, transform.position, Quaternion.identity);
             other.GetComponent<Player>().health -= damage;
             Destroy(gameObject);
