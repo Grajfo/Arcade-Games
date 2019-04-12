@@ -13,26 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-04-12T14:51:59.123+02:00
-  initializedAtString: 2019-04-12T14:50:42.172+02:00
+  lastUpdatedAtString: 2019-04-12T15:00:43.398+02:00
+  initializedAtString: 2019-04-12T15:00:43.398+02:00
   entries:
   - path: Library\EditorInstance.json
     fullPath: D:\Projekti\Unity\The game\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
     originalPath: 
     status: 1
-    staged: 0
-  - path: Library\gfu\cache\gitstatusentries.yaml
-    fullPath: D:\Projekti\Unity\The game\Library\gfu\cache\gitstatusentries.yaml
-    projectPath: Library\gfu\cache\gitstatusentries.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Library\gfu\cache\gittrackingstatus.yaml
-    fullPath: D:\Projekti\Unity\The game\Library\gfu\cache\gittrackingstatus.yaml
-    projectPath: Library\gfu\cache\gittrackingstatus.yaml
-    originalPath: 
-    status: 5
     staged: 0
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: D:\Projekti\Unity\The game\Library\gfu\cache\repoinfo.yaml
