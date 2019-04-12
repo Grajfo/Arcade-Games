@@ -75,6 +75,4 @@ public class GameControll : MonoBehaviour
         GameOver = true;
         HighScore();
     }
-
-
 }

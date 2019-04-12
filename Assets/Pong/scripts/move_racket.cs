@@ -13,20 +13,11 @@ public class move_racket : MonoBehaviour
         float v = Input.GetAxisRaw(axis);
         GetComponent<Rigidbody2D>().velocity = new Vector2(0, v) * speed;
     }
-    private Color get_color()
-    {
-        Color Displayer = new Color(
-          Random.Range(0f, 1f),
-          Random.Range(0f, 1f),
-          Random.Range(0f, 1f)
-          );
-        return Displayer;
-    }
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.name == "Ball")
         {
-            GetComponent<SpriteRenderer>().color = get_color();
+            GetComponent<SpriteRenderer>().color = Gamecontrol.instance.get_color();
             GetComponent<AudioSource>().Play();
 
         }

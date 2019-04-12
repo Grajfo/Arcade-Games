@@ -4,20 +4,20 @@ using UnityEngine;
 
 public class ReapitingBg : MonoBehaviour
 {
-    public float speed;
+       public float speed;
+       public float EndX;
+       public float startX;
 
-    public float EndX;
-    public float startX;
+       // Update is called once per frame
+       void Update()
+       {
+           transform.Translate(Vector2.left * speed * Time.deltaTime);
 
-    // Update is called once per frame
-    void Update()
-    {
-        transform.Translate(Vector2.left * speed * Time.deltaTime);
+           if(transform.position.x <= EndX)
+           {
+               transform.position = new Vector2(startX, transform.position.y);
 
-        if(transform.position.x <= EndX)
-        {
-            transform.position = new Vector2(startX, transform.position.y);
-
-        }
-    }
+           }
+       }
+       
 }

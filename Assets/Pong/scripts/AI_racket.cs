@@ -8,15 +8,6 @@ public class AI_racket : MonoBehaviour
     public float speed;
     private int framecount = 0;
 
-    private Color get_color()
-    {
-        Color Displayer = new Color(
-          Random.Range(0f, 1f),
-          Random.Range(0f, 1f),
-          Random.Range(0f, 1f)
-          );
-        return Displayer;
-    }
     // Start is called before the first frame update
     void Start()
     {
@@ -58,7 +49,7 @@ public class AI_racket : MonoBehaviour
     {
         if (collision.gameObject.name == "Ball")
         {
-            GetComponent<SpriteRenderer>().color = get_color();
+            GetComponent<SpriteRenderer>().color = Gamecontrol.instance.get_color();
             GetComponent<AudioSource>().Play();
 
         }

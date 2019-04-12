@@ -60,16 +60,6 @@ public class ball : MonoBehaviour
         }
     }
 
-    private Color get_color()
-    {
-      Color Displayer = new Color(
-        Random.Range(0f, 1f),
-        Random.Range(0f, 1f),
-        Random.Range(0f, 1f)
-        );
-        return Displayer;
-    }
-
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.name == "left_pallete")
@@ -81,7 +71,7 @@ public class ball : MonoBehaviour
             Vector2 dir = new Vector2(1, y).normalized;
             GetComponent<Rigidbody2D>().velocity = dir * speed;
             counter++;
-            GetComponent<SpriteRenderer>().color = get_color();
+            GetComponent<SpriteRenderer>().color = Gamecontrol.instance.get_color();
         }
 
         else if(collision.gameObject.name == "right_pallete" || collision.gameObject.name == "right_pallete_AI")
@@ -93,7 +83,7 @@ public class ball : MonoBehaviour
             Vector2 dir = new Vector2(-1, y).normalized;
             GetComponent<Rigidbody2D>().velocity = dir * speed;
             counter++;
-            GetComponent<SpriteRenderer>().color = get_color();
+            GetComponent<SpriteRenderer>().color = Gamecontrol.instance.get_color();
         }
 
         else if (collision.gameObject.name == "Right")
@@ -101,22 +91,22 @@ public class ball : MonoBehaviour
             scorele += 1;
             scoreLeft.text = scorele.ToString();
             speed = 70;
-            GetComponent<SpriteRenderer>().color = get_color();
-            GameObject.FindWithTag("MainCamera").GetComponent<Camera>().backgroundColor = get_color();
-            scoreLeft.color = get_color();
+            GetComponent<SpriteRenderer>().color = Gamecontrol.instance.get_color();
+            GameObject.FindWithTag("MainCamera").GetComponent<Camera>().backgroundColor = Gamecontrol.instance.get_color();
+            scoreLeft.color = Gamecontrol.instance.get_color();
         }
         else if (collision.gameObject.name == "Left")
         {
             scoreri += 1;
             scoreRight.text = scoreri.ToString();
             speed = 70;
-            GetComponent<SpriteRenderer>().color = get_color();
-            GameObject.FindWithTag("MainCamera").GetComponent<Camera>().backgroundColor = get_color();
-            scoreRight.color = get_color();
+            GetComponent<SpriteRenderer>().color = Gamecontrol.instance.get_color();
+            GameObject.FindWithTag("MainCamera").GetComponent<Camera>().backgroundColor = Gamecontrol.instance.get_color();
+            scoreRight.color = Gamecontrol.instance.get_color();
         }
         else if (collision.gameObject.tag == "tbwall")
         {
-            GetComponent<SpriteRenderer>().color = get_color();
+            GetComponent<SpriteRenderer>().color = Gamecontrol.instance.get_color();
         }
         if (counter == 3)
         {
