@@ -15,9 +15,9 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
     x: 0
-    y: 43
-    width: 1920
-    height: 1117
+    y: 42.666668
+    width: 1280
+    height: 637
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
@@ -43,8 +43,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1920
-    height: 1117
+    width: 1280
+    height: 637
   m_MinSize: {x: 950, y: 548}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
@@ -64,7 +64,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1920
+    width: 1280
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -85,8 +85,8 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 1097
-    width: 1920
+    y: 617
+    width: 1280
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -109,12 +109,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
-    width: 1920
-    height: 1067
+    width: 1280
+    height: 587
   m_MinSize: {x: 713, y: 498}
   m_MaxSize: {x: 18008, y: 14048}
   vertical: 0
-  controlID: 4939
+  controlID: 51
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -134,12 +134,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1360
-    height: 1067
+    width: 907
+    height: 587
   m_MinSize: {x: 436, y: 498}
   m_MaxSize: {x: 14006, y: 14048}
   vertical: 1
-  controlID: 5023
+  controlID: 52
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -159,12 +159,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1360
-    height: 561
+    width: 907
+    height: 309
   m_MinSize: {x: 306, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 5024
+  controlID: 53
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -182,8 +182,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 948
-    height: 561
+    width: 632
+    height: 309
   m_MinSize: {x: 102, y: 124}
   m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 16}
@@ -208,10 +208,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 948
+    x: 632
     y: 0
-    width: 412
-    height: 561
+    width: 275
+    height: 309
   m_MinSize: {x: 204, y: 224}
   m_MaxSize: {x: 4004, y: 4024}
   m_ActualView: {fileID: 18}
@@ -237,13 +237,13 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 561
-    width: 1360
-    height: 506
+    y: 309
+    width: 907
+    height: 278
   m_MinSize: {x: 436, y: 274}
   m_MaxSize: {x: 14006, y: 10024}
   vertical: 0
-  controlID: 5048
+  controlID: 124
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -261,8 +261,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 888
-    height: 506
+    width: 592
+    height: 278
   m_MinSize: {x: 202, y: 224}
   m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 14}
@@ -285,10 +285,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 888
+    x: 592
     y: 0
-    width: 472
-    height: 506
+    width: 315
+    height: 278
   m_MinSize: {x: 234, y: 274}
   m_MaxSize: {x: 10004, y: 10024}
   m_ActualView: {fileID: 19}
@@ -312,10 +312,10 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1360
+    x: 907
     y: 0
-    width: 560
-    height: 1067
+    width: 373
+    height: 587
   m_MinSize: {x: 277, y: 74}
   m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 21}
@@ -346,9 +346,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 634
-    width: 886
-    height: 486
+    y: 382
+    width: 590
+    height: 258
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 1
   m_Gizmos: 0
@@ -360,10 +360,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -443
-    m_HBaseRangeMax: 443
-    m_VBaseRangeMin: -234.5
-    m_VBaseRangeMax: 234.5
+    m_HBaseRangeMin: -196.66667
+    m_HBaseRangeMax: 196.66667
+    m_VBaseRangeMin: -80.333336
+    m_VBaseRangeMax: 80.333336
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -381,25 +381,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 886
-      height: 469
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 443, y: 234.5}
+      width: 590
+      height: 241
+    m_Scale: {x: 1.5, y: 1.5}
+    m_Translation: {x: 295, y: 120.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -443
-      y: -234.5
-      width: 886
-      height: 469
+      x: -196.66667
+      y: -80.333336
+      width: 393.33334
+      height: 160.66667
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 886, y: 486}
+  m_LastWindowPixelSize: {x: 885, y: 387}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -505,9 +505,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 73
-    width: 946
-    height: 541
+    y: 72.66667
+    width: 630
+    height: 289
   m_PersistentViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
@@ -801,17 +801,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 948
-    y: 73
-    width: 408
-    height: 541
+    x: 632
+    y: 72.66667
+    width: 271
+    height: 289
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 4}
-      m_SelectedIDs: 0e460000
-      m_LastClickedID: 17934
-      m_ExpandedIDs: a4c1feff26e5ffffacfaffffc6faffffd6fbffff683100000e450000
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 500a0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: d6fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -856,10 +856,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 888
-    y: 634
-    width: 468
-    height: 486
+    x: 592
+    y: 382
+    width: 311
+    height: 258
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -873,20 +873,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Endless Runner/sprite
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Endless Runner/sprite
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Projekti\Unity\The game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 220b0000
-    m_LastClickedID: 2850
-    m_ExpandedIDs: 00000000500a0000780a00000a0c0000280c0000e40c00004a0d0000aa0e000000ca9a3b
+    m_SelectedIDs: 500a0000
+    m_LastClickedID: 2640
+    m_ExpandedIDs: 00000000500a00000e0c0000ec0c0000b80e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -914,7 +914,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000500a0000780a00000a0c0000280c0000e40c00004a0d0000aa0e000000ca9a3b
+    m_ExpandedIDs: 00000000500a0000780a00000e0c00002c0c0000ec0c0000540d0000b80e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -941,7 +941,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000a60c0000aa0d00001a0e000000000000ea0500005e0e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -966,7 +966,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 172}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 113
 --- !u!114 &20
@@ -1016,10 +1016,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1360
-    y: 73
-    width: 558
-    height: 1047
+    x: 907.3334
+    y: 72.66667
+    width: 371
+    height: 567
   m_PersistentViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
@@ -1050,10 +1050,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1360
-    y: 73
-    width: 558
-    height: 1047
+    x: 907.3334
+    y: 72.66667
+    width: 371
+    height: 567
   m_PersistentViewDataDictionary: {fileID: 0}
   progressMessageClearTime: -1
   notificationClearTime: -1
@@ -1062,7 +1062,7 @@ MonoBehaviour:
   currentTrackingStatusHasUpdate: 0
   currentStatusEntriesHasUpdate: 0
   repositoryProgressHasUpdate: 1
-  appManagerProgressHasUpdate: 1
+  appManagerProgressHasUpdate: 0
   changeTab: 3
   activeTab: 3
   initProjectView:
@@ -1211,10 +1211,10 @@ MonoBehaviour:
     disableDelete: 1
     disableCreate: 1
     lastLocalAndRemoteBranchListChangedEvent:
-      updatedTimeString: 2019-04-12T07:40:36.527+02:00
+      updatedTimeString: 2019-04-12T14:53:41.735+02:00
       cacheType: 2
     lastCurrentBranchAndRemoteChange:
-      updatedTimeString: 2019-04-12T09:17:06.634+02:00
+      updatedTimeString: 2019-04-12T14:51:58.192+02:00
       cacheType: 1
     currentBranch:
       name: master
@@ -1234,7 +1234,7 @@ MonoBehaviour:
     - name: Unity/master
       tracking: '[None]'
   changesView:
-    currentBranchHasUpdate: 1
+    currentBranchHasUpdate: 0
     currentStatusEntriesHasUpdate: 0
     currentLocksHasUpdate: 0
     commitBody: 
@@ -1743,8 +1743,540 @@ MonoBehaviour:
             status: 0
             staged: 0
       checkedFileNodes:
-        keys: []
-        values: []
+        keys:
+        - Library\metadata\d5\d5a9d25ebe1331447a4116e70b0f3e17
+        - Library\metadata\d5\d5a9d25ebe1331447a4116e70b0f3e17.info
+        - Library\shadercompiler-UnityShaderCompiler.exe0.log
+        - Library\StateCache\Hierarchy\99a029-mainStage.json
+        - Library\StateCache\SceneView\933bda-mainStage.json
+        - Temp\__Backupscenes\0.backup
+        - Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+        - Temp\UnityLockfile
+        - Library\metadata\60\60d3620c4a65c234982aee3511f75b9a.info
+        - Library\metadata\60\60d3620c4a65c234982aee3511f75b9a
+        - Library\metadata\38\38c2a554602a796499ca3b8755a4700a.info
+        - Library\metadata\38\38c2a554602a796499ca3b8755a4700a
+        - Library\InspectorExpandedItems.asset
+        - Library\gfu\cache\repoinfo.yaml
+        - Library\gfu\cache\gittrackingstatus.yaml
+        - Library\gfu\cache\gitstatusentries.yaml
+        - Library\EditorInstance.json
+        - Library\CurrentMaximizeLayout.dwlt
+        - Library\CrashedAssetImports.txt
+        - Library\assetDatabase3
+        - Assets\MAINGUI\MainGUI.unity
+        - Assets\MAINGUI\Button.controller.meta
+        - Assets\MAINGUI\Button.controller
+        - Assets\MAINGUI\Animations\Button.controller.meta
+        - Assets\MAINGUI\Animations\Button.controller
+        - Assets\MAINGUI\Animations.meta
+        - Assets\Endless Runner\EndlessRuner_Gui.unity
+        - Assets\Endless Runner\Endless_runner.unity
+        values:
+        - path: Library\metadata\d5\d5a9d25ebe1331447a4116e70b0f3e17
+          label: d5a9d25ebe1331447a4116e70b0f3e17
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Library\metadata\d5\d5a9d25ebe1331447a4116e70b0f3e17
+            fullPath: D:\Projekti\Unity\The game\Library\metadata\d5\d5a9d25ebe1331447a4116e70b0f3e17
+            projectPath: Library\metadata\d5\d5a9d25ebe1331447a4116e70b0f3e17
+            originalPath: 
+            status: 5
+            staged: 0
+        - path: Library\metadata\d5\d5a9d25ebe1331447a4116e70b0f3e17.info
+          label: d5a9d25ebe1331447a4116e70b0f3e17.info
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Library\metadata\d5\d5a9d25ebe1331447a4116e70b0f3e17.info
+            fullPath: D:\Projekti\Unity\The game\Library\metadata\d5\d5a9d25ebe1331447a4116e70b0f3e17.info
+            projectPath: Library\metadata\d5\d5a9d25ebe1331447a4116e70b0f3e17.info
+            originalPath: 
+            status: 5
+            staged: 0
+        - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+          label: shadercompiler-UnityShaderCompiler.exe0.log
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+            fullPath: D:\Projekti\Unity\The game\Library\shadercompiler-UnityShaderCompiler.exe0.log
+            projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Library\StateCache\Hierarchy\99a029-mainStage.json
+          label: 99a029-mainStage.json
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Library\StateCache\Hierarchy\99a029-mainStage.json
+            fullPath: D:\Projekti\Unity\The game\Library\StateCache\Hierarchy\99a029-mainStage.json
+            projectPath: Library\StateCache\Hierarchy\99a029-mainStage.json
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Library\StateCache\SceneView\933bda-mainStage.json
+          label: 933bda-mainStage.json
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Library\StateCache\SceneView\933bda-mainStage.json
+            fullPath: D:\Projekti\Unity\The game\Library\StateCache\SceneView\933bda-mainStage.json
+            projectPath: Library\StateCache\SceneView\933bda-mainStage.json
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Temp\__Backupscenes\0.backup
+          label: 0.backup
+          level: 2
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Temp\__Backupscenes\0.backup
+            fullPath: D:\Projekti\Unity\The game\Temp\__Backupscenes\0.backup
+            projectPath: Temp\__Backupscenes\0.backup
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+          label: e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+          level: 2
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+            fullPath: D:\Projekti\Unity\The game\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+            projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Temp\UnityLockfile
+          label: UnityLockfile
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Temp\UnityLockfile
+            fullPath: D:\Projekti\Unity\The game\Temp\UnityLockfile
+            projectPath: Temp\UnityLockfile
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Library\metadata\60\60d3620c4a65c234982aee3511f75b9a.info
+          label: 60d3620c4a65c234982aee3511f75b9a.info
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Library\metadata\60\60d3620c4a65c234982aee3511f75b9a.info
+            fullPath: D:\Projekti\Unity\The game\Library\metadata\60\60d3620c4a65c234982aee3511f75b9a.info
+            projectPath: Library\metadata\60\60d3620c4a65c234982aee3511f75b9a.info
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Library\metadata\60\60d3620c4a65c234982aee3511f75b9a
+          label: 60d3620c4a65c234982aee3511f75b9a
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Library\metadata\60\60d3620c4a65c234982aee3511f75b9a
+            fullPath: D:\Projekti\Unity\The game\Library\metadata\60\60d3620c4a65c234982aee3511f75b9a
+            projectPath: Library\metadata\60\60d3620c4a65c234982aee3511f75b9a
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Library\metadata\38\38c2a554602a796499ca3b8755a4700a.info
+          label: 38c2a554602a796499ca3b8755a4700a.info
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Library\metadata\38\38c2a554602a796499ca3b8755a4700a.info
+            fullPath: D:\Projekti\Unity\The game\Library\metadata\38\38c2a554602a796499ca3b8755a4700a.info
+            projectPath: Library\metadata\38\38c2a554602a796499ca3b8755a4700a.info
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Library\metadata\38\38c2a554602a796499ca3b8755a4700a
+          label: 38c2a554602a796499ca3b8755a4700a
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Library\metadata\38\38c2a554602a796499ca3b8755a4700a
+            fullPath: D:\Projekti\Unity\The game\Library\metadata\38\38c2a554602a796499ca3b8755a4700a
+            projectPath: Library\metadata\38\38c2a554602a796499ca3b8755a4700a
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Library\InspectorExpandedItems.asset
+          label: InspectorExpandedItems.asset
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Library\InspectorExpandedItems.asset
+            fullPath: D:\Projekti\Unity\The game\Library\InspectorExpandedItems.asset
+            projectPath: Library\InspectorExpandedItems.asset
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Library\gfu\cache\repoinfo.yaml
+          label: repoinfo.yaml
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Library\gfu\cache\repoinfo.yaml
+            fullPath: D:\Projekti\Unity\The game\Library\gfu\cache\repoinfo.yaml
+            projectPath: Library\gfu\cache\repoinfo.yaml
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Library\gfu\cache\gittrackingstatus.yaml
+          label: gittrackingstatus.yaml
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Library\gfu\cache\gittrackingstatus.yaml
+            fullPath: D:\Projekti\Unity\The game\Library\gfu\cache\gittrackingstatus.yaml
+            projectPath: Library\gfu\cache\gittrackingstatus.yaml
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Library\gfu\cache\gitstatusentries.yaml
+          label: gitstatusentries.yaml
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Library\gfu\cache\gitstatusentries.yaml
+            fullPath: D:\Projekti\Unity\The game\Library\gfu\cache\gitstatusentries.yaml
+            projectPath: Library\gfu\cache\gitstatusentries.yaml
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Library\EditorInstance.json
+          label: EditorInstance.json
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Library\EditorInstance.json
+            fullPath: D:\Projekti\Unity\The game\Library\EditorInstance.json
+            projectPath: Library\EditorInstance.json
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Library\CurrentMaximizeLayout.dwlt
+          label: CurrentMaximizeLayout.dwlt
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Library\CurrentMaximizeLayout.dwlt
+            fullPath: D:\Projekti\Unity\The game\Library\CurrentMaximizeLayout.dwlt
+            projectPath: Library\CurrentMaximizeLayout.dwlt
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Library\CrashedAssetImports.txt
+          label: CrashedAssetImports.txt
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Library\CrashedAssetImports.txt
+            fullPath: D:\Projekti\Unity\The game\Library\CrashedAssetImports.txt
+            projectPath: Library\CrashedAssetImports.txt
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Library\assetDatabase3
+          label: assetDatabase3
+          level: 1
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Library\assetDatabase3
+            fullPath: D:\Projekti\Unity\The game\Library\assetDatabase3
+            projectPath: Library\assetDatabase3
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Assets\MAINGUI\MainGUI.unity
+          label: MainGUI.unity
+          level: 2
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\MAINGUI\MainGUI.unity
+            fullPath: D:\Projekti\Unity\The game\Assets\MAINGUI\MainGUI.unity
+            projectPath: Assets\MAINGUI\MainGUI.unity
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Assets\MAINGUI\Button.controller.meta
+          label: Button.controller.meta
+          level: 3
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\MAINGUI\Button.controller.meta
+            fullPath: D:\Projekti\Unity\The game\Assets\MAINGUI\Button.controller.meta
+            projectPath: Assets\MAINGUI\Button.controller.meta
+            originalPath: 
+            status: 5
+            staged: 0
+        - path: Assets\MAINGUI\Button.controller
+          label: Button.controller
+          level: 2
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\MAINGUI\Button.controller
+            fullPath: D:\Projekti\Unity\The game\Assets\MAINGUI\Button.controller
+            projectPath: Assets\MAINGUI\Button.controller
+            originalPath: 
+            status: 5
+            staged: 0
+        - path: Assets\MAINGUI\Animations\Button.controller.meta
+          label: Button.controller.meta
+          level: 4
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\MAINGUI\Animations\Button.controller.meta
+            fullPath: D:\Projekti\Unity\The game\Assets\MAINGUI\Animations\Button.controller.meta
+            projectPath: Assets\MAINGUI\Animations\Button.controller.meta
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\MAINGUI\Animations\Button.controller
+          label: Button.controller
+          level: 3
+          isFolder: 0
+          isContainer: 1
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\MAINGUI\Animations\Button.controller
+            fullPath: D:\Projekti\Unity\The game\Assets\MAINGUI\Animations\Button.controller
+            projectPath: Assets\MAINGUI\Animations\Button.controller
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\MAINGUI\Animations.meta
+          label: Animations.meta
+          level: 2
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\MAINGUI\Animations.meta
+            fullPath: D:\Projekti\Unity\The game\Assets\MAINGUI\Animations.meta
+            projectPath: Assets\MAINGUI\Animations.meta
+            originalPath: 
+            status: 1
+            staged: 0
+        - path: Assets\Endless Runner\EndlessRuner_Gui.unity
+          label: EndlessRuner_Gui.unity
+          level: 2
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Endless Runner\EndlessRuner_Gui.unity
+            fullPath: D:\Projekti\Unity\The game\Assets\Endless Runner\EndlessRuner_Gui.unity
+            projectPath: Assets\Endless Runner\EndlessRuner_Gui.unity
+            originalPath: 
+            status: 3
+            staged: 0
+        - path: Assets\Endless Runner\Endless_runner.unity
+          label: Endless_runner.unity
+          level: 2
+          isFolder: 0
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 1
+          isActive: 0
+          treeIsCheckable: 1
+          checkState: 1
+          isLocked: 0
+          gitStatusEntry:
+            path: Assets\Endless Runner\Endless_runner.unity
+            fullPath: D:\Projekti\Unity\The game\Assets\Endless Runner\Endless_runner.unity
+            projectPath: Assets\Endless Runner\Endless_runner.unity
+            originalPath: 
+            status: 3
+            staged: 0
       title: 
       pathSeparator: \
       displayRootNode: 0
@@ -1761,7 +2293,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -1779,7 +2311,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -1797,7 +2329,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -1815,7 +2347,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Endless Runner\Endless_runner.unity
@@ -1833,7 +2365,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\Endless Runner\EndlessRuner_Gui.unity
@@ -1851,7 +2383,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -1869,7 +2401,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\MAINGUI\Animations.meta
@@ -1887,7 +2419,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -1905,7 +2437,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\MAINGUI\Animations\Button.controller
@@ -1923,7 +2455,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\MAINGUI\Animations\Button.controller.meta
@@ -1941,7 +2473,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\MAINGUI\Button.controller
@@ -1959,7 +2491,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\MAINGUI\Button.controller.meta
@@ -1977,7 +2509,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Assets\MAINGUI\MainGUI.unity
@@ -1995,7 +2527,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2013,7 +2545,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Library\assetDatabase3
@@ -2031,7 +2563,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Library\CrashedAssetImports.txt
@@ -2049,7 +2581,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Library\CurrentMaximizeLayout.dwlt
@@ -2067,7 +2599,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Library\EditorInstance.json
@@ -2085,7 +2617,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2103,7 +2635,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2121,7 +2653,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Library\gfu\cache\gitstatusentries.yaml
@@ -2139,7 +2671,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Library\gfu\cache\gittrackingstatus.yaml
@@ -2157,7 +2689,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Library\gfu\cache\repoinfo.yaml
@@ -2175,7 +2707,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Library\InspectorExpandedItems.asset
@@ -2193,7 +2725,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2211,7 +2743,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2229,7 +2761,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Library\metadata\38\38c2a554602a796499ca3b8755a4700a
@@ -2247,7 +2779,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Library\metadata\38\38c2a554602a796499ca3b8755a4700a.info
@@ -2265,7 +2797,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2283,7 +2815,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Library\metadata\60\60d3620c4a65c234982aee3511f75b9a
@@ -2301,7 +2833,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Library\metadata\60\60d3620c4a65c234982aee3511f75b9a.info
@@ -2319,7 +2851,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2337,7 +2869,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Library\metadata\d5\d5a9d25ebe1331447a4116e70b0f3e17
@@ -2355,7 +2887,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Library\metadata\d5\d5a9d25ebe1331447a4116e70b0f3e17.info
@@ -2373,7 +2905,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Library\shadercompiler-UnityShaderCompiler.exe0.log
@@ -2391,7 +2923,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2409,7 +2941,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2427,7 +2959,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Library\StateCache\Hierarchy\99a029-mainStage.json
@@ -2445,7 +2977,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2463,7 +2995,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Library\StateCache\SceneView\933bda-mainStage.json
@@ -2481,7 +3013,7 @@ MonoBehaviour:
         isHidden: 0
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2499,7 +3031,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2517,7 +3049,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Temp\__Backupscenes\0.backup
@@ -2535,7 +3067,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2553,7 +3085,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
@@ -2571,7 +3103,7 @@ MonoBehaviour:
         isHidden: 1
         isActive: 0
         treeIsCheckable: 1
-        checkState: 0
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: Temp\UnityLockfile
@@ -2581,16 +3113,16 @@ MonoBehaviour:
           status: 1
           staged: 0
       selectedNode:
-        path: 
-        label: 
+        path: Assets
+        label: Assets
         level: 0
-        isFolder: 0
+        isFolder: 1
         isContainer: 0
-        isCollapsed: 0
+        isCollapsed: 1
         isHidden: 0
         isActive: 0
-        treeIsCheckable: 0
-        checkState: 0
+        treeIsCheckable: 1
+        checkState: 1
         isLocked: 0
         gitStatusEntry:
           path: 
@@ -2770,7 +3302,7 @@ MonoBehaviour:
       staged: 0
     changedFilesText: 28 changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 2019-04-12T12:26:12.368+02:00
+      updatedTimeString: 2019-04-12T14:51:58.192+02:00
       cacheType: 1
     lastStatusEntriesChangedEvent:
       updatedTimeString: 0001-01-01T00:00:00.000+00:00
@@ -38700,7 +39232,7 @@ MonoBehaviour:
         staged: 0
     statusAhead: 0
     lastLogChangedEvent:
-      updatedTimeString: 2019-04-12T09:17:28.653+02:00
+      updatedTimeString: 0001-01-01T00:00:00.000+00:00
       cacheType: 3
     lastTrackingStatusChangedEvent:
       updatedTimeString: 
@@ -81129,7 +81661,7 @@ MonoBehaviour:
           originalPath: 
           status: 0
           staged: 0
-    detailsScroll: {x: 0, y: 3978}
+    detailsScroll: {x: 0, y: 3977}
   settingsView:
     gitPathView:
       gitPath: C:\Program Files\Git\cmd\git.exe
@@ -81140,7 +81672,7 @@ MonoBehaviour:
       changingManually: 0
     hasRemote: 1
     lastCurrentRemoteChangedEvent:
-      updatedTimeString: 2019-04-12T09:17:06.634+02:00
+      updatedTimeString: 2019-04-12T14:51:58.192+02:00
       cacheType: 1
     metricsEnabled: 1
     newRepositoryRemoteUrl: https://github.com/Grajfo/Unity.git
@@ -81154,7 +81686,7 @@ MonoBehaviour:
       newGitEmail: zan.grajfoner.1996@gmail.com
       needsSaving: 0
       lastCheckUserChangedEvent:
-        updatedTimeString: 0001-01-01T00:00:00.000+00:00
+        updatedTimeString: 2019-04-12T14:53:41.424+02:00
         cacheType: 8
     webTimeout: 3000
     gitTimeout: 5000
@@ -81183,7 +81715,7 @@ MonoBehaviour:
         gitFileStatus: 0
         lockedAt: 
     lastCurrentRemoteChangedEvent:
-      updatedTimeString: 2019-04-12T09:17:06.634+02:00
+      updatedTimeString: 2019-04-12T14:51:58.192+02:00
       cacheType: 1
     lastLocksChangedEvent:
       updatedTimeString: 
@@ -81374,7 +81906,7 @@ MonoBehaviour:
   currentRemoteName: Unity
   currentBranch: master
   currentRemoteUrl: https://github.com/Grajfo/Unity.git
-  statusAhead: 1
+  statusAhead: 0
   statusBehind: 0
   hasItemsToCommit: 1
   isTrackingRemoteBranch: 1
@@ -81387,7 +81919,7 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the Unity remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2019-04-12T09:17:33.548+02:00
+    updatedTimeString: 2019-04-12T14:51:58.192+02:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
     updatedTimeString: 0001-01-01T00:00:00.000+00:00
