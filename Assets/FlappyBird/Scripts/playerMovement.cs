@@ -33,6 +33,7 @@ public class playerMovement : MonoBehaviour
                 GameControll.instance.StartText();
                 rb2d.velocity = Vector2.zero;
                 rb2d.AddForce(new Vector2(0, upforce));
+                this.GetComponents<AudioSource>()[1].Play();
                 anim.SetTrigger("Flap");
             }
             if (trans.position.y >= 5.7f)
@@ -41,7 +42,7 @@ public class playerMovement : MonoBehaviour
                 IsDeath = true;
                 anim.SetTrigger("Death");
                 GameControll.instance.playerDies();
-                this.GetComponent<AudioSource>().Play();
+                this.GetComponents<AudioSource>()[0].Play();
                 Count++;
             }
         }

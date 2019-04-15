@@ -13,9 +13,123 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-04-12T14:53:59.341+02:00
-  initializedAtString: 2019-04-12T14:53:59.341+02:00
+  lastUpdatedAtString: 2019-04-15T11:04:49.039+02:00
+  initializedAtString: 2019-04-15T11:04:49.039+02:00
   log:
+  - commitID: adb08e7ac586212e47fa00b98eecff6660ee9bc7
+    mergeA: 
+    mergeB: 
+    authorName: Grajfo
+    authorEmail: zan.grajfoner.1996@gmail.com
+    commitEmail: zan.grajfoner.1996@gmail.com
+    commitName: Grajfo
+    summary: Library
+    description: 
+    timeString: 2019-04-12T15:08:19.000+02:00
+    commitTimeString: 2019-04-12T15:08:19.000+02:00
+    changes:
+    - path: Library\CurrentLayout.dwlt
+      fullPath: D:\Projekti\Unity\The game\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\expandedItems
+      fullPath: D:\Projekti\Unity\The game\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Projekti\Unity\The game\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Projekti\Unity\The game\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\Projekti\Unity\The game\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 801fa69f502f8522faf55bfbc0e3a724103cecaa
+    mergeA: 
+    mergeB: 
+    authorName: Grajfo
+    authorEmail: zan.grajfoner.1996@gmail.com
+    commitEmail: zan.grajfoner.1996@gmail.com
+    commitName: Grajfo
+    summary: game
+    description: 
+    timeString: 2019-04-12T14:59:40.000+02:00
+    commitTimeString: 2019-04-12T14:59:40.000+02:00
+    changes:
+    - path: Library\CurrentLayout.dwlt
+      fullPath: D:\Projekti\Unity\The game\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: D:\Projekti\Unity\The game\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\expandedItems
+      fullPath: D:\Projekti\Unity\The game\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: D:\Projekti\Unity\The game\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: D:\Projekti\Unity\The game\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Projekti\Unity\The game\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Projekti\Unity\The game\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gituser.yaml
+      fullPath: D:\Projekti\Unity\The game\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\Projekti\Unity\The game\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\Projekti\Unity\The game\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: cdfface3f979bd4ab944d809f9b9312b19537da9
     mergeA: 723101bf51c9e86742b78fc90e68db52a1684ab4
     mergeB: 36c5eb5e533e71e06da8db81691fe8c6321c00d2
