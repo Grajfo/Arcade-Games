@@ -6402,3 +6402,8 @@ Library/BuildPlayer.prefs
 Library/AssetImportState
 Library/assetDatabase3
 Library/AnnotationManager
+.vs/Unity/v15/Server/sqlite3/storage.ide-wal
+.vs/Unity/v15/Server/sqlite3/storage.ide-shm
+.vs/Unity/v15/Server/sqlite3/storage.ide
+.vs/Unity/v15/Server/sqlite3/db.lock
+.vs/Unity/v15/.suo
