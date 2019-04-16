@@ -4,11 +4,9 @@ using UnityEngine;
 
 public class scale : MonoBehaviour
 {
-    // Start is called before the first frame update
-
     void Start()
     {
-        
+        //Setting resolution to full hd fullscreen
         Screen.SetResolution(1920, 1080, true);
     }
 }

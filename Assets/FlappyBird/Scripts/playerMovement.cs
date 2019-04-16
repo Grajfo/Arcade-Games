@@ -10,9 +10,9 @@ public class playerMovement : MonoBehaviour
     private Animator anim;
     private Transform trans;
     private int Count;
-
     public float upforce = 200f;
-    // Start is called before the first frame update
+
+    //Setting values in start function
     void Start()
     {
         Count = 0;
@@ -21,22 +21,21 @@ public class playerMovement : MonoBehaviour
         anim = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
     void Update()
     {
         trans = GetComponent<Transform>();
-        if (IsDeath == false)
+        if (IsDeath == false) //check player isDeath
         {
-            if (Input.GetMouseButtonDown(0))
+            if (Input.GetMouseButtonDown(0)) // if player clicks mouse button the game starts
             {
                 Time.timeScale = 1;
-                GameControll.instance.StartText();
+                GameControll.instance.StartText(); 
                 rb2d.velocity = Vector2.zero;
                 rb2d.AddForce(new Vector2(0, upforce));
                 this.GetComponents<AudioSource>()[1].Play();
                 anim.SetTrigger("Flap");
             }
-            if (trans.position.y >= 5.7f)
+            if (trans.position.y >= 5.7f) //if player goes of screen he dies
             {
                 rb2d.velocity = Vector2.zero;
                 IsDeath = true;
@@ -50,7 +49,7 @@ public class playerMovement : MonoBehaviour
 
     void OnCollisionEnter2D()
     {
-        if (Count == 0)
+        if (Count == 0) //if collision with piles or ground player dies
         {
             rb2d.velocity = Vector2.zero;
             IsDeath = true;
