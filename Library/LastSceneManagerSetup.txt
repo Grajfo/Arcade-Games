@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/FlappyBird/Scene/FlappyGui.unity
-  isLoaded: 1
-  isActive: 1
