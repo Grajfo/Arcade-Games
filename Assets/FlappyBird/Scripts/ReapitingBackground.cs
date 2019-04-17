@@ -7,22 +7,19 @@ public class ReapitingBackground : MonoBehaviour
     private BoxCollider2D groundColider;
     private float groundHorizontalLength;
 
-    // Start is called before the first frame update
     void Start()
     {
         groundColider = GetComponent<BoxCollider2D>();
         groundHorizontalLength = groundColider.size.x;
     }
 
-    // Update is called once per frame
     void Update()
-    {
+    {   //check if the position x is smaller then groundcolliderlength so the background reposition to its value
         if (transform.position.x < -groundHorizontalLength)
         {
             repositionBackground();
         }
     }
-
 
     private void repositionBackground()
     {

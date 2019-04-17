@@ -12,14 +12,13 @@ public class main : MonoBehaviour
     public string timerText;
     public GameObject seperator;
     public GameObject racketprefab;
-    public Button quit;
-
+    public Text Pause;
 
     void Start()
     {
         pause = false;
         seperator.GetComponent<SpriteRenderer>().enabled = false;
-        StartCoroutine(Countdown(3));
+        StartCoroutine(Countdown(3)); 
     }
 
     void Update()
@@ -27,6 +26,7 @@ public class main : MonoBehaviour
         countdowns.text = timerText.ToString();
         PauseGame();
     }
+    // pause the game when the esc button is clicked to restart game or go to mainmenu
     private void PauseGame()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
@@ -37,16 +37,16 @@ public class main : MonoBehaviour
         {
             Time.timeScale = 0;
             seperator.gameObject.SetActive(false);
-            quit.gameObject.SetActive(true);
+            Pause.gameObject.SetActive(true);
         }
         else if (!pause)
         {
             Time.timeScale = 1;
             seperator.gameObject.SetActive(true);
-            quit.gameObject.SetActive(false);
+            Pause.gameObject.SetActive(false);
         }
     }
-
+    // function when game start the counting start from 3 to Go and then the game begins
     IEnumerator Countdown(int seconds)
     {
         int count = seconds;
@@ -60,7 +60,7 @@ public class main : MonoBehaviour
                 yield return new WaitForSeconds(1);
                 count--;
             }
-            else if( count > 0)
+            else if(count > 0)
             {
                 countdowns.text = timerText.ToString();
                 yield return new WaitForSeconds(1);
@@ -72,10 +72,12 @@ public class main : MonoBehaviour
         seperator.GetComponent<SpriteRenderer>().enabled = true;
         balls.enabled = true;
     }
+
     public void restart()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
+
     public void End(int scena)
     {
         SceneManager.LoadScene(scena);

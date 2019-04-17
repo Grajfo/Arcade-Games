@@ -19,6 +19,7 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene(scena);
     }
 
+    // check if player wants to load game and if the save file exist then load it 
     public void loadscena()
     {
         if (PlayerPrefs.GetInt("ufolv") != 0)
@@ -40,9 +41,9 @@ public class GameManager : MonoBehaviour
         tekst.text = "";
     }
 
+    //function for checking if player wants to start a new game
     public void NewGame()
     {
-
         if (PlayerPrefs.GetInt("ufolv") <= 0)
         {
             SceneManager.LoadScene(5);

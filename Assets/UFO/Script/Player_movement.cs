@@ -25,6 +25,7 @@ public class Player_movement : MonoBehaviour
 
     private void FixedUpdate()
     {
+        //check both axis for the player movement
         var vertical = Input.GetAxis("Vertical");
         var horizontal = Input.GetAxis("Horizontal");
         var movement = new Vector2(horizontal, vertical);
@@ -35,6 +36,7 @@ public class Player_movement : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        //check if player triiger gameobject pickup
         if (other.gameObject.CompareTag("Pickup"))
         {
             other.gameObject.SetActive(false);
@@ -46,6 +48,7 @@ public class Player_movement : MonoBehaviour
 
     void SetCountText()
     {
+        //get the level which the player is
         int lv = PlayerPrefs.GetInt("ufolv");
 
         countText.text = "Count: " + Count.ToString();
@@ -67,7 +70,7 @@ public class Player_movement : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.gameObject.tag == "spike" && playerWins == false)
+        if(collision.gameObject.tag == "spike" && playerWins == false) // player dies if collide with spike
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }

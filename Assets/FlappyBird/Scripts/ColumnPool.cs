@@ -17,9 +17,8 @@ public class ColumnPool : MonoBehaviour
     private float spawnXPosition = 10f;
     private int currentColumn = 0;
     
-    // Start is called before the first frame update
     void Start()
-    {
+    {   //instantiate 5 columnpools
         columns = new List<GameObject>();
         for (int i = 0; i < columnPoolSize; i++)
         {
@@ -27,11 +26,12 @@ public class ColumnPool : MonoBehaviour
         }
     }
 
-    // Update is called once per frame
     void Update()
     {
+        //check the time last spawned
         timeSinceLastSpawned += Time.deltaTime;
 
+        //position the obstacle at random position in the camera 
         if(GameControll.instance.GameOver == false && timeSinceLastSpawned >= spawnRate)
         {
             timeSinceLastSpawned = 0;

@@ -14,9 +14,5 @@ public class walls : MonoBehaviour
             s.GetComponent<SpriteRenderer>().color = Gamecontrol.instance.get_color();
             GetComponent<AudioSource>().Play();
         }
-        else if (collision.gameObject.name == "Ball" && collision.gameObject.tag == "tbwall")
-        {
-            GetComponent<SpriteRenderer>().color = Gamecontrol.instance.get_color();
-        }
     }
 }

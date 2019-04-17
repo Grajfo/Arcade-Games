@@ -16,7 +16,6 @@ public class GameControll : MonoBehaviour
     private int score = 0;
     private int Highscore;
 
-    // Start is called before the first frame update
     void Awake()
     {
         Highscore = PlayerPrefs.GetInt("highscore");
@@ -31,9 +30,8 @@ public class GameControll : MonoBehaviour
         }
     }
 
-    // Update is called once per frame
     void Update()
-    {
+    {   //if player is dead space key for loading scene and escape key for quiting the game
         if (GameOver == true && Input.GetKeyDown(KeyCode.Space))
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
@@ -46,18 +44,17 @@ public class GameControll : MonoBehaviour
     }
     public void BirdScore()
     {
-        if (GameOver)
+        if (GameOver) //gameover is true returns nothing else coutn score
         {
             return;
         }
-
         score++;
         ScoreText.text = "Score: " + score.ToString();
     }
 
     public void HighScore()
     {
-        if(score> Highscore)
+        if(score> Highscore) // check if score is higher then highscore set ne highscore
         {
             PlayerPrefs.SetInt("highscore", score);
         }
@@ -67,7 +64,6 @@ public class GameControll : MonoBehaviour
     {
         StartTxt.SetActive(false);
     }
-
 
     public void playerDies()
     {

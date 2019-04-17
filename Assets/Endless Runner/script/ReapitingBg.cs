@@ -8,9 +8,9 @@ public class ReapitingBg : MonoBehaviour
        public float EndX;
        public float startX;
 
-       // Update is called once per frame
        void Update()
        {
+        // for reapiting backgroud
            transform.Translate(Vector2.left * speed * Time.deltaTime);
 
            if(transform.position.x <= EndX)

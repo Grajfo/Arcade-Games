@@ -9,16 +9,15 @@ public class CameraMovement : MonoBehaviour
     private Vector3 OffSet ;
     // Start is called before the first frame update
     void Start()
-    {
+    { // save the index of the scene
         PlayerPrefs.SetInt("ufolv" ,SceneManager.GetActiveScene().buildIndex);
         int nekaj = PlayerPrefs.GetInt("ufolv");
-        Debug.Log(nekaj);
         OffSet = transform.position - Player.transform.position;
     }
 
     // Update is called once per frame
     void LateUpdate()
-    {
+    {  //Camera follow player 
         transform.position = Player.transform.position + OffSet;
     }
 }

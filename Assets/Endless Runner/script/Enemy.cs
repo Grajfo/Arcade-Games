@@ -21,6 +21,7 @@ public class Enemy : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        //if player hits enemy it lose his life an destroy the object it colided with
         if (other.CompareTag("Player"))
         {
             other.GetComponents<AudioSource>()[0].Play();

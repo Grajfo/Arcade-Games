@@ -24,53 +24,50 @@ public class Player : MonoBehaviour
     private float scoretime = 0;
     private float HighSc = 0;
 
-    // Update is called once per frame
-
     private void Start()
     {
         HighSc = PlayerPrefs.GetFloat("EndRunnerScore");
-        Sounds = GetComponents<AudioSource>();
-        
+        Sounds = GetComponents<AudioSource>();  
     }
-
 
     void FixedUpdate()
     {
         scoretime += Time.deltaTime;
         Scoretime.text = "Score: " + Mathf.Round(scoretime);
 
+        //transforming position to a certain point
         transform.position = Vector2.MoveTowards(transform.position, targetpos, speed * Time.deltaTime);
 
         timer -= Time.deltaTime;
         if (Input.GetKeyDown(KeyCode.UpArrow) && transform.position.y < maxHeight && timer < 0)
         { 
-            Instantiate(effect, transform.position, Quaternion.identity);
-            targetpos = new Vector2(transform.position.x, transform.position.y + Yincrement);
+            Instantiate(effect, transform.position, Quaternion.identity);// bubble animation
+            targetpos = new Vector2(transform.position.x, transform.position.y + Yincrement); //change direction of player going up
             Sounds[1].Play();
             timer = time;
         }
         if (Input.GetKeyDown(KeyCode.DownArrow) && transform.position.y > minHeight && timer < 0)
         {
-            Instantiate(effect, transform.position, Quaternion.identity);
-            targetpos = new Vector2(transform.position.x, transform.position.y - Yincrement);
+            Instantiate(effect, transform.position, Quaternion.identity);// bubble animation
+            targetpos = new Vector2(transform.position.x, transform.position.y - Yincrement);//change direction of player going down
             Sounds[1].Play();
             timer = time;
         }
     }
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (health == 2 && (other.CompareTag("Enemy")))
+        if (health == 2 && (other.CompareTag("Enemy"))) // check health of player is 2
         {
             hearts[2].gameObject.SetActive(false);
         }
-        if (health == 1 && (other.CompareTag("Enemy")))
+        else if (health == 1 && (other.CompareTag("Enemy"))) // check health of player is 1
         {
             hearts[1].gameObject.SetActive(false);
 
         }
-        if (health == 0 && (other.CompareTag("Enemy")))
+        else if (health == 0 && (other.CompareTag("Enemy"))) // // check health of player is 0
         {
-            if (scoretime > HighSc)
+            if (scoretime > HighSc) //display new high score if the player beats it
             {
                 deathsound.GetComponent<AudioSource>().Play();
                 PlayerPrefs.SetFloat("EndRunnerScore", scoretime);
@@ -81,7 +78,7 @@ public class Player : MonoBehaviour
                 Destroy(this);
                 panel.SetActive(true);
             }
-            else
+            else //display the best highscore
             {
                 deathsound.GetComponent<AudioSource>().Play();
                 hearts[0].gameObject.SetActive(false);
