@@ -18,19 +18,21 @@ public class Player : MonoBehaviour
     public GameObject effect;
     public GameObject deathsound;
     private AudioSource[] Sounds;
-    private float time = 0.1f;
-    private float timer = 0.1f;
+    private float time = 0.18f;
+    private float timer = 0.18f;
     public int health = 3;
     private float scoretime = 0;
     private float HighSc = 0;
     private Vector2 firstPressPos;
     private Vector2 secondPressPos;
     private Vector2 currentSwipe;
+    private Rigidbody2D rb;
 
     private void Start()
     {
         HighSc = PlayerPrefs.GetFloat("EndRunnerScore");
-        Sounds = GetComponents<AudioSource>();  
+        Sounds = GetComponents<AudioSource>();
+        rb = GetComponent<Rigidbody2D>();
     }
 
     void FixedUpdate()
@@ -40,7 +42,6 @@ public class Player : MonoBehaviour
 
         //transforming position to a certain point
         transform.position = Vector2.MoveTowards(transform.position, targetpos, speed * Time.deltaTime);
-
 
         timer -= Time.deltaTime;
 

@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Gamecontrol : MonoBehaviour
-{  
+{
     //singelton class for calling methods globally
     public static Gamecontrol instance;
+
 
     void Awake()
     {
@@ -18,6 +19,7 @@ public class Gamecontrol : MonoBehaviour
             Destroy(gameObject);
         }
     }
+
     // method to get a certain color
     public Color get_color()
     {
