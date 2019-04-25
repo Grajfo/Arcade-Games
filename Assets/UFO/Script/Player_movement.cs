@@ -21,16 +21,24 @@ public class Player_movement : MonoBehaviour
         rb2d = GetComponent<Rigidbody2D>();
         winText.text = "";
         SetCountText();
+        Debug.Log(Input.GetAxis("Horizontal"));
+        Debug.Log(Input.GetAxis("Vertical"));
+
     }
 
     private void FixedUpdate()
     {
         //check both axis for the player movement
-        var vertical = Input.GetAxis("Vertical");
-        var horizontal = Input.GetAxis("Horizontal");
-        var movement = new Vector2(horizontal, vertical);
-        rb2d.AddForce(movement * speed);
-      
+            var vertical = Input.GetAxis("Vertical");
+            var horizontal = Input.GetAxis("Horizontal");
+            var movement = new Vector2(horizontal, vertical);
+            rb2d.AddForce(movement * speed);
+
+
+         //   Vector2 movement2 = new Vector2(Input.acceleration.x, 0);
+         //  rb2d.AddForce(movement2 * speed);      
+
+
     }
 
 

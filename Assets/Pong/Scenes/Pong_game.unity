@@ -859,6 +859,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 80
   axis: Vertical
+  vectorx: -60.77785
 --- !u!50 &425069000
 Rigidbody2D:
   serializedVersion: 4
@@ -962,7 +963,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 425068998}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -60, y: 0, z: 0}
+  m_LocalPosition: {x: -60.77785, y: 0, z: 0}
   m_LocalScale: {x: 0.36609372, y: 0.3375, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -2952,7 +2953,7 @@ PrefabInstance:
     - target: {fileID: 41133447672831140, guid: 85938816344ea8046b9b170e79f05076,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 60
+      value: 60.77785
       objectReference: {fileID: 0}
     - target: {fileID: 41133447672831140, guid: 85938816344ea8046b9b170e79f05076,
         type: 3}
@@ -3003,6 +3004,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 41133447672831136, guid: 85938816344ea8046b9b170e79f05076,
+        type: 3}
+      propertyPath: vectorx
+      value: 60.77785
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 85938816344ea8046b9b170e79f05076, type: 3}

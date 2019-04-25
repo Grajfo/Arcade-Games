@@ -260,6 +260,7 @@ GameObject:
   - component: {fileID: 261343277}
   - component: {fileID: 261343276}
   - component: {fileID: 261343275}
+  - component: {fileID: 261343279}
   m_Layer: 0
   m_Name: Bottom
   m_TagString: tbwall
@@ -367,6 +368,27 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!50 &261343279
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 261343274}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 1
+  m_Constraints: 0
 --- !u!1 &300438099
 GameObject:
   m_ObjectHideFlags: 0
@@ -380,6 +402,7 @@ GameObject:
   - component: {fileID: 300438102}
   - component: {fileID: 300438101}
   - component: {fileID: 300438100}
+  - component: {fileID: 300438105}
   m_Layer: 0
   m_Name: Left
   m_TagString: wall
@@ -584,6 +607,27 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!50 &300438105
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 300438099}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 1
+  m_Constraints: 0
 --- !u!1 &314676486
 GameObject:
   m_ObjectHideFlags: 0
@@ -693,6 +737,7 @@ GameObject:
   - component: {fileID: 335319701}
   - component: {fileID: 335319700}
   - component: {fileID: 335319699}
+  - component: {fileID: 335319703}
   m_Layer: 0
   m_Name: Top
   m_TagString: tbwall
@@ -800,6 +845,27 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!50 &335319703
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 335319698}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 1
+  m_Constraints: 0
 --- !u!1 &335816480
 GameObject:
   m_ObjectHideFlags: 0
@@ -1103,6 +1169,7 @@ GameObject:
   - component: {fileID: 897543906}
   - component: {fileID: 897543905}
   - component: {fileID: 897543904}
+  - component: {fileID: 897543909}
   m_Layer: 0
   m_Name: Right
   m_TagString: wall
@@ -1307,6 +1374,27 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!50 &897543909
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 897543903}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 1
+  m_Constraints: 0
 --- !u!1 &938549581 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6384631509213818075, guid: 04f4b184fc71eeb4d9722809749674fe,
@@ -1939,8 +2027,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1185946945}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -60.5, y: 0, z: 0}
-  m_LocalScale: {x: 0.36609372, y: 0.3375, z: 1}
+  m_LocalPosition: {x: -60.77785, y: 0, z: 0}
+  m_LocalScale: {x: 0.3523437, y: 0.3499609, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 6
@@ -2464,7 +2552,7 @@ PrefabInstance:
     - target: {fileID: 6384631509213818078, guid: 04f4b184fc71eeb4d9722809749674fe,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 60.5
+      value: 60.77785
       objectReference: {fileID: 0}
     - target: {fileID: 6384631509213818078, guid: 04f4b184fc71eeb4d9722809749674fe,
         type: 3}
