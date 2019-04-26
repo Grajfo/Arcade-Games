@@ -2,44 +2,34 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityStandardAssets.CrossPlatformInput;
 
 public class button_move : MonoBehaviour
 {
 
-    private Rigidbody2D rb;
-    private Rigidbody2D rb2;
-    public GameObject left_rack;
-    public GameObject right_rack;
     public float speed;
-    // Start is called before the first frame update
+    private float dirY;
+    public string axis;
+    private Rigidbody2D rb;
 
-    void Start()
+    private void Start()
     {
-        // Store reference to attached Rigidbody
-        rb = left_rack.GetComponent<Rigidbody2D>();
-        rb2 = right_rack.GetComponent<Rigidbody2D>();
-
+        rb = GetComponent<Rigidbody2D>();
     }
 
-    public void OnClicked(Button button)
+    private void FixedUpdate()
     {
-        if (button.name == "up_left")
-        {
-            rb.velocity = new Vector2(0, 1) * speed;
-        }
-        else if (button.name == "down_left")
-        {
-            rb.velocity = new Vector2(0, -1) * speed;
-        }
+        dirY = CrossPlatformInputManager.GetAxis(axis);
+        rb.velocity = new Vector2(0, dirY) * speed;
+    }
 
-        if (button.name == "up_right")
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        //change color if ball touches racket
+        if (collision.gameObject.name == "Ball")
         {
-            rb2.velocity = new Vector2(0, 1) * speed;
-
-        }
-        else if (button.name == "down_right")
-        {
-            rb2.velocity = new Vector2(0, -1) * speed;
+            GetComponent<SpriteRenderer>().color = Gamecontrol.instance.get_color();
+            GetComponent<AudioSource>().Play();
 
         }
     }

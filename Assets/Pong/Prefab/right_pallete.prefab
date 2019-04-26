@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 41133447672831141}
   - component: {fileID: 41133447672831142}
   - component: {fileID: 41133447672831143}
-  - component: {fileID: 579343845472438008}
+  - component: {fileID: 6529140991958876523}
   - component: {fileID: 41133447672831163}
   m_Layer: 0
   m_Name: right_pallete
@@ -130,7 +130,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 4
---- !u!114 &579343845472438008
+--- !u!114 &6529140991958876523
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -139,10 +139,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 41133447672831137}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c496f50c3926dae4aaccbeb619756467, type: 3}
+  m_Script: {fileID: 11500000, guid: f0fb07270fbcb834ea75fc6ca42a7d4c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0
+  speed: 80
   axis: 
 --- !u!82 &41133447672831163
 AudioSource:

@@ -1238,11 +1238,6 @@ PrefabInstance:
       objectReference: {fileID: 3823635627014873664}
     - target: {fileID: 8136114418953827270, guid: 8520ada096f2e5e4091840694090efbf,
         type: 3}
-      propertyPath: Count
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 8136114418953827270, guid: 8520ada096f2e5e4091840694090efbf,
-        type: 3}
       propertyPath: quit
       value: 
       objectReference: {fileID: 955653211}

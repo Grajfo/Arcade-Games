@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityStandardAssets.CrossPlatformInput;
 
 public class move_racket : MonoBehaviour
 {
@@ -21,7 +22,7 @@ public class move_racket : MonoBehaviour
         GetComponent<Rigidbody2D>().velocity = new Vector2(0, v) * speed;
     }
 
-    
+
     void OnMouseDown()
     {
         offset = gameObject.transform.position - Camera.main.ScreenToWorldPoint(new Vector3(0.0f, Input.mousePosition.y, 0.0f));

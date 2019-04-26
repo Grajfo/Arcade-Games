@@ -30,18 +30,6 @@ public class GameControll : MonoBehaviour
         }
     }
 
-    void Update()
-    {   //if player is dead space key for loading scene and escape key for quiting the game
-        if (GameOver == true && Input.GetKeyDown(KeyCode.Space))
-        {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-        }
-
-        else if (GameOver == true && Input.GetKeyDown(KeyCode.Escape))
-        {
-            SceneManager.LoadScene(11);
-        }
-    }
     public void BirdScore()
     {
         if (GameOver) //gameover is true returns nothing else coutn score

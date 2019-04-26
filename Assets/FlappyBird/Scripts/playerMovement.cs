@@ -26,7 +26,7 @@ public class playerMovement : MonoBehaviour
         trans = GetComponent<Transform>();
         if (IsDeath == false) //check player isDeath
         {
-            if (Input.touchCount > 0) // if player clicks mouse button the game starts
+            if (Input.touchCount > 0 || Input.GetMouseButtonDown(0)) // if player clicks mouse button the game starts
             {
                 Time.timeScale = 1;
                 GameControll.instance.StartText(); 
