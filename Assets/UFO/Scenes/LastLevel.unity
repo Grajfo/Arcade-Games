@@ -1306,7 +1306,12 @@ PrefabInstance:
     - target: {fileID: 2121982451723997303, guid: a8278216a6ce6bc4cb9dd12c73ec4a8d,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: LastLevel
+      value: scena
+      objectReference: {fileID: 0}
+    - target: {fileID: 2121982451723997303, guid: a8278216a6ce6bc4cb9dd12c73ec4a8d,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_IntArgument
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 1740586312, guid: a8278216a6ce6bc4cb9dd12c73ec4a8d, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
