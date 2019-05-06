@@ -1,10 +1,13 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Menu_ball : MonoBehaviour
 {
     public int speed;
+    public Text title;
+    public Text button1, button2, button3;
 
     private void Start()
     {
@@ -23,17 +26,6 @@ public class Menu_ball : MonoBehaviour
         return (ballPos.y - racketPos.y) / racketHeight;
     }
 
-    // change color 
-    private Color get_color()
-    {
-        Color Displayer = new Color(
-          Random.Range(0f, 1f),
-          Random.Range(0f, 1f),
-          Random.Range(0f, 1f)
-          );
-        return Displayer;
-    }
-
     private void OnCollisionEnter2D(Collision2D collision)
     {
         // for detecting ball with left racket and adding velocity to ball 
@@ -45,10 +37,15 @@ public class Menu_ball : MonoBehaviour
 
             Vector2 dir = new Vector2(1, y).normalized;
             GetComponent<Rigidbody2D>().velocity = dir * speed;
-            GetComponent<SpriteRenderer>().color = get_color();
+            GetComponent<SpriteRenderer>().color = Gamecontrol.instance.get_color();
+            title.color = Gamecontrol.instance.get_color();
+            button1.color = Gamecontrol.instance.get_color(); 
+            button2.color = Gamecontrol.instance.get_color(); 
+            button3.color = Gamecontrol.instance.get_color();
         }
 
         // for detecting ball with right racket and adding velocity to ball 
+
         else if (collision.gameObject.name == "right_racket")
         {
             float y = hitFactor(transform.position,
@@ -57,7 +54,11 @@ public class Menu_ball : MonoBehaviour
 
             Vector2 dir = new Vector2(-1, y).normalized;
             GetComponent<Rigidbody2D>().velocity = dir * speed;
-            GetComponent<SpriteRenderer>().color = get_color();
+            GetComponent<SpriteRenderer>().color = Gamecontrol.instance.get_color();
+            title.color = Gamecontrol.instance.get_color();
+            button1.color = Gamecontrol.instance.get_color();
+            button2.color = Gamecontrol.instance.get_color(); 
+            button3.color = Gamecontrol.instance.get_color();
         }
     }
 }
