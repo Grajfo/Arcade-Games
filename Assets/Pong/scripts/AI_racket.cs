@@ -24,15 +24,13 @@ public class AI_racket : MonoBehaviour
         framecount++;
         if (framecount == 3)
         {
-            var targ = target.position;
+            Vector3 targ = target.position;
+            Vector3 check = transform.position;
 
-            //checks that racket doesnt go througth wall
-
-            var check = transform.position;
-            Vector2 v2 = new Vector2(60.77785f, check.y);
-            Vector2 t2 = new Vector2(60.77785f, targ.y);
-            var nekaj = Vector2.MoveTowards(v2, t2, speed * Time.deltaTime);
-            rb.MovePosition(nekaj);
+            Vector2 v2 = new Vector2(rb.position.x, check.y);
+            Vector2 t2 = new Vector2(rb.position.x, targ.y);
+            Vector2 postion = Vector2.MoveTowards(v2, t2, speed * Time.deltaTime);
+            rb.MovePosition(postion);
             framecount = 0;
         }
     }
